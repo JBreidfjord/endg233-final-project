@@ -1,4001 +1,2867 @@
-artist,scrobbles,user
-Rush,15363,JBreidfjord
-Billy Joel,9482,JBreidfjord
-King Gizzard & The Lizard Wizard,8367,JBreidfjord
-The Beatles,5640,JBreidfjord
-Yes,4183,JBreidfjord
-Queens of the Stone Age,3919,JBreidfjord
-Queen,3849,JBreidfjord
-Arctic Monkeys,3093,JBreidfjord
-Led Zeppelin,2979,JBreidfjord
-ABBA,2966,JBreidfjord
-Arcade Fire,2906,JBreidfjord
-Carly Rae Jepsen,2616,JBreidfjord
-twenty one pilots,2369,JBreidfjord
-Mayday Parade,2303,JBreidfjord
-Supertramp,1740,JBreidfjord
-Blue Öyster Cult,1586,JBreidfjord
-David Bowie,1475,JBreidfjord
-Foo Fighters,1410,JBreidfjord
-The 1975,1297,JBreidfjord
-Royal Blood,1250,JBreidfjord
-Vampire Weekend,1180,JBreidfjord
-The Beach Boys,1173,JBreidfjord
-Parquet Courts,1113,JBreidfjord
-Simon & Garfunkel,931,JBreidfjord
-The Cars,931,JBreidfjord
-Radiohead,927,JBreidfjord
-The Zombies,915,JBreidfjord
-Catfish and the Bottlemen,912,JBreidfjord
-Bring Me the Horizon,865,JBreidfjord
-Tom Petty and The Heartbreakers,825,JBreidfjord
-Talking Heads,768,JBreidfjord
-Boston,767,JBreidfjord
-The Mamas & the Papas,760,JBreidfjord
-Black Sabbath,666,JBreidfjord
-Love,664,JBreidfjord
-Blossoms,663,JBreidfjord
-The Smiths,649,JBreidfjord
-Mac DeMarco,629,JBreidfjord
-Fleetwood Mac,616,JBreidfjord
-Styx,611,JBreidfjord
-Broken Bells,567,JBreidfjord
-Electric Light Orchestra,482,JBreidfjord
-Greta Van Fleet,480,JBreidfjord
-LCD Soundsystem,466,JBreidfjord
-The Mars Volta,465,JBreidfjord
-Steely Dan,451,JBreidfjord
-Thee Oh Sees,411,JBreidfjord
-Alex Cameron,402,JBreidfjord
-Kansas,368,JBreidfjord
-Nick Drake,306,JBreidfjord
-Pipe-Eye,301,JBreidfjord
-The Black Keys,285,JBreidfjord
-CHON,277,JBreidfjord
-The Orb,276,JBreidfjord
-Billy Talent,265,JBreidfjord
-King Crimson,259,JBreidfjord
-Metallica,253,JBreidfjord
-The Police,243,JBreidfjord
-The Standells,242,JBreidfjord
-The Doors,241,JBreidfjord
-Stonefield,237,JBreidfjord
-Billie Eilish,228,JBreidfjord
-Ed Sheeran,216,JBreidfjord
-Caravan,214,JBreidfjord
-a-ha,206,JBreidfjord
-Townes Van Zandt,197,JBreidfjord
-Erickson,194,JBreidfjord
-Beans,187,JBreidfjord
-Andy Shauf,169,JBreidfjord
-Avenged Sevenfold,167,JBreidfjord
-Paul Simon,160,JBreidfjord
-Relient K,159,JBreidfjord
-Tom Petty,158,JBreidfjord
-Fleet Foxes,155,JBreidfjord
-Yellow Magic Orchestra,151,JBreidfjord
-Asia,149,JBreidfjord
-Babe Rainbow,146,JBreidfjord
-Omni,145,JBreidfjord
-Joni Mitchell,140,JBreidfjord
-The Alan Parsons Project,139,JBreidfjord
-Return to Forever,135,JBreidfjord
-The Dave Brubeck Quartet,135,JBreidfjord
-Imagine Dragons,127,JBreidfjord
-Toto,124,JBreidfjord
-Ariana Grande,117,JBreidfjord
-Post Animal,116,JBreidfjord
-Dean Friedman,115,JBreidfjord
-Ghost,115,JBreidfjord
-Genesis,110,JBreidfjord
-Bob Dylan,104,JBreidfjord
-Booker-T,103,JBreidfjord
-Halloweens,103,JBreidfjord
-Van Halen,103,JBreidfjord
-Pink Floyd,101,JBreidfjord
-Hozier,99,JBreidfjord
-Levitation Room,98,JBreidfjord
-The Clash,97,JBreidfjord
-Camel,88,JBreidfjord
-Snail Mail,88,JBreidfjord
-Journey,87,JBreidfjord
-Animal Collective,84,JBreidfjord
-My Chemical Romance,84,JBreidfjord
-The Strokes,84,JBreidfjord
-Slift,81,JBreidfjord
-Wand,81,JBreidfjord
-Red Hot Chili Peppers,80,JBreidfjord
-Tender,80,JBreidfjord
-Charles Manson,77,JBreidfjord
-Creedence Clearwater Revival,77,JBreidfjord
-The Kinks,77,JBreidfjord
-"Crosby, Stills & Nash",76,JBreidfjord
-Elton John,76,JBreidfjord
-Sam Smith,75,JBreidfjord
-Tame Impala,73,JBreidfjord
-Alice Phoebe Lou,72,JBreidfjord
-Bruce Springsteen,69,JBreidfjord
-Lolo Zouaï,68,JBreidfjord
-Paul McCartney,67,JBreidfjord
-St John,67,JBreidfjord
-Kate Bush,63,JBreidfjord
-Yusuf,60,JBreidfjord
-Lorde,59,JBreidfjord
-Vinyl Theatre,59,JBreidfjord
-Selena Gomez,58,JBreidfjord
-Anderson Bruford Wakeman Howe,57,JBreidfjord
-Sugar Candy Mountain,57,JBreidfjord
-The Turtles,57,JBreidfjord
-Best Coast,56,JBreidfjord
-Dream Theater,56,JBreidfjord
-Frankie and the Witch Fingers,56,JBreidfjord
-Van Morrison,54,JBreidfjord
-Hall,52,JBreidfjord
-Beastie Boys,51,JBreidfjord
-Beck,51,JBreidfjord
-Daniel Johnston,50,JBreidfjord
-Television,49,JBreidfjord
-Hans Zimmer,48,JBreidfjord
-Angel Olsen,46,JBreidfjord
-"Crosby, Stills, Nash & Young",46,JBreidfjord
-Frankie Valli & the Four Seasons,46,JBreidfjord
-Billy Idol,45,JBreidfjord
-Kendrick Lamar,44,JBreidfjord
-"Peter, Paul & Mary",44,JBreidfjord
-Phoebe Bridgers,44,JBreidfjord
-The Knife,44,JBreidfjord
-Tori Kelly,44,JBreidfjord
-Hall & Oates,43,JBreidfjord
-Sweet,42,JBreidfjord
-Thelonious Monk,42,JBreidfjord
-Belle and Sebastian,41,JBreidfjord
-Volkmar Andreae,41,JBreidfjord
-MGMT,40,JBreidfjord
-Herbie Hancock,39,JBreidfjord
-of Montreal,39,JBreidfjord
-Can,38,JBreidfjord
-Loverboy,38,JBreidfjord
-The Fratellis,38,JBreidfjord
-Christopher Larkin,37,JBreidfjord
-Foreigner,37,JBreidfjord
-Prince,37,JBreidfjord
-Sufjan Stevens,37,JBreidfjord
-The Who,37,JBreidfjord
-Otis Redding,36,JBreidfjord
-Dean Martin,35,JBreidfjord
-DragonForce,35,JBreidfjord
-Rick Springfield,35,JBreidfjord
-Bob Seger,34,JBreidfjord
-Michael Jackson,34,JBreidfjord
-Fuzz,32,JBreidfjord
-Jim Croce,32,JBreidfjord
-Tempesst,32,JBreidfjord
-The Outfield,32,JBreidfjord
-$uicideboy$,31,JBreidfjord
-Aurora,31,JBreidfjord
-Mild High Club,31,JBreidfjord
-The Chainsmokers,31,JBreidfjord
-Fats Waller,30,JBreidfjord
-Moondog,30,JBreidfjord
-StarBenders,30,JBreidfjord
-Beach House,29,JBreidfjord
-John Denver,29,JBreidfjord
-Ralph,29,JBreidfjord
-Steve Miller Band,29,JBreidfjord
-Foster the People,28,JBreidfjord
-Cage the Elephant,27,JBreidfjord
-Fugazi,27,JBreidfjord
-Pyotr Ilyich Tchaikovsky,27,JBreidfjord
-The Association,27,JBreidfjord
-Father John Misty,26,JBreidfjord
-James Taylor,26,JBreidfjord
-Lord Huron,26,JBreidfjord
-Real Estate,26,JBreidfjord
-Soccer Mommy,26,JBreidfjord
-George Harrison,25,JBreidfjord
-Iceage,25,JBreidfjord
-Neil Young,25,JBreidfjord
-Stephen Stills,25,JBreidfjord
-AC/DC,24,JBreidfjord
-alt-J,24,JBreidfjord
-Bones,24,JBreidfjord
-John Mellencamp,24,JBreidfjord
-OneRepublic,24,JBreidfjord
-The Stampeders,24,JBreidfjord
-Bruno Mars,23,JBreidfjord
-Faces,23,JBreidfjord
-Grizzly Bear,23,JBreidfjord
-Kenny Loggins,23,JBreidfjord
-Psychedelic Porn Crumpets,23,JBreidfjord
-The Monkees,23,JBreidfjord
-The Velvet Underground,23,JBreidfjord
-Tool,23,JBreidfjord
-Bloodhound Gang,22,JBreidfjord
-Cream,22,JBreidfjord
-Dexys Midnight Runners,22,JBreidfjord
-Eagles,22,JBreidfjord
-Elvis Presley,22,JBreidfjord
-MF DOOM,22,JBreidfjord
-The Cure,22,JBreidfjord
-Thrice,22,JBreidfjord
-Bee Gees,21,JBreidfjord
-CHVRCHES,21,JBreidfjord
-Coldplay,21,JBreidfjord
-America,20,JBreidfjord
-Bill Withers,20,JBreidfjord
-Drake,20,JBreidfjord
-Frank Sinatra,20,JBreidfjord
-Green Day,20,JBreidfjord
-Marvin Gaye,20,JBreidfjord
-Rod Stewart,20,JBreidfjord
-U.S. Girls,20,JBreidfjord
-13th Floor Elevators,19,JBreidfjord
-Kiss,19,JBreidfjord
-Stevie Wonder,19,JBreidfjord
-Ty Segall,19,JBreidfjord
-Crumb,18,JBreidfjord
-Donnie Iris,18,JBreidfjord
-Squid,18,JBreidfjord
-The Dear Hunter,18,JBreidfjord
-The Murlocs,18,JBreidfjord
-The Pentangle,18,JBreidfjord
-Frank Ocean,17,JBreidfjord
-Haircut 100,17,JBreidfjord
-Heart,17,JBreidfjord
-Poison,17,JBreidfjord
-Redbone,17,JBreidfjord
-The Killers,17,JBreidfjord
-The Yardbirds,17,JBreidfjord
-Thin Lizzy,17,JBreidfjord
-White Lies,17,JBreidfjord
-Bachman-Turner Overdrive,15,JBreidfjord
-Devo,15,JBreidfjord
-Eric Johnson,15,JBreidfjord
-Funkadelic,15,JBreidfjord
-Guns N' Roses,15,JBreidfjord
-Kikagaku Moyo,15,JBreidfjord
-Magic Man,15,JBreidfjord
-The Doobie Brothers,15,JBreidfjord
-The Four Tops,15,JBreidfjord
-The J. Geils Band,15,JBreidfjord
-American Football,14,JBreidfjord
-Bon Jovi,14,JBreidfjord
-Cheap Trick,14,JBreidfjord
-Chet Baker,14,JBreidfjord
-Donovan,14,JBreidfjord
-Jon Bellion,14,JBreidfjord
-Quicksand,14,JBreidfjord
-Sia,14,JBreidfjord
-The Human League,14,JBreidfjord
-Barcelona,13,JBreidfjord
-Deep Purple,13,JBreidfjord
-Duran Duran,13,JBreidfjord
-Golden Earring,13,JBreidfjord
-Harry Nilsson,13,JBreidfjord
-Norman Greenbaum,13,JBreidfjord
-Oasis,13,JBreidfjord
-Sniff 'n' the Tears,13,JBreidfjord
-Tears for Fears,13,JBreidfjord
-The Neighbourhood,13,JBreidfjord
-The Psychedelic Furs,13,JBreidfjord
-The Voidz,13,JBreidfjord
-Unknown Mortal Orchestra,13,JBreidfjord
-...And You Will Know Us by the Trail of Dead,12,JBreidfjord
-Blue Cheer,12,JBreidfjord
-Deerhunter,12,JBreidfjord
-Deniece Williams,12,JBreidfjord
-Free,12,JBreidfjord
-Gentle Giant,12,JBreidfjord
-George Michael,12,JBreidfjord
-Joy Division,12,JBreidfjord
-Lana Del Rey,12,JBreidfjord
-Men at Work,12,JBreidfjord
-Mount Eerie,12,JBreidfjord
-Phil Collins,12,JBreidfjord
-Primus,12,JBreidfjord
-Rainbow,12,JBreidfjord
-Run the Jewels,12,JBreidfjord
-Rupert Holmes,12,JBreidfjord
-Sigur Rós,12,JBreidfjord
-Slowdive,12,JBreidfjord
-Status Quo,12,JBreidfjord
-T. Rex,12,JBreidfjord
-The Jackson 5,12,JBreidfjord
-The Louvin Brothers,12,JBreidfjord
-Ultimate Spinach,12,JBreidfjord
-Vince Guaraldi Trio,12,JBreidfjord
-10cc,11,JBreidfjord
-Beach Fossils,11,JBreidfjord
-Cavs,11,JBreidfjord
-Cotton Jones,11,JBreidfjord
-Death from Above 1979,11,JBreidfjord
-Declan McKenna,11,JBreidfjord
-"Emerson, Lake & Palmer",11,JBreidfjord
-Frank Zappa,11,JBreidfjord
-Grapetooth,11,JBreidfjord
-Grover Anderson,11,JBreidfjord
-Iron Maiden,11,JBreidfjord
-Kurt Vile,11,JBreidfjord
-Louis Prima,11,JBreidfjord
-Madvillain,11,JBreidfjord
-Miles Davis,11,JBreidfjord
-Neil Diamond,11,JBreidfjord
-Orions Belte,11,JBreidfjord
-Quiet Riot,11,JBreidfjord
-Saint Motel,11,JBreidfjord
-The B-52's,11,JBreidfjord
-The Supremes,11,JBreidfjord
-Todd Rundgren,11,JBreidfjord
-Warren Zevon,11,JBreidfjord
-AJR,10,JBreidfjord
-Alex Lahey,10,JBreidfjord
-Aly & AJ,10,JBreidfjord
-Aphex Twin,10,JBreidfjord
-Badfinger,10,JBreidfjord
-Chuck Berry,10,JBreidfjord
-Country Joe & The Fish,10,JBreidfjord
-Deerhoof,10,JBreidfjord
-Eddie Money,10,JBreidfjord
-Foxygen,10,JBreidfjord
-Jethro Tull,10,JBreidfjord
-Joe Walsh,10,JBreidfjord
-Kacey Musgraves,10,JBreidfjord
-Kings of Leon,10,JBreidfjord
-Leonard Cohen,10,JBreidfjord
-Manfred Mann's Earth Band,10,JBreidfjord
-Michael Bublé,10,JBreidfjord
-Mountain,10,JBreidfjord
-My Bloody Valentine,10,JBreidfjord
-Nathaniel Rateliff & the Night Sweats,10,JBreidfjord
-Pond,10,JBreidfjord
-Simple Minds,10,JBreidfjord
-Smash Mouth,10,JBreidfjord
-The Buggles,10,JBreidfjord
-The Tallest Man on Earth,10,JBreidfjord
-Alex Crispin,9,JBreidfjord
-Andrew Bird,9,JBreidfjord
-Ariel Pink,9,JBreidfjord
-Björk,9,JBreidfjord
-Blue Swede,9,JBreidfjord
-David Peacock,9,JBreidfjord
-Depeche Mode,9,JBreidfjord
-Elliott Smith,9,JBreidfjord
-Elvis Costello & The Attractions,9,JBreidfjord
-Fats Domino,9,JBreidfjord
-Felt,9,JBreidfjord
-Henry Mancini,9,JBreidfjord
-Julien Baker,9,JBreidfjord
-Mike Posner,9,JBreidfjord
-Minor Threat,9,JBreidfjord
-Moaning Lisa,9,JBreidfjord
-Mole Corrison,9,JBreidfjord
-Mötley Crüe,9,JBreidfjord
-Pentatonix,9,JBreidfjord
-Sam Roberts,9,JBreidfjord
-The Byrds,9,JBreidfjord
-The Romantics,9,JBreidfjord
-U2,9,JBreidfjord
-Bon Iver,8,JBreidfjord
-Bryan Adams,8,JBreidfjord
-Dave Edmunds,8,JBreidfjord
-Dire Straits,8,JBreidfjord
-Huey Lewis & The News,8,JBreidfjord
-Louis Hardin,8,JBreidfjord
-Osees,8,JBreidfjord
-Strap,8,JBreidfjord
-The War on Drugs,8,JBreidfjord
-"Tyler, the Creator",8,JBreidfjord
-VeggieTales,8,JBreidfjord
-Wham!,8,JBreidfjord
-Wild Cherry,8,JBreidfjord
-Bad Company,7,JBreidfjord
-Blondie,7,JBreidfjord
-Chaz Bundick Meets The Mattson 2,7,JBreidfjord
-Dumbo Gets Mad,7,JBreidfjord
-Elvin Bishop,7,JBreidfjord
-Eric Clapton,7,JBreidfjord
-Fitz and the Tantrums,7,JBreidfjord
-Foals,7,JBreidfjord
-Frédéric Chopin,7,JBreidfjord
-Future Islands,7,JBreidfjord
-Gary Numan,7,JBreidfjord
-Ghostemane,7,JBreidfjord
-Gordon Lightfoot,7,JBreidfjord
-Half Moon Run,7,JBreidfjord
-Iron & Wine,7,JBreidfjord
-King Tuff,7,JBreidfjord
-Loudon Wainwright III,7,JBreidfjord
-Matthew Wilder,7,JBreidfjord
-Michael Cera,7,JBreidfjord
-Naked Eyes,7,JBreidfjord
-Nancy Sinatra,7,JBreidfjord
-REO Speedwagon,7,JBreidfjord
-Starship,7,JBreidfjord
-The Moody Blues,7,JBreidfjord
-The Ocean,7,JBreidfjord
-The Protomen,7,JBreidfjord
-The Rolling Stones,7,JBreidfjord
-The Stooges,7,JBreidfjord
-The Weeknd,7,JBreidfjord
-Violent Femmes,7,JBreidfjord
-Weezer,7,JBreidfjord
-White Reaper,7,JBreidfjord
-Alice Cooper,6,JBreidfjord
-Bass Drum of Death,6,JBreidfjord
-Bastille,6,JBreidfjord
-Calvin Harris,6,JBreidfjord
-Camille Saint-Saëns,6,JBreidfjord
-Captain Beefheart & His Magic Band,6,JBreidfjord
-Carole King,6,JBreidfjord
-Compulsive Gamblers,6,JBreidfjord
-Cursive,6,JBreidfjord
-Don Henley,6,JBreidfjord
-Drugdealer,6,JBreidfjord
-Flat Worms,6,JBreidfjord
-Grand Funk Railroad,6,JBreidfjord
-Haley Heynderickx,6,JBreidfjord
-Hatchie,6,JBreidfjord
-Jimi Hendrix,6,JBreidfjord
-Kristofer Maddigan,6,JBreidfjord
-Lit,6,JBreidfjord
-Macklemore & Ryan Lewis,6,JBreidfjord
-Metric,6,JBreidfjord
-Moses Gunn Collective,6,JBreidfjord
-OutKast,6,JBreidfjord
-Phillip Larue,6,JBreidfjord
-Rihanna,6,JBreidfjord
-Snarky Puppy,6,JBreidfjord
-Temples,6,JBreidfjord
-The Go-Go's,6,JBreidfjord
-The Harmaleighs,6,JBreidfjord
-The Lovin' Spoonful,6,JBreidfjord
-The Moldy Peaches,6,JBreidfjord
-The Smashing Pumpkins,6,JBreidfjord
-The Temptations,6,JBreidfjord
-The Tragically Hip,6,JBreidfjord
-Tigers in the Sky,6,JBreidfjord
-Tom Robinson Band,6,JBreidfjord
-Trooper,6,JBreidfjord
-Twisted Sister,6,JBreidfjord
-UFO,6,JBreidfjord
-Unwound,6,JBreidfjord
-Van der Graaf Generator,6,JBreidfjord
-Wolfmother,6,JBreidfjord
-A Flock of Seagulls,5,JBreidfjord
-Allah-Las,5,JBreidfjord
-Beach Bunny,5,JBreidfjord
-Benjamin Britten,5,JBreidfjord
-Billy Squier,5,JBreidfjord
-Boards of Canada,5,JBreidfjord
-Bruce Cockburn,5,JBreidfjord
-Collective Soul,5,JBreidfjord
-Def Leppard,5,JBreidfjord
-Derek and the Dominos,5,JBreidfjord
-Dmitri Shostakovich,5,JBreidfjord
-DNCE,5,JBreidfjord
-"Earth, Wind & Fire",5,JBreidfjord
-Edward Sharpe & The Magnetic Zeros,5,JBreidfjord
-Fela Kuti,5,JBreidfjord
-First Aid Kit,5,JBreidfjord
-Florence + the Machine,5,JBreidfjord
-George Martin,5,JBreidfjord
-Goodbye June,5,JBreidfjord
-Grateful Dead,5,JBreidfjord
-Ike & Tina Turner,5,JBreidfjord
-Insecure Men,5,JBreidfjord
-Interpol,5,JBreidfjord
-James Bay,5,JBreidfjord
-James Colt,5,JBreidfjord
-John Bratton,5,JBreidfjord
-Johnny Cash,5,JBreidfjord
-Justin Bieber,5,JBreidfjord
-Kanye West,5,JBreidfjord
-Kyuss,5,JBreidfjord
-Lucy Dacus,5,JBreidfjord
-Mink Mussel Creek,5,JBreidfjord
-Ocean Alley,5,JBreidfjord
-Pouya,5,JBreidfjord
-Sagittarius,5,JBreidfjord
-Steam Powered Giraffe,5,JBreidfjord
-Taylor Berrett,5,JBreidfjord
-The Animals,5,JBreidfjord
-The Black Jets,5,JBreidfjord
-The Decemberists,5,JBreidfjord
-The Lumineers,5,JBreidfjord
-The Seeds,5,JBreidfjord
-The Shins,5,JBreidfjord
-Twain,5,JBreidfjord
-Watsky,5,JBreidfjord
-Yung Gravy,5,JBreidfjord
-April Wine,4,JBreidfjord
-Barns Courtney,4,JBreidfjord
-black midi,4,JBreidfjord
-Bleachers,4,JBreidfjord
-blink-182,4,JBreidfjord
-"Blood, Sweat & Tears",4,JBreidfjord
-Caribou,4,JBreidfjord
-Charli XCX,4,JBreidfjord
-Charlie Puth,4,JBreidfjord
-Cher,4,JBreidfjord
-Chicago,4,JBreidfjord
-Chris Isaak,4,JBreidfjord
-Coin,4,JBreidfjord
-Corey Hart,4,JBreidfjord
-Del Shannon,4,JBreidfjord
-Eagles of Death Metal,4,JBreidfjord
-Eliza & The Delusionals,4,JBreidfjord
-Fairport Convention,4,JBreidfjord
-Fat White Family,4,JBreidfjord
-Franz Ferdinand,4,JBreidfjord
-Gino Vannelli,4,JBreidfjord
-Glaxo Babies,4,JBreidfjord
-Gregory Alan Isakov,4,JBreidfjord
-Grimes,4,JBreidfjord
-Hounds,4,JBreidfjord
-Idles,4,JBreidfjord
-INXS,4,JBreidfjord
-Jefferson Airplane,4,JBreidfjord
-Jocelyn Alice,4,JBreidfjord
-John Lennon,4,JBreidfjord
-John Prine,4,JBreidfjord
-Julien Chang,4,JBreidfjord
-La Dispute,4,JBreidfjord
-"Lipps, Inc.",4,JBreidfjord
-Ludacris,4,JBreidfjord
-Måneskin,4,JBreidfjord
-Martha Reeves & The Vandellas,4,JBreidfjord
-Nelson Riddle,4,JBreidfjord
-O Terno,4,JBreidfjord
-OCS,4,JBreidfjord
-Of Monsters and Men,4,JBreidfjord
-One Direction,4,JBreidfjord
-Randy Newman,4,JBreidfjord
-Rick Wakeman,4,JBreidfjord
-Rina Sawayama,4,JBreidfjord
-Santana,4,JBreidfjord
-Scott McKenzie,4,JBreidfjord
-Slow Meadow,4,JBreidfjord
-Soft Machine,4,JBreidfjord
-Stephen Bishop,4,JBreidfjord
-Steve Winwood,4,JBreidfjord
-Ted Nugent,4,JBreidfjord
-The 5th Dimension,4,JBreidfjord
-The Band,4,JBreidfjord
-The Cab,4,JBreidfjord
-The Districts,4,JBreidfjord
-The Knack,4,JBreidfjord
-The Last Shadow Puppets,4,JBreidfjord
-The Modern Lovers,4,JBreidfjord
-The Pretty Things,4,JBreidfjord
-Them Crooked Vultures,4,JBreidfjord
-Traffic,4,JBreidfjord
-Trudy and the Romance,4,JBreidfjord
-Us The Duo,4,JBreidfjord
-Vanilla Ice,4,JBreidfjord
-Wings,4,JBreidfjord
-Wolfgang Amadeus Mozart,4,JBreidfjord
-Արամ Խաչատրյան,4,JBreidfjord
-松任谷由実,4,JBreidfjord
-Ace Frehley,3,JBreidfjord
-Al Stewart,3,JBreidfjord
-Allie X,3,JBreidfjord
-Alvvays,3,JBreidfjord
-Ambrosia,3,JBreidfjord
-Anne Murray,3,JBreidfjord
-At the Drive-In,3,JBreidfjord
-Attawalpa,3,JBreidfjord
-Barry Manilow,3,JBreidfjord
-Bear McCreary,3,JBreidfjord
-Big Thief,3,JBreidfjord
-Blonde Redhead,3,JBreidfjord
-Blur,3,JBreidfjord
-Bob Marley & The Wailers,3,JBreidfjord
-Booker T. & the MG's,3,JBreidfjord
-Brian Wilson,3,JBreidfjord
-Burial,3,JBreidfjord
-Cake,3,JBreidfjord
-Canned Heat,3,JBreidfjord
-Cass Elliot,3,JBreidfjord
-Chelsea Wolfe,3,JBreidfjord
-Chet Atkins,3,JBreidfjord
-Chicano Batman,3,JBreidfjord
-Clare Maguire,3,JBreidfjord
-Corn on My Dinner Plate,3,JBreidfjord
-Counting Crows,3,JBreidfjord
-Cryptopsy,3,JBreidfjord
-Curtis Mayfield,3,JBreidfjord
-Death Cab for Cutie,3,JBreidfjord
-Des Rocs,3,JBreidfjord
-Diana Ross and the Supremes,3,JBreidfjord
-DIIV,3,JBreidfjord
-Dr. Dog,3,JBreidfjord
-Eels,3,JBreidfjord
-Europe,3,JBreidfjord
-Felix Mendelssohn,3,JBreidfjord
-fkbambam,3,JBreidfjord
-Frankie Valli,3,JBreidfjord
-Fruit Bats,3,JBreidfjord
-Grim Salvo,3,JBreidfjord
-Hammerhedd,3,JBreidfjord
-Hobo Johnson,3,JBreidfjord
-James Newton Howard,3,JBreidfjord
-Jason Derülo,3,JBreidfjord
-Jefferson Starship,3,JBreidfjord
-Jess Glynne,3,JBreidfjord
-John Coltrane,3,JBreidfjord
-John Hartford,3,JBreidfjord
-Jonas Blue,3,JBreidfjord
-Jonathan Wilson,3,JBreidfjord
-Judah & the Lion,3,JBreidfjord
-Julia Holter,3,JBreidfjord
-Khalid,3,JBreidfjord
-Kool & The Gang,3,JBreidfjord
-Krokus,3,JBreidfjord
-Labrinth,3,JBreidfjord
-Les Claypool And The Holy Mackerel,3,JBreidfjord
-Lola Marsh,3,JBreidfjord
-Los Scallywaggs,3,JBreidfjord
-Ludovico Einaudi,3,JBreidfjord
-Mac Miller,3,JBreidfjord
-Mahavishnu Orchestra,3,JBreidfjord
-Mark Ronson,3,JBreidfjord
-Martha and the Muffins,3,JBreidfjord
-Mary Wells,3,JBreidfjord
-Men Without Hats,3,JBreidfjord
-Michael Giacchino,3,JBreidfjord
-Mildlife,3,JBreidfjord
-Misfits,3,JBreidfjord
-MØ,3,JBreidfjord
-Montrose,3,JBreidfjord
-Muse,3,JBreidfjord
-New Order,3,JBreidfjord
-Nico,3,JBreidfjord
-Oliver Tree,3,JBreidfjord
-Ozzy Osbourne,3,JBreidfjord
-Paul Anka,3,JBreidfjord
-Phoenix,3,JBreidfjord
-Reel Big Fish,3,JBreidfjord
-Renata Zeiguer,3,JBreidfjord
-Ride,3,JBreidfjord
-Robert DeLong,3,JBreidfjord
-Ron Gallo,3,JBreidfjord
-Ruen Brothers,3,JBreidfjord
-Seals & Crofts,3,JBreidfjord
-Sergei Prokofiev,3,JBreidfjord
-Sharon Van Etten,3,JBreidfjord
-Slow Pulp,3,JBreidfjord
-Sonic Youth,3,JBreidfjord
-Stamen,3,JBreidfjord
-Swim Mountain,3,JBreidfjord
-Tee Grizzley,3,JBreidfjord
-Tegan and Sara,3,JBreidfjord
-The All-American Rejects,3,JBreidfjord
-The Allman Brothers Band,3,JBreidfjord
-The Bobby Fuller Four,3,JBreidfjord
-The Damned,3,JBreidfjord
-The Dead Pirates,3,JBreidfjord
-The Effends,3,JBreidfjord
-The Everly Brothers,3,JBreidfjord
-The Jamaican Reggae Band,3,JBreidfjord
-The Lounge Lizards,3,JBreidfjord
-The Nice,3,JBreidfjord
-The Nude Party,3,JBreidfjord
-The Searchers,3,JBreidfjord
-The West Coast Pop Art Experimental Band,3,JBreidfjord
-Tiësto,3,JBreidfjord
-Trippy Tha Kid,3,JBreidfjord
-TV Girl,3,JBreidfjord
-Uriah Heep,3,JBreidfjord
-Whitney,3,JBreidfjord
-Will Smith,3,JBreidfjord
-Young the Giant,3,JBreidfjord
-.38 Special,2,JBreidfjord
-49th Parallel,2,JBreidfjord
-83hades,2,JBreidfjord
-A Great Big World,2,JBreidfjord
-Aerosmith,2,JBreidfjord
-Aesop Rock,2,JBreidfjord
-Afourteen,2,JBreidfjord
-Al Wilson,2,JBreidfjord
-Alabama Shakes,2,JBreidfjord
-Alex Turner,2,JBreidfjord
-Alexander Rybak,2,JBreidfjord
-Allan Holdsworth,2,JBreidfjord
-Anekdoten,2,JBreidfjord
-Antarctigo Vespucci,2,JBreidfjord
-Antemasque,2,JBreidfjord
-Anthony Moore,2,JBreidfjord
-Aphrodite's Child,2,JBreidfjord
-Austyn Gillette,2,JBreidfjord
-Bad Suns,2,JBreidfjord
-beabadoobee,2,JBreidfjord
-Big K.R.I.T.,2,JBreidfjord
-Big L,2,JBreidfjord
-Bill Bruford,2,JBreidfjord
-Bill Haley & His Comets,2,JBreidfjord
-Bill Walton,2,JBreidfjord
-Billy Childish,2,JBreidfjord
-Billy Marchiafava,2,JBreidfjord
-Birdtalker,2,JBreidfjord
-Birdy,2,JBreidfjord
-Black Mountain,2,JBreidfjord
-Black Pumas,2,JBreidfjord
-Bohannon,2,JBreidfjord
-Bombay Bicycle Club,2,JBreidfjord
-Boz Scaggs,2,JBreidfjord
-Bruno Sanders,2,JBreidfjord
-Buddy Holly,2,JBreidfjord
-Camera Obscura,2,JBreidfjord
-Carl Orff,2,JBreidfjord
-Carly Simon,2,JBreidfjord
-Carpenters,2,JBreidfjord
-Chantel Jeffries,2,JBreidfjord
-chetta,2,JBreidfjord
-Childish Gambino,2,JBreidfjord
-Chilliwack,2,JBreidfjord
-Chris Brown,2,JBreidfjord
-Christian Sinding,2,JBreidfjord
-Cocteau Twins,2,JBreidfjord
-Colter Wall,2,JBreidfjord
-Cooper Brothers,2,JBreidfjord
-Corey Kilgannon,2,JBreidfjord
-Corners,2,JBreidfjord
-Corpse,2,JBreidfjord
-Courtney Barnett,2,JBreidfjord
-Crowded House,2,JBreidfjord
-Crying,2,JBreidfjord
-Cullah,2,JBreidfjord
-Dada Plan,2,JBreidfjord
-Damien Jurado,2,JBreidfjord
-Daniel Caesar,2,JBreidfjord
-Danny Brown,2,JBreidfjord
-Danny Walgreen,2,JBreidfjord
-Daughters,2,JBreidfjord
-Dave Van Ronk,2,JBreidfjord
-Dead Ghosts,2,JBreidfjord
-deadmau5,2,JBreidfjord
-Deafheaven,2,JBreidfjord
-Deal Casino,2,JBreidfjord
-Deftones,2,JBreidfjord
-Del Amitri,2,JBreidfjord
-Dermot Kennedy,2,JBreidfjord
-Desiigner,2,JBreidfjord
-Diana Ross,2,JBreidfjord
-Dio,2,JBreidfjord
-Diplo,2,JBreidfjord
-Disclosure,2,JBreidfjord
-DJ Fresh,2,JBreidfjord
-DJ Khaled,2,JBreidfjord
-DJ Sabrina The Teenage DJ,2,JBreidfjord
-Doddy Gatz,2,JBreidfjord
-DOGDEER,2,JBreidfjord
-Domingo Ruiz,2,JBreidfjord
-Don McLean,2,JBreidfjord
-Dreamers,2,JBreidfjord
-Echo & the Bunnymen,2,JBreidfjord
-Edwin Starr,2,JBreidfjord
-Elvis Costello,2,JBreidfjord
-Eminem,2,JBreidfjord
-England Dan & John Ford Coley,2,JBreidfjord
-Feet,2,JBreidfjord
-Flower Travellin' Band,2,JBreidfjord
-Foghat,2,JBreidfjord
-Fountains of Wayne,2,JBreidfjord
-Francesca Marr,2,JBreidfjord
-Fritz Kreisler,2,JBreidfjord
-Froggy Fresh,2,JBreidfjord
-FUKKIT,2,JBreidfjord
-fun.,2,JBreidfjord
-G-Eazy,2,JBreidfjord
-George Alec,2,JBreidfjord
-George Ezra,2,JBreidfjord
-Gillian Welch,2,JBreidfjord
-gnash,2,JBreidfjord
-Grouplove,2,JBreidfjord
-Gum,2,JBreidfjord
-Happyness,2,JBreidfjord
-Harlequin Gold,2,JBreidfjord
-Harrison Fjord,2,JBreidfjord
-Hey Major,2,JBreidfjord
-Holborns,2,JBreidfjord
-HOLYCHILD,2,JBreidfjord
-Hot Snakes,2,JBreidfjord
-Houses,2,JBreidfjord
-Iggy Azalea,2,JBreidfjord
-Imogen Heap,2,JBreidfjord
-Iris DeMent,2,JBreidfjord
-Jackie Hayes,2,JBreidfjord
-Jackie Wilson,2,JBreidfjord
-Jaco Pastorius,2,JBreidfjord
-Jacob Gade,2,JBreidfjord
-Japanese Breakfast,2,JBreidfjord
-Jason Mraz,2,JBreidfjord
-Jawbreaker,2,JBreidfjord
-JAY-Z,2,JBreidfjord
-Jeremy Messersmith,2,JBreidfjord
-Jerry Lee Lewis,2,JBreidfjord
-Jimmy Eat World,2,JBreidfjord
-Jimmy Ruffin,2,JBreidfjord
-Jimmy Smith,2,JBreidfjord
-Joe Jackson,2,JBreidfjord
-Johannes Brahms,2,JBreidfjord
-John Travolta,2,JBreidfjord
-Jonathan Richman,2,JBreidfjord
-JPEGMAFIA,2,JBreidfjord
-Justin Timberlake,2,JBreidfjord
-Justin Townes Earle,2,JBreidfjord
-Kate NV,2,JBreidfjord
-Katy Perry,2,JBreidfjord
-Kero Kero Bonito,2,JBreidfjord
-Kultivator,2,JBreidfjord
-Kylof Söze,2,JBreidfjord
-Lighthouse,2,JBreidfjord
-Lil Dicky,2,JBreidfjord
-Lil Pump,2,JBreidfjord
-Lil' Wayne,2,JBreidfjord
-Linkin Park,2,JBreidfjord
-Lionel Richie,2,JBreidfjord
-Little Richard,2,JBreidfjord
-Little River Band,2,JBreidfjord
-Live Solum,2,JBreidfjord
-Liz Phair,2,JBreidfjord
-LMFAO,2,JBreidfjord
-Loggins & Messina,2,JBreidfjord
-Looking Glass,2,JBreidfjord
-lukebike,2,JBreidfjord
-lzr,2,JBreidfjord
-M83,2,JBreidfjord
-Magazine,2,JBreidfjord
-Manchester Orchestra,2,JBreidfjord
-Mannequin Pussy,2,JBreidfjord
-Mary Steinbrecher,2,JBreidfjord
-Matthew Simmons,2,JBreidfjord
-Meat Puppets,2,JBreidfjord
-Meatbodies,2,JBreidfjord
-Melanie,2,JBreidfjord
-Mercury Rev,2,JBreidfjord
-Mission of Burma,2,JBreidfjord
-Mitski,2,JBreidfjord
-Modest Mouse,2,JBreidfjord
-Morgan Delt,2,JBreidfjord
-Morrissey,2,JBreidfjord
-Mr. Elevator,2,JBreidfjord
-Mumford & Sons,2,JBreidfjord
-Mystic Braves,2,JBreidfjord
-Natasha Bedingfield,2,JBreidfjord
-Nektar,2,JBreidfjord
-Neutral Milk Hotel,2,JBreidfjord
-Nick Cave & the Bad Seeds,2,JBreidfjord
-Nicki Minaj,2,JBreidfjord
-Nina Simone,2,JBreidfjord
-Nirvana,2,JBreidfjord
-Oingo Boingo,2,JBreidfjord
-Orleans,2,JBreidfjord
-Oscar Peterson Trio,2,JBreidfjord
-Palm,2,JBreidfjord
-Panic! at the Disco,2,JBreidfjord
-Paramore,2,JBreidfjord
-Pat Benatar,2,JBreidfjord
-Paul Dukas,2,JBreidfjord
-Perfume Genius,2,JBreidfjord
-Pete Seeger,2,JBreidfjord
-Peter & Gordon,2,JBreidfjord
-Philip Glass,2,JBreidfjord
-Platinum Blonde,2,JBreidfjord
-Prompto,2,JBreidfjord
-PVRIS,2,JBreidfjord
-Ramirez,2,JBreidfjord
-Ramones,2,JBreidfjord
-Ray Noble & His Orchestra,2,JBreidfjord
-Red Vox,2,JBreidfjord
-Reigning Sound,2,JBreidfjord
-Reptaliens,2,JBreidfjord
-robert elovsson,2,JBreidfjord
-Robin Thicke,2,JBreidfjord
-Rodrigo y Gabriela,2,JBreidfjord
-Roger Hodgson,2,JBreidfjord
-Ron Fields,2,JBreidfjord
-Rosie O'Donnell,2,JBreidfjord
-Run–D.M.C.,2,JBreidfjord
-Salt Cathedral,2,JBreidfjord
-Sam Cooke,2,JBreidfjord
-Scott Joplin,2,JBreidfjord
-Semisonic,2,JBreidfjord
-Shocking Blue,2,JBreidfjord
-sister sparrow,2,JBreidfjord
-Skinshape,2,JBreidfjord
-Sloan,2,JBreidfjord
-Small Forward,2,JBreidfjord
-Smokey Robinson and The Miracles,2,JBreidfjord
-Sneaky Pete Kleinow,2,JBreidfjord
-Soft Cell,2,JBreidfjord
-Speck Joliet,2,JBreidfjord
-Spoon,2,JBreidfjord
-Spose,2,JBreidfjord
-Steppenwolf,2,JBreidfjord
-Steve Hackett,2,JBreidfjord
-Strawberry Alarm Clock,2,JBreidfjord
-Sublime,2,JBreidfjord
-Swerzie,2,JBreidfjord
-Sxmpra,2,JBreidfjord
-System of a Down,2,JBreidfjord
-The Beets,2,JBreidfjord
-The Brian Jonestown Massacre,2,JBreidfjord
-The Champs,2,JBreidfjord
-The Claypool Lennon Delirium,2,JBreidfjord
-The Electric Prunes,2,JBreidfjord
-The Glorious Sons,2,JBreidfjord
-The Growlers,2,JBreidfjord
-The Guess Who,2,JBreidfjord
-The Hollies,2,JBreidfjord
-The King Khan & BBQ Show,2,JBreidfjord
-The Kingston Trio,2,JBreidfjord
-The Lemon Pipers,2,JBreidfjord
-The Lemon Twigs,2,JBreidfjord
-The Louisville Orchestra,2,JBreidfjord
-The New Pornographers,2,JBreidfjord
-The Osborne Brothers,2,JBreidfjord
-The Pains of Being Pure at Heart,2,JBreidfjord
-The Palms,2,JBreidfjord
-The Platters,2,JBreidfjord
-The Pretenders,2,JBreidfjord
-The Slaps,2,JBreidfjord
-The Trammps,2,JBreidfjord
-The Tubes,2,JBreidfjord
-The White Stripes,2,JBreidfjord
-Thom Rotella Band,2,JBreidfjord
-Three Dog Night,2,JBreidfjord
-Tim Heidecker,2,JBreidfjord
-Tom Waits,2,JBreidfjord
-Tommy Cash,2,JBreidfjord
-Toro y Moi,2,JBreidfjord
-Tower of Power,2,JBreidfjord
-Trinidad James,2,JBreidfjord
-TrippyThaKid,2,JBreidfjord
-Tropical Fuck Storm,2,JBreidfjord
-TTRRUUCES,2,JBreidfjord
-Tunewave,2,JBreidfjord
-Turnover,2,JBreidfjord
-Tyga,2,JBreidfjord
-Vashti Bunyan,2,JBreidfjord
-Vengaboys,2,JBreidfjord
-W.A.S.P.,2,JBreidfjord
-Walk the Moon,2,JBreidfjord
-Wallows,2,JBreidfjord
-We Hunt Buffalo,2,JBreidfjord
-Ween,2,JBreidfjord
-White Denim,2,JBreidfjord
-Whitesnake,2,JBreidfjord
-Wishbone Ash,2,JBreidfjord
-Witch,2,JBreidfjord
-Wolf Alice,2,JBreidfjord
-Woods,2,JBreidfjord
-XATASHI,2,JBreidfjord
-XTC,2,JBreidfjord
-Yellowcard,2,JBreidfjord
-Yiruma,2,JBreidfjord
-Yung Yogi,2,JBreidfjord
-Zager & Evans,2,JBreidfjord
-110th Street Jazz Trio,1,JBreidfjord
-30 Seconds to Mars,1,JBreidfjord
-3OH!3,1,JBreidfjord
-5 Seconds of Summer,1,JBreidfjord
-50 Cent,1,JBreidfjord
-A Tribe Called Quest,1,JBreidfjord
-A&J,1,JBreidfjord
-A$AP Rocky,1,JBreidfjord
-Aaron Carter,1,JBreidfjord
-ABC,1,JBreidfjord
-Academy of St. Martin in the Fields,1,JBreidfjord
-Adam Levine,1,JBreidfjord
-Adebisi Shank,1,JBreidfjord
-Adrian Belew,1,JBreidfjord
-Al Bowlly,1,JBreidfjord
-Al Di Meola,1,JBreidfjord
-Al Lover,1,JBreidfjord
-"Albert Hammond, Jr.",1,JBreidfjord
-Alexandra Savior,1,JBreidfjord
-Alexandre Desplat,1,JBreidfjord
-Alexisonfire,1,JBreidfjord
-Alfons,1,JBreidfjord
-Alicks,1,JBreidfjord
-Carly Rae Jepsen,4320,IcoBeltran
-Animal Collective,3688,IcoBeltran
-The Beths,3597,IcoBeltran
-Angel Olsen,3246,IcoBeltran
-My Bloody Valentine,3146,IcoBeltran
-Radiohead,2949,IcoBeltran
-DJ Sabrina The Teenage DJ,2611,IcoBeltran
-Iceage,2554,IcoBeltran
-Belle and Sebastian,2021,IcoBeltran
-Kendrick Lamar,1905,IcoBeltran
-Crying,1891,IcoBeltran
-Massive Attack,1753,IcoBeltran
-Hatchie,1752,IcoBeltran
-Madeon,1718,IcoBeltran
-Burial,1547,IcoBeltran
-Snail Mail,1536,IcoBeltran
-Julia Holter,1487,IcoBeltran
-Boards of Canada,1409,IcoBeltran
-Fugazi,1398,IcoBeltran
-Swans,1343,IcoBeltran
-Grimes,1222,IcoBeltran
-Nilüfer Yanya,1165,IcoBeltran
-Sewerslvt,1114,IcoBeltran
-Run the Jewels,1104,IcoBeltran
-Soccer Mommy,1011,IcoBeltran
-Beach Bunny,1008,IcoBeltran
-Drive Like Jehu,998,IcoBeltran
-The War on Drugs,955,IcoBeltran
-Charli XCX,880,IcoBeltran
-Alex Cameron,849,IcoBeltran
-Iglooghost,813,IcoBeltran
-Camera Obscura,806,IcoBeltran
-Deafheaven,805,IcoBeltran
-Lydia,793,IcoBeltran
-Lorde,790,IcoBeltran
-Danny Brown,785,IcoBeltran
-Death Grips,763,IcoBeltran
-King Gizzard & The Lizard Wizard,763,IcoBeltran
-Deamn,708,IcoBeltran
-Unwound,700,IcoBeltran
-The Pains of Being Pure at Heart,697,IcoBeltran
-The Velvet Underground,694,IcoBeltran
-Pronoun,648,IcoBeltran
-The All-American Rejects,638,IcoBeltran
-La Dispute,628,IcoBeltran
-Dogleg,618,IcoBeltran
-Mercury Rev,594,IcoBeltran
-Raveena,593,IcoBeltran
-Valerie June,586,IcoBeltran
-Clare Maguire,578,IcoBeltran
-Copeland,574,IcoBeltran
-Allie X,568,IcoBeltran
-The Knife,564,IcoBeltran
-BROCKHAMPTON,561,IcoBeltran
-Ethan Gruska,556,IcoBeltran
-DIIV,525,IcoBeltran
-Kanye West,522,IcoBeltran
-Kero Kero Bonito,517,IcoBeltran
-Broken Social Scene,514,IcoBeltran
-Julee Cruise,501,IcoBeltran
-Joey Bada$$,492,IcoBeltran
-Alvvays,478,IcoBeltran
-Caroline Rose,478,IcoBeltran
-Let's Eat Grandma,478,IcoBeltran
-Porter Robinson,475,IcoBeltran
-Sophie,471,IcoBeltran
-Rites of Spring,470,IcoBeltran
-Help Stamp Out Loneliness,463,IcoBeltran
-Gabrielle Aplin,454,IcoBeltran
-Hüsker Dü,438,IcoBeltran
-Lana Del Rey,437,IcoBeltran
-Future Islands,427,IcoBeltran
-Phoebe Bridgers,416,IcoBeltran
-Aphex Twin,405,IcoBeltran
-Have a Nice Life,405,IcoBeltran
-Jessie Ware,403,IcoBeltran
-Blood Diamonds,398,IcoBeltran
-At the Drive-In,389,IcoBeltran
-HAIM,388,IcoBeltran
-Barrie,383,IcoBeltran
-Perfume Genius,383,IcoBeltran
-FKA twigs,379,IcoBeltran
-Faye Webster,377,IcoBeltran
-CunninLynguists,376,IcoBeltran
-Slayyyter,375,IcoBeltran
-Calvin Harris,374,IcoBeltran
-Thrice,366,IcoBeltran
-Yves Tumor,363,IcoBeltran
-Clairo,358,IcoBeltran
-Blanck Mass,356,IcoBeltran
-Cult of Luna,349,IcoBeltran
-U.S. Girls,349,IcoBeltran
-Little Simz,342,IcoBeltran
-Tricky,342,IcoBeltran
-Lolo Zouaï,340,IcoBeltran
-Death from Above 1979,337,IcoBeltran
-Blonde Redhead,328,IcoBeltran
-Can,327,IcoBeltran
-Rina Sawayama,312,IcoBeltran
-Cocteau Twins,310,IcoBeltran
-Hazel English,308,IcoBeltran
-Ralph,308,IcoBeltran
-No Vacation,306,IcoBeltran
-Dance Gavin Dance,302,IcoBeltran
-Talking Heads,301,IcoBeltran
-Alexisonfire,300,IcoBeltran
-The Microphones,296,IcoBeltran
-MGMT,293,IcoBeltran
-Ween,292,IcoBeltran
-Martha,290,IcoBeltran
-Daughters,282,IcoBeltran
-The Blood Brothers,280,IcoBeltran
-Destroyer,277,IcoBeltran
-The Beach Boys,273,IcoBeltran
-Girls,271,IcoBeltran
-Big Thief,265,IcoBeltran
-Air,264,IcoBeltran
-Four Tet,262,IcoBeltran
-Fever Ray,255,IcoBeltran
-Gang of Youths,254,IcoBeltran
-The Fall of Troy,254,IcoBeltran
-Beck,251,IcoBeltran
-Chelsea Wolfe,250,IcoBeltran
-Liturgy,250,IcoBeltran
-Weezer,250,IcoBeltran
-Mannequin Pussy,248,IcoBeltran
-Gryffin,245,IcoBeltran
-The Aces,245,IcoBeltran
-...And You Will Know Us by the Trail of Dead,244,IcoBeltran
-Big L,241,IcoBeltran
-Virtual Self,241,IcoBeltran
-Sharon Van Etten,240,IcoBeltran
-Shellac,234,IcoBeltran
-Yumi Zouma,234,IcoBeltran
-Arcade Player,225,IcoBeltran
-Yandere,225,IcoBeltran
-Tropical Fuck Storm,222,IcoBeltran
-Dead Kennedys,221,IcoBeltran
-070 Shake,217,IcoBeltran
-Johann Sebastian Bach,217,IcoBeltran
-Denzel Curry,216,IcoBeltran
-Waxahatchee,215,IcoBeltran
-Wipers,209,IcoBeltran
-Closure in Moscow,208,IcoBeltran
-SG Lewis,208,IcoBeltran
-The Beatles,208,IcoBeltran
-Luomo,205,IcoBeltran
-The Mowgli's,204,IcoBeltran
-Electric Light Orchestra,203,IcoBeltran
-Petite Meller,203,IcoBeltran
-The Weeknd,203,IcoBeltran
-Hannah Cohen,201,IcoBeltran
-Matmos,199,IcoBeltran
-Anamanaguchi,197,IcoBeltran
-Chloe Moriondo,197,IcoBeltran
-Sunny Day Real Estate,196,IcoBeltran
-Superorganism,193,IcoBeltran
-of Montreal,189,IcoBeltran
-Dua Lipa,187,IcoBeltran
-Godspeed You! Black Emperor,186,IcoBeltran
-One Last Wish,186,IcoBeltran
-beabadoobee,185,IcoBeltran
-Snail's house,185,IcoBeltran
-Noname,181,IcoBeltran
-Aesop Rock,180,IcoBeltran
-Janelle Monáe,180,IcoBeltran
-Jenevieve,178,IcoBeltran
-Gorillaz,177,IcoBeltran
-Culture Shock,176,IcoBeltran
-David Bowie,175,IcoBeltran
-Danny L Harle,174,IcoBeltran
-The Antlers,174,IcoBeltran
-City of Caterpillar,173,IcoBeltran
-Slowdive,173,IcoBeltran
-Rush,172,IcoBeltran
-Black Eyes,171,IcoBeltran
-Cloud Nothings,170,IcoBeltran
-"Tyler, the Creator",170,IcoBeltran
-Wallows,170,IcoBeltran
-Doja Cat,167,IcoBeltran
-Nick Drake,166,IcoBeltran
-Bill Evans Trio,165,IcoBeltran
-famba,165,IcoBeltran
-Weyes Blood,165,IcoBeltran
-Molly Burch,163,IcoBeltran
-Squarepusher,163,IcoBeltran
-Queens of the Stone Age,162,IcoBeltran
-Zomby,162,IcoBeltran
-Big K.R.I.T.,161,IcoBeltran
-The Courtneys,160,IcoBeltran
-club night,158,IcoBeltran
-Aly & AJ,157,IcoBeltran
-Natalie Imbruglia,157,IcoBeltran
-Nails,156,IcoBeltran
-Ulcerate,156,IcoBeltran
-Lizzo,155,IcoBeltran
-Natasha Bedingfield,154,IcoBeltran
-Idles,153,IcoBeltran
-Jamie xx,153,IcoBeltran
-Minor Threat,153,IcoBeltran
-Poppy,153,IcoBeltran
-Marissa Nadler,152,IcoBeltran
-Backxwash,151,IcoBeltran
-bôa,150,IcoBeltran
-Hillsong United,149,IcoBeltran
-Indian Summer,149,IcoBeltran
-Polish Club,149,IcoBeltran
-Julien Baker,148,IcoBeltran
-Duster,147,IcoBeltran
-Xiu Xiu,146,IcoBeltran
-M.I.A.,145,IcoBeltran
-Camel,144,IcoBeltran
-Pink Floyd,144,IcoBeltran
-I Know Leopard,143,IcoBeltran
-Fickle Friends,142,IcoBeltran
-Bicep,141,IcoBeltran
-JPEGMAFIA,141,IcoBeltran
-Low,140,IcoBeltran
-Phoenix,138,IcoBeltran
-Everything Everything,137,IcoBeltran
-Kim Petras,137,IcoBeltran
-Alex Lahey,136,IcoBeltran
-Shy Kids,136,IcoBeltran
-Chastity,135,IcoBeltran
-Clarence Clarity,135,IcoBeltran
-Rolling Blackouts Coastal Fever,135,IcoBeltran
-Hop Along,134,IcoBeltran
-Magdalena Bay,132,IcoBeltran
-Deerhunter,131,IcoBeltran
-Mura Masa,131,IcoBeltran
-Nas,131,IcoBeltran
-Doss,130,IcoBeltran
-JVNA,130,IcoBeltran
-Ratboy,130,IcoBeltran
-Dinosaur Jr.,129,IcoBeltran
-Weatherday,129,IcoBeltran
-U2,128,IcoBeltran
-Bibio,127,IcoBeltran
-Culture Abuse,127,IcoBeltran
-Mew,126,IcoBeltran
-Lucy Dacus,125,IcoBeltran
-OutKast,125,IcoBeltran
-Travi$ Scott,124,IcoBeltran
-Yes,124,IcoBeltran
-TOKiMONSTA,123,IcoBeltran
-Forth Wanderers,122,IcoBeltran
-Mitski,121,IcoBeltran
-Sigala,121,IcoBeltran
-Injury Reserve,120,IcoBeltran
-Blind Mr. Jones,119,IcoBeltran
-Judas Priest,119,IcoBeltran
-clipping.,118,IcoBeltran
-Wild Nothing,118,IcoBeltran
-Cap'n Jazz,117,IcoBeltran
-Bad Moves,116,IcoBeltran
-Oxbow,115,IcoBeltran
-TOPS,115,IcoBeltran
-Jamila Woods,114,IcoBeltran
-Laura Marling,114,IcoBeltran
-Code Orange,113,IcoBeltran
-Metallica,113,IcoBeltran
-Nick Cave & the Bad Seeds,113,IcoBeltran
-Anna von Hausswolff,112,IcoBeltran
-Ne-Yo,112,IcoBeltran
-Bladee,111,IcoBeltran
-Hot Snakes,111,IcoBeltran
-Joy Division,111,IcoBeltran
-Zeal & Ardor,111,IcoBeltran
-Balthazar,110,IcoBeltran
-Hailee Steinfeld,109,IcoBeltran
-The Avalanches,109,IcoBeltran
-The Flaming Lips,109,IcoBeltran
-Antonio Vivaldi,108,IcoBeltran
-Bad Boy Chiller Crew,108,IcoBeltran
-LCD Soundsystem,108,IcoBeltran
-Tkay Maidza,108,IcoBeltran
-Dehd,107,IcoBeltran
-American Football,106,IcoBeltran
-Blood Orange,106,IcoBeltran
-Feist,106,IcoBeltran
-Maren Morris,106,IcoBeltran
-Thee Oh Sees,106,IcoBeltran
-Yukika,105,IcoBeltran
-Angel Du$t,104,IcoBeltran
-Beyoncé,104,IcoBeltran
-Declan McKenna,104,IcoBeltran
-Diet Cig,104,IcoBeltran
-Portishead,104,IcoBeltran
-Stella Donnelly,104,IcoBeltran
-Anonymous,103,IcoBeltran
-Auli'i Cravalho,103,IcoBeltran
-Sufjan Stevens,103,IcoBeltran
-Jordin Sparks,102,IcoBeltran
-Laurel,102,IcoBeltran
-Ride,102,IcoBeltran
-Illuminati Hotties,101,IcoBeltran
-Genesis Owusu,100,IcoBeltran
-Joni Mitchell,100,IcoBeltran
-The Big Moon,100,IcoBeltran
-Turnstile,100,IcoBeltran
-Mariam the Believer,99,IcoBeltran
-Battles,98,IcoBeltran
-Georgia,98,IcoBeltran
-Justice,97,IcoBeltran
-mclusky,97,IcoBeltran
-Mike Posner,97,IcoBeltran
-Tierra Whack,97,IcoBeltran
-Tom Waits,97,IcoBeltran
-A Lot Like Birds,96,IcoBeltran
-Crowded House,96,IcoBeltran
-Touché Amoré,96,IcoBeltran
-Whitney,96,IcoBeltran
-Doe Paoro,95,IcoBeltran
-Young Thug,95,IcoBeltran
-Burzum,94,IcoBeltran
-Chris Brown,94,IcoBeltran
-J. Cole,94,IcoBeltran
-Musette,94,IcoBeltran
-Fleetwood Mac,93,IcoBeltran
-King Crimson,93,IcoBeltran
-Widowspeak,93,IcoBeltran
-Alexandra Savior,92,IcoBeltran
-Jonathan,92,IcoBeltran
-Liz Lawrence,92,IcoBeltran
-Panda Bear,92,IcoBeltran
-Bob Dylan,91,IcoBeltran
-Deltron 3030,91,IcoBeltran
-Goat Girl,91,IcoBeltran
-Sweet Trip,91,IcoBeltran
-Beach House,90,IcoBeltran
-Filmmaker,90,IcoBeltran
-Frodus,90,IcoBeltran
-The Cure,90,IcoBeltran
-The Tallest Man on Earth,90,IcoBeltran
-Barely Alive,89,IcoBeltran
-Remember Sports,89,IcoBeltran
-Soul Glo,89,IcoBeltran
-Coheed and Cambria,88,IcoBeltran
-Iron Maiden,88,IcoBeltran
-MAX,88,IcoBeltran
-The Nation of Ulysses,88,IcoBeltran
-Wilco,88,IcoBeltran
-Circa Survive,87,IcoBeltran
-Floral Tattoo,87,IcoBeltran
-Ford.,87,IcoBeltran
-Pusha T,87,IcoBeltran
-Pixies,86,IcoBeltran
-ABBA,85,IcoBeltran
-Chris Keys,85,IcoBeltran
-Algiers,84,IcoBeltran
-Altar of Plagues,84,IcoBeltran
-"Earth, Wind & Fire",84,IcoBeltran
-Twin Shadow,84,IcoBeltran
-Big Black,83,IcoBeltran
-Bleachers,83,IcoBeltran
-Cressida,83,IcoBeltran
-Ondatrópica,83,IcoBeltran
-Paramore,83,IcoBeltran
-Rhye,83,IcoBeltran
-Soft Machine,83,IcoBeltran
-PUP,82,IcoBeltran
-Classixx,81,IcoBeltran
-Hannah Grace,81,IcoBeltran
-Jung,81,IcoBeltran
-Melt-Banana,81,IcoBeltran
-Remi Wolf,81,IcoBeltran
-Barely Civil,80,IcoBeltran
-Jessy Lanza,80,IcoBeltran
-Kelsey Lu,80,IcoBeltran
-Kylie Minogue,80,IcoBeltran
-RVG,80,IcoBeltran
-Sun Kil Moon,80,IcoBeltran
-Cosha,79,IcoBeltran
-Lord Huron,79,IcoBeltran
-Mariah Carey,79,IcoBeltran
-Mario,79,IcoBeltran
-Nicole Atkins,79,IcoBeltran
-Svalbard,79,IcoBeltran
-Björk,78,IcoBeltran
-My Morning Jacket,78,IcoBeltran
-Quicksand,78,IcoBeltran
-Autechre,77,IcoBeltran
-Brand New,77,IcoBeltran
-Elio,77,IcoBeltran
-James Blake,77,IcoBeltran
-Panopticon,77,IcoBeltran
-Refused,77,IcoBeltran
-Caribou,76,IcoBeltran
-Machine Girl,76,IcoBeltran
-NANORAY,76,IcoBeltran
-Lauv,75,IcoBeltran
-Billy Woods,74,IcoBeltran
-Charly Bliss,74,IcoBeltran
-Hum,74,IcoBeltran
-Regina Spektor,74,IcoBeltran
-Street Sects,74,IcoBeltran
-Adult Mom,73,IcoBeltran
-Cory Wong,73,IcoBeltran
-Keri Hilson,73,IcoBeltran
-Oh Wonder,73,IcoBeltran
-Passion Pit,73,IcoBeltran
-The Strokes,73,IcoBeltran
-Japanese Breakfast,72,IcoBeltran
-Kacey Musgraves,72,IcoBeltran
-Marching Church,71,IcoBeltran
-Moby,71,IcoBeltran
-Natalia Lafourcade,71,IcoBeltran
-The Men,71,IcoBeltran
-Fleet Foxes,70,IcoBeltran
-Miasmatic Necrosis,70,IcoBeltran
-Pile,70,IcoBeltran
-Saba,70,IcoBeltran
-SZA,70,IcoBeltran
-Bill Evans,69,IcoBeltran
-Courtney Barnett,69,IcoBeltran
-Damien Jurado,69,IcoBeltran
-Jay Som,69,IcoBeltran
-Strange Ranger,69,IcoBeltran
-Wire,69,IcoBeltran
-Minutemen,68,IcoBeltran
-Blondie,67,IcoBeltran
-Dayglow,67,IcoBeltran
-Deakin,67,IcoBeltran
-Hannah Diamond,67,IcoBeltran
-Modest Mouse,67,IcoBeltran
-Roy Blair,67,IcoBeltran
-Adult Jazz,66,IcoBeltran
-Mobb Deep,66,IcoBeltran
-Shura,66,IcoBeltran
-Black Eyed Peas,65,IcoBeltran
-Cautious Clay,65,IcoBeltran
-Christie Front Drive,65,IcoBeltran
-Julia Jacklin,65,IcoBeltran
-Led Zeppelin,65,IcoBeltran
-The National,65,IcoBeltran
-Estelle,64,IcoBeltran
-Alicia Keys,63,IcoBeltran
-Avey Tare,63,IcoBeltran
-Farewell Poetry,63,IcoBeltran
-Helado Negro,63,IcoBeltran
-Our Lady Peace,63,IcoBeltran
-The Verve,63,IcoBeltran
-Tycho,63,IcoBeltran
-Yola,63,IcoBeltran
-Mazzy Star,62,IcoBeltran
-Billie Eilish,61,IcoBeltran
-Converge,61,IcoBeltran
-Jawbox,61,IcoBeltran
-Susanne Sundfør,61,IcoBeltran
-DJ Shadow,60,IcoBeltran
-Madvillain,60,IcoBeltran
-Pinegrove,60,IcoBeltran
-Television,60,IcoBeltran
-Traditional,60,IcoBeltran
-Black Breath,59,IcoBeltran
-Chris Stapleton,59,IcoBeltran
-Emperor,59,IcoBeltran
-Fiona Apple,59,IcoBeltran
-Jenny Lewis,59,IcoBeltran
-Protomartyr,59,IcoBeltran
-Sorry,59,IcoBeltran
-The Griswolds,59,IcoBeltran
-Vampire Weekend,59,IcoBeltran
-Bruce Springsteen,58,IcoBeltran
-Fontaines D.C.,58,IcoBeltran
-Mac Miller,58,IcoBeltran
-Medhane,58,IcoBeltran
-Notches,58,IcoBeltran
-Rafael Lechowski,58,IcoBeltran
-Shinichi Suzuki,58,IcoBeltran
-Sia,58,IcoBeltran
-The Go! Team,58,IcoBeltran
-Dire Straits,57,IcoBeltran
-Girls Aloud,57,IcoBeltran
-Lift to Experience,57,IcoBeltran
-Rustie,57,IcoBeltran
-George Clanton,56,IcoBeltran
-Ichiko Aoba,56,IcoBeltran
-Justin Timberlake,56,IcoBeltran
-Lady Gaga,56,IcoBeltran
-Maybeshewill,56,IcoBeltran
-Middle Kids,56,IcoBeltran
-NEUPINK,56,IcoBeltran
-Clams Casino,55,IcoBeltran
-Dixie Chicks,55,IcoBeltran
-Fritz Kreisler,55,IcoBeltran
-Joey Purp,55,IcoBeltran
-Liars,55,IcoBeltran
-Lingua Ignota,55,IcoBeltran
-Space Daze,55,IcoBeltran
-A$AP Ferg,54,IcoBeltran
-Kelly Clarkson,54,IcoBeltran
-King Princess,54,IcoBeltran
-Michael Jackson,54,IcoBeltran
-Twin Forks,54,IcoBeltran
-Young Jesus,54,IcoBeltran
-Cut Copy,53,IcoBeltran
-Eminem,53,IcoBeltran
-Radical Face,53,IcoBeltran
-Special Interest,53,IcoBeltran
-Dear Nora,52,IcoBeltran
-Dirty Projectors,52,IcoBeltran
-Freddie Gibbs,52,IcoBeltran
-Marina,52,IcoBeltran
-MF DOOM,52,IcoBeltran
-Tamaryn,52,IcoBeltran
-The Chemical Brothers,52,IcoBeltran
-The Radio Dept.,52,IcoBeltran
-Tonight Alive,52,IcoBeltran
-Uppermost,52,IcoBeltran
-Banoffee,51,IcoBeltran
-Destiny's Child,51,IcoBeltran
-Father John Misty,51,IcoBeltran
-Horsey,51,IcoBeltran
-Local Natives,51,IcoBeltran
-Nazar,51,IcoBeltran
-Porcupine Tree,51,IcoBeltran
-Saosin,51,IcoBeltran
-Tennis,51,IcoBeltran
-The Killers,51,IcoBeltran
-99RadioService,50,IcoBeltran
-James Ivy,50,IcoBeltran
-JAY-Z,50,IcoBeltran
-Jessie J,50,IcoBeltran
-Jimi Hendrix,50,IcoBeltran
-Kimbra,50,IcoBeltran
-MIYNT,50,IcoBeltran
-Pinkshinyultrablast,50,IcoBeltran
-Planning for Burial,50,IcoBeltran
-Rihanna,50,IcoBeltran
-Rinse,50,IcoBeltran
-Skee Mask,50,IcoBeltran
-Spellling,50,IcoBeltran
-Sun June,50,IcoBeltran
-Tove Lo,50,IcoBeltran
-dälek,49,IcoBeltran
-Jay Sean,49,IcoBeltran
-Lush,49,IcoBeltran
-Niki,49,IcoBeltran
-The Drums,49,IcoBeltran
-Beat Happening,48,IcoBeltran
-Big Red Machine,48,IcoBeltran
-Cage the Elephant,48,IcoBeltran
-Cursive,48,IcoBeltran
-Daft Punk,48,IcoBeltran
-Doves,48,IcoBeltran
-Infant Island,48,IcoBeltran
-Jethro Tull,48,IcoBeltran
-Public Enemy,48,IcoBeltran
-Squid,48,IcoBeltran
-Teenage Fanclub,48,IcoBeltran
-The Smashing Pumpkins,48,IcoBeltran
-Hannah Peel,47,IcoBeltran
-Noel Gallagher's High Flying Birds,47,IcoBeltran
-Rachel Stevens,47,IcoBeltran
-The Brian Jonestown Massacre,47,IcoBeltran
-Moses Sumney,46,IcoBeltran
-The Adventures,46,IcoBeltran
-Uniform,46,IcoBeltran
-Adrianne Lenker,45,IcoBeltran
-Ariana Grande,45,IcoBeltran
-Dan Deacon,45,IcoBeltran
-Jazmine Sullivan,45,IcoBeltran
-Soulwax,45,IcoBeltran
-Tame Impala,45,IcoBeltran
-Brian Eno,44,IcoBeltran
-Clutch,44,IcoBeltran
-Frédéric Chopin,44,IcoBeltran
-Lightning Bolt,44,IcoBeltran
-Lotic,44,IcoBeltran
-Maya Jones,44,IcoBeltran
-Shame,44,IcoBeltran
-The Field Mice,44,IcoBeltran
-The Sidekicks,44,IcoBeltran
-Alice Boman,43,IcoBeltran
-Betty Who,43,IcoBeltran
-Cayetana,43,IcoBeltran
-Crocodiles,43,IcoBeltran
-Killer Mike,43,IcoBeltran
-King Krule,43,IcoBeltran
-Liza Anne,43,IcoBeltran
-Old Sea Brigade,43,IcoBeltran
-Spirit of the Beehive,43,IcoBeltran
-Britney Spears,42,IcoBeltran
-Empath,42,IcoBeltran
-Glass Beach,42,IcoBeltran
-Karfagen,42,IcoBeltran
-Kirin J Callinan,42,IcoBeltran
-Lydia Ainsworth,42,IcoBeltran
-Muse,42,IcoBeltran
-the spirit of the beehive,42,IcoBeltran
-TNGHT,42,IcoBeltran
-Yo La Tengo,42,IcoBeltran
-Against All Logic,41,IcoBeltran
-Alabama Shakes,41,IcoBeltran
-Amaarae,41,IcoBeltran
-Ecco2K,41,IcoBeltran
-Food House,41,IcoBeltran
-Hot Chip,41,IcoBeltran
-Ibibio Sound Machine,41,IcoBeltran
-JayKae,41,IcoBeltran
-Parquet Courts,41,IcoBeltran
-Planet 1999,41,IcoBeltran
-Sampha,41,IcoBeltran
-Squirrel Flower,41,IcoBeltran
-Sun Ra,41,IcoBeltran
-The Chicks,41,IcoBeltran
-The Sound of Animals Fighting,41,IcoBeltran
-Thom Yorke,41,IcoBeltran
-Wild Pink,41,IcoBeltran
-Birds of Tokyo,40,IcoBeltran
-Black Sabbath,40,IcoBeltran
-Bombay Bicycle Club,40,IcoBeltran
-Cleaners From Venus,40,IcoBeltran
-Ellie Bleach,40,IcoBeltran
-Eugène Ysaÿe,40,IcoBeltran
-Halsey,40,IcoBeltran
-Jess Cornelius,40,IcoBeltran
-Jesse McCartney,40,IcoBeltran
-Julianna Barwick,40,IcoBeltran
-Purple Mountains,40,IcoBeltran
-T.I.,40,IcoBeltran
-Viagra Boys,40,IcoBeltran
-Yung Pinch,40,IcoBeltran
-(Sandy) Alex G,39,IcoBeltran
-A$AP Rocky,39,IcoBeltran
-Choir Boy,39,IcoBeltran
-Lianne La Havas,39,IcoBeltran
-Lil Darkie,39,IcoBeltran
-mxmtoon,39,IcoBeltran
-Nelly,39,IcoBeltran
-Ornette Coleman,39,IcoBeltran
-Sean Paul,39,IcoBeltran
-Stan Getz,39,IcoBeltran
-Taylor Swift,39,IcoBeltran
-The Clash,39,IcoBeltran
-Usher,39,IcoBeltran
-Anathema,38,IcoBeltran
-"Black Country, New Road",38,IcoBeltran
-Guided by Voices,38,IcoBeltran
-Mid-Air Thief,38,IcoBeltran
-Pete Rock & C.L. Smooth,38,IcoBeltran
-Porridge Radio,38,IcoBeltran
-Slift,38,IcoBeltran
-Somi,38,IcoBeltran
-The Modern Lovers,38,IcoBeltran
-B.o.B,37,IcoBeltran
-Childish Gambino,37,IcoBeltran
-Deerhoof,37,IcoBeltran
-Galantis,37,IcoBeltran
-I DONT KNOW HOW BUT THEY FOUND ME,37,IcoBeltran
-Miles Davis,37,IcoBeltran
-Neon Trees,37,IcoBeltran
-Red Velvet - IRENE & SEULGI,37,IcoBeltran
-Shovels & Rope,37,IcoBeltran
-Shygirl,37,IcoBeltran
-SIE Sound Team,37,IcoBeltran
-Swirlies,37,IcoBeltran
-The Chainsmokers,37,IcoBeltran
-Zara Larsson,37,IcoBeltran
-$uicideboy$,36,IcoBeltran
-A. G. Cook,36,IcoBeltran
-Buscabulla,36,IcoBeltran
-Coin,36,IcoBeltran
-DRWN.,36,IcoBeltran
-Feet,36,IcoBeltran
-Iggy Pop,36,IcoBeltran
-Kate Bush,36,IcoBeltran
-Nujabes,36,IcoBeltran
-PaintAMelody,36,IcoBeltran
-R.A.P. Ferreira,36,IcoBeltran
-Acid Dad,35,IcoBeltran
-Amon Tobin,35,IcoBeltran
-Beach Fossils,35,IcoBeltran
-CHAI,35,IcoBeltran
-Frances Quinlan,35,IcoBeltran
-Galaxie 500,35,IcoBeltran
-Isis,35,IcoBeltran
-Kakkmaddafakka,35,IcoBeltran
-Kamasi Washington,35,IcoBeltran
-La Roux,35,IcoBeltran
-Leonard Cohen,35,IcoBeltran
-mewithoutYou,35,IcoBeltran
-Moz-art,35,IcoBeltran
-Pussy Riot,35,IcoBeltran
-Still Corners,35,IcoBeltran
-The Magnetic Fields,35,IcoBeltran
-The Pussycat Dolls,35,IcoBeltran
-Bear vs. Shark,34,IcoBeltran
-Chiodos,34,IcoBeltran
-Crystal Castles,34,IcoBeltran
-Deftones,34,IcoBeltran
-Eric B. & Rakim,34,IcoBeltran
-ian sweet,34,IcoBeltran
-JID,34,IcoBeltran
-Jorja Smith,34,IcoBeltran
-Nirvana,34,IcoBeltran
-Pavement,34,IcoBeltran
-The Jackson 5,34,IcoBeltran
-The Wytches,34,IcoBeltran
-Tirzah,34,IcoBeltran
-Birds of Maya,33,IcoBeltran
-Goo Goo Dolls,33,IcoBeltran
-Jenny Hval,33,IcoBeltran
-Jessica Pratt,33,IcoBeltran
-Playboi Carti,33,IcoBeltran
-Seekae,33,IcoBeltran
-Vince Guaraldi Trio,33,IcoBeltran
-An Albatross,32,IcoBeltran
-Anna Burch,32,IcoBeltran
-Better Oblivion Community Center,32,IcoBeltran
-Earl Sweatshirt,32,IcoBeltran
-Elza Soares,32,IcoBeltran
-Foxing,32,IcoBeltran
-Fuck Buttons,32,IcoBeltran
-God Help the Girl,32,IcoBeltran
-Jason Derülo,32,IcoBeltran
-John McLaughlin,32,IcoBeltran
-KIDS SEE GHOSTS,32,IcoBeltran
-Macklemore & Ryan Lewis,32,IcoBeltran
-Margaret Glaspy,32,IcoBeltran
-Neil Young,32,IcoBeltran
-Portugal. The Man,32,IcoBeltran
-Postcards,32,IcoBeltran
-Sixpence None the Richer,32,IcoBeltran
-Sleater-Kinney,32,IcoBeltran
-The Hives,32,IcoBeltran
-TOKYOPILL,32,IcoBeltran
-tricot,32,IcoBeltran
-Vic Mensa,32,IcoBeltran
-Avantdale Bowling Club,31,IcoBeltran
-Billy Joel,31,IcoBeltran
-Embrace,31,IcoBeltran
-Eve Owen,31,IcoBeltran
-Gang Gang Dance,31,IcoBeltran
-Malibu Ken,31,IcoBeltran
-Material Girl,31,IcoBeltran
-Norah Jones,31,IcoBeltran
-Rae Morris,31,IcoBeltran
-The Books,31,IcoBeltran
-The KVB,31,IcoBeltran
-Thursday,31,IcoBeltran
-Beastie Boys,30,IcoBeltran
-Computer Magic,30,IcoBeltran
-Department of Eagles,30,IcoBeltran
-Dusty Springfield,30,IcoBeltran
-George Michael,30,IcoBeltran
-Loote,30,IcoBeltran
-Robyn,30,IcoBeltran
-Slint,30,IcoBeltran
-The Chameleons,30,IcoBeltran
-Thundercat,30,IcoBeltran
-2Pac,29,IcoBeltran
-Acceptance,29,IcoBeltran
-Anna of the North,29,IcoBeltran
-Baths,29,IcoBeltran
-Cassandra Jenkins,29,IcoBeltran
-Cub,29,IcoBeltran
-El-P,29,IcoBeltran
-Kid Cudi,29,IcoBeltran
-Luke Temple,29,IcoBeltran
-Sex Pistols,29,IcoBeltran
-Slayer,29,IcoBeltran
-Titus Andronicus,29,IcoBeltran
-A.A.L,28,IcoBeltran
-Ablebody,28,IcoBeltran
-BC Unidos,28,IcoBeltran
-Desperate Journalist,28,IcoBeltran
-eightiesheadachetape,28,IcoBeltran
-Florist,28,IcoBeltran
-Georg Friedrich Händel,28,IcoBeltran
-Grizzly Bear,28,IcoBeltran
-Holliday Howe,28,IcoBeltran
-LA Priest,28,IcoBeltran
-Mahavishnu Orchestra,28,IcoBeltran
-Poté,28,IcoBeltran
-R. Kelly,28,IcoBeltran
-Slick Rick,28,IcoBeltran
-SWMRS,28,IcoBeltran
-The Passage,28,IcoBeltran
-Vince Staples,28,IcoBeltran
-Washed Out,28,IcoBeltran
-Wild Party,28,IcoBeltran
-Zella Day,28,IcoBeltran
-Bloc Party,27,IcoBeltran
-Caroline Polachek,27,IcoBeltran
-Cat Power,27,IcoBeltran
-Emancipator,27,IcoBeltran
-Esperanza Spalding,27,IcoBeltran
-Leah Senior,27,IcoBeltran
-Ludwig van Beethoven,27,IcoBeltran
-Nuvolascura,27,IcoBeltran
-Pitbull,27,IcoBeltran
-SASSY 009,27,IcoBeltran
-Shakira,27,IcoBeltran
-Soilwork,27,IcoBeltran
-The Jesus Lizard,27,IcoBeltran
-The Moondrops,27,IcoBeltran
-The White Stripes,27,IcoBeltran
-Arca,26,IcoBeltran
-Cradle,26,IcoBeltran
-Dizzy,26,IcoBeltran
-friedberg,26,IcoBeltran
-Half Waif,26,IcoBeltran
-HMLTD,26,IcoBeltran
-Homeboy Sandman,26,IcoBeltran
-Ke$ha,26,IcoBeltran
-Men I Trust,26,IcoBeltran
-Mos Def,26,IcoBeltran
-Neutral Milk Hotel,26,IcoBeltran
-Pedro the Lion,26,IcoBeltran
-Salem,26,IcoBeltran
-Tei Shi,26,IcoBeltran
-The Reindeer Consort,26,IcoBeltran
-the scary jokes,26,IcoBeltran
-The Unicorns,26,IcoBeltran
-Tindersticks,26,IcoBeltran
-Bad Brains,25,IcoBeltran
-Danitsa,25,IcoBeltran
-Dermot Kennedy,25,IcoBeltran
-Ellie Goulding,25,IcoBeltran
-goreshit,25,IcoBeltran
-Hanreti,25,IcoBeltran
-Interpol,25,IcoBeltran
-Jackie Lynn,25,IcoBeltran
-Jónsi,25,IcoBeltran
-katie dey,25,IcoBeltran
-Lovers Without Borders,25,IcoBeltran
-Nyck Caution,25,IcoBeltran
-Otta,25,IcoBeltran
-Screaming Females,25,IcoBeltran
-Sudan Archives,25,IcoBeltran
-Tony Molina,25,IcoBeltran
-Wolfgang Amadeus Mozart,25,IcoBeltran
-100 gecs,24,IcoBeltran
-A.C. Freazy,24,IcoBeltran
-Alice Merton,24,IcoBeltran
-Blut aus Nord,24,IcoBeltran
-Carm,24,IcoBeltran
-Dear SilaS,24,IcoBeltran
-Dorian Electra,24,IcoBeltran
-Drunk with Pines,24,IcoBeltran
-EARTHGANG,24,IcoBeltran
-Eels,24,IcoBeltran
-Hayley Williams,24,IcoBeltran
-Icona Pop,24,IcoBeltran
-Jack Johnson,24,IcoBeltran
-Makthaverskan,24,IcoBeltran
-Mat Zo,24,IcoBeltran
-Muddy Waters,24,IcoBeltran
-oso oso,24,IcoBeltran
-Sevdaliza,24,IcoBeltran
-Siouxsie and the Banshees,24,IcoBeltran
-Tal Bachman,24,IcoBeltran
-Thomas Haynes Bayly,24,IcoBeltran
-Vanessa Carlton,24,IcoBeltran
-A Sunny Day in Glasgow,23,IcoBeltran
-Arcade Fire,23,IcoBeltran
-Avril Lavigne,23,IcoBeltran
-Bic Runga,23,IcoBeltran
-Blur,23,IcoBeltran
-DJ Fresh,23,IcoBeltran
-Elton John,23,IcoBeltran
-Forss,23,IcoBeltran
-Hand Habits,23,IcoBeltran
-Hope Sandoval & The Warm Inventions,23,IcoBeltran
-Janet Jackson,23,IcoBeltran
-Jeff Rosenstock,23,IcoBeltran
-Johannes Brahms,23,IcoBeltran
-OFENBACH,23,IcoBeltran
-Rae Sremmurd,23,IcoBeltran
-Sigur Rós,23,IcoBeltran
-Snoh Aalegra,23,IcoBeltran
-Solange,23,IcoBeltran
-Sonic Youth,23,IcoBeltran
-The Jesus and Mary Chain,23,IcoBeltran
-The Narrative,23,IcoBeltran
-The Voidz,23,IcoBeltran
-Thelma,23,IcoBeltran
-Walk the Moon,23,IcoBeltran
-Zion I,23,IcoBeltran
-Arcane Roots,22,IcoBeltran
-Avenade,22,IcoBeltran
-Bruno Mars,22,IcoBeltran
-Dream Wife,22,IcoBeltran
-Edvard Grieg,22,IcoBeltran
-Fantasy,22,IcoBeltran
-Grouplove,22,IcoBeltran
-Jim-E Stack,22,IcoBeltran
-Matthias Gusset,22,IcoBeltran
-No Joy,22,IcoBeltran
-Nubya Garcia,22,IcoBeltran
-Queen,22,IcoBeltran
-Reyko,22,IcoBeltran
-Rolo Tomassi,22,IcoBeltran
-Sad Alex,22,IcoBeltran
-Sean Kingston,22,IcoBeltran
-Tangerine Dream,22,IcoBeltran
-The Body,22,IcoBeltran
-The Mars Volta,22,IcoBeltran
-The Ting Tings,22,IcoBeltran
-TLC,22,IcoBeltran
-Toploader,22,IcoBeltran
-Trentemøller,22,IcoBeltran
-twenty one pilots,22,IcoBeltran
-Vitalic,22,IcoBeltran
-William Black,22,IcoBeltran
-Wu-Tang Clan,22,IcoBeltran
-A Tribe Called Quest,21,IcoBeltran
-alt-J,21,IcoBeltran
-Bauhaus,21,IcoBeltran
-Car Seat Headrest,21,IcoBeltran
-Dollshot,21,IcoBeltran
-Explosions in the Sky,21,IcoBeltran
-Felt,21,IcoBeltran
-Flying Lotus,21,IcoBeltran
-Gwen Stefani,21,IcoBeltran
-Internal Rot,21,IcoBeltran
-Liz Phair,21,IcoBeltran
-Maggie Rogers,21,IcoBeltran
-Nine Inch Nails,21,IcoBeltran
-Noisia,21,IcoBeltran
-Stretch and Bobbito,21,IcoBeltran
-Tamara & The Dreams,21,IcoBeltran
-Toto,21,IcoBeltran
-Yves Jarvis,21,IcoBeltran
-Zebra Katz,21,IcoBeltran
-Anderson .Paak,20,IcoBeltran
-Bathory,20,IcoBeltran
-Beautify Junkyards,20,IcoBeltran
-Behemoth,20,IcoBeltran
-Celeste,20,IcoBeltran
-Colbie Caillat,20,IcoBeltran
-Dirty Three,20,IcoBeltran
-Hermit and the Recluse,20,IcoBeltran
-Hillsong Worship,20,IcoBeltran
-I left my wallet downstairs,20,IcoBeltran
-Jesca Hoop,20,IcoBeltran
-Kings Kaleidoscope,20,IcoBeltran
-Maria BC,20,IcoBeltran
-Martin Solveig,20,IcoBeltran
-Megan Thee Stallion,20,IcoBeltran
-METZ,20,IcoBeltran
-Purity Ring,20,IcoBeltran
-Shontelle,20,IcoBeltran
-Sunshine & The Rain,20,IcoBeltran
-Swain,20,IcoBeltran
-Trey Songz,20,IcoBeltran
-Wet Leg,20,IcoBeltran
-Yung Lean,20,IcoBeltran
-Annie,19,IcoBeltran
-Black Moth Super Rainbow,19,IcoBeltran
-Black To Comm,19,IcoBeltran
-Cowtools,19,IcoBeltran
-Czarface,19,IcoBeltran
-Dawn Richard,19,IcoBeltran
-Doom,19,IcoBeltran
-Eartheater,19,IcoBeltran
-FLOWERTRUCK,19,IcoBeltran
-Health,19,IcoBeltran
-Kali Uchis,19,IcoBeltran
-Lomelda,19,IcoBeltran
-Post Malone,19,IcoBeltran
-Pyotr Ilyich Tchaikovsky,19,IcoBeltran
-Q and Not U,19,IcoBeltran
-R.E.M.,19,IcoBeltran
-Rose Elinor Dougall,19,IcoBeltran
-Still Woozy,19,IcoBeltran
-Stormzy,19,IcoBeltran
-Alice in Chains,18,IcoBeltran
-BDRMM,18,IcoBeltran
-Becca Mancari,18,IcoBeltran
-Bill Callahan,18,IcoBeltran
-Boy Scouts,18,IcoBeltran
-Foxygen,18,IcoBeltran
-Giveon,18,IcoBeltran
-Isaiah Rashad,18,IcoBeltran
-Jimmy Eat World,18,IcoBeltran
-Luke Potter,18,IcoBeltran
-mapleway,18,IcoBeltran
-Nico,18,IcoBeltran
-Orchid,18,IcoBeltran
-Pip Blom,18,IcoBeltran
-Rapsody,18,IcoBeltran
-Rosey7,18,IcoBeltran
-Silverstein,18,IcoBeltran
-Soundgarden,18,IcoBeltran
-Sunn O))),18,IcoBeltran
-Talk Talk,18,IcoBeltran
-Tim Hecker,18,IcoBeltran
-Van der Graaf Generator,18,IcoBeltran
-Villagers,18,IcoBeltran
-Will Butler,18,IcoBeltran
-Alex Roe,17,IcoBeltran
-Alex Winston,17,IcoBeltran
-Amen Dunes,17,IcoBeltran
-Big Baby,17,IcoBeltran
-Broadway,17,IcoBeltran
-Ciara,17,IcoBeltran
-Davido,17,IcoBeltran
-Radiohead,3576,TheRudeDuck
-Fugazi,3575,TheRudeDuck
-Queens of the Stone Age,3250,TheRudeDuck
-Kendrick Lamar,1938,TheRudeDuck
-Sufjan Stevens,1657,TheRudeDuck
-King Gizzard & The Lizard Wizard,1610,TheRudeDuck
-Tame Impala,1606,TheRudeDuck
-Mat Zo,1577,TheRudeDuck
-Unwound,1357,TheRudeDuck
-Grizzly Bear,1279,TheRudeDuck
-Minutemen,1154,TheRudeDuck
-At the Drive-In,1088,TheRudeDuck
-Rush,1049,TheRudeDuck
-Led Zeppelin,1037,TheRudeDuck
-Frank Ocean,1030,TheRudeDuck
-Parquet Courts,1025,TheRudeDuck
-The Mars Volta,1006,TheRudeDuck
-Mild High Club,893,TheRudeDuck
-Iceage,883,TheRudeDuck
-Red Hot Chili Peppers,875,TheRudeDuck
-Run the Jewels,863,TheRudeDuck
-Deerhunter,840,TheRudeDuck
-Yes,827,TheRudeDuck
-Foo Fighters,813,TheRudeDuck
-Alexisonfire,801,TheRudeDuck
-Beck,794,TheRudeDuck
-Mac DeMarco,789,TheRudeDuck
-"Tyler, the Creator",747,TheRudeDuck
-Cursive,721,TheRudeDuck
-Metallica,706,TheRudeDuck
-La Dispute,693,TheRudeDuck
-...And You Will Know Us by the Trail of Dead,628,TheRudeDuck
-Fleet Foxes,583,TheRudeDuck
-Babe Rainbow,579,TheRudeDuck
-Drive Like Jehu,546,TheRudeDuck
-Hüsker Dü,538,TheRudeDuck
-Mission of Burma,536,TheRudeDuck
-Beach House,518,TheRudeDuck
-Cloud Nothings,512,TheRudeDuck
-Talking Heads,502,TheRudeDuck
-Men I Trust,497,TheRudeDuck
-System of a Down,491,TheRudeDuck
-Soundgarden,475,TheRudeDuck
-The Smashing Pumpkins,467,TheRudeDuck
-Death from Above 1979,454,TheRudeDuck
-Nirvana,451,TheRudeDuck
-The Evens,435,TheRudeDuck
-Fuzz,430,TheRudeDuck
-Thursday,414,TheRudeDuck
-The Knife,393,TheRudeDuck
-Royal Blood,391,TheRudeDuck
-of Montreal,387,TheRudeDuck
-Tool,385,TheRudeDuck
-deadmau5,368,TheRudeDuck
-Kyuss,354,TheRudeDuck
-Thee Oh Sees,345,TheRudeDuck
-Deftones,343,TheRudeDuck
-Crumb,338,TheRudeDuck
-Black Sabbath,334,TheRudeDuck
-A Tribe Called Quest,332,TheRudeDuck
-Carly Rae Jepsen,323,TheRudeDuck
-Arcade Fire,316,TheRudeDuck
-Kanye West,316,TheRudeDuck
-Dead Kennedys,315,TheRudeDuck
-Thrice,315,TheRudeDuck
-Glassjaw,313,TheRudeDuck
-Grimes,305,TheRudeDuck
-Them Crooked Vultures,303,TheRudeDuck
-Kaskade,297,TheRudeDuck
-Haywyre,275,TheRudeDuck
-King Crimson,271,TheRudeDuck
-Mew,267,TheRudeDuck
-Animal Collective,266,TheRudeDuck
-Built to Spill,247,TheRudeDuck
-Flying Lotus,247,TheRudeDuck
-Primus,247,TheRudeDuck
-The War on Drugs,247,TheRudeDuck
-The Strokes,232,TheRudeDuck
-Hot Snakes,203,TheRudeDuck
-Massive Attack,203,TheRudeDuck
-MGMT,203,TheRudeDuck
-Nick Drake,203,TheRudeDuck
-Weather Report,201,TheRudeDuck
-Flume,194,TheRudeDuck
-The Wrens,194,TheRudeDuck
-UNKLE,193,TheRudeDuck
-The Microphones,189,TheRudeDuck
-Boards of Canada,186,TheRudeDuck
-Pink Floyd,184,TheRudeDuck
-Supertramp,179,TheRudeDuck
-The Dave Brubeck Quartet,178,TheRudeDuck
-Refused,177,TheRudeDuck
-Pile,176,TheRudeDuck
-Fleetwood Mac,173,TheRudeDuck
-jerkcurb,173,TheRudeDuck
-Madvillain,170,TheRudeDuck
-Department of Eagles,167,TheRudeDuck
-Slift,165,TheRudeDuck
-Real Estate,163,TheRudeDuck
-Have a Nice Life,155,TheRudeDuck
-The Fall of Troy,153,TheRudeDuck
-Belle and Sebastian,145,TheRudeDuck
-Billy Talent,141,TheRudeDuck
-Jethro Tull,138,TheRudeDuck
-Snail Mail,137,TheRudeDuck
-Jets to Brazil,135,TheRudeDuck
-Miles Davis,128,TheRudeDuck
-Slint,126,TheRudeDuck
-Lana Del Rey,123,TheRudeDuck
-Snarky Puppy,123,TheRudeDuck
-Minor Threat,117,TheRudeDuck
-The Velvet Underground,117,TheRudeDuck
-Love,116,TheRudeDuck
-Eagles of Death Metal,115,TheRudeDuck
-Greta Van Fleet,114,TheRudeDuck
-King Krule,114,TheRudeDuck
-Thundercat,111,TheRudeDuck
-Dabin,110,TheRudeDuck
-Brand New,109,TheRudeDuck
-Air,107,TheRudeDuck
-ODESZA,107,TheRudeDuck
-Electric Light Orchestra,105,TheRudeDuck
-Kurt Vile,105,TheRudeDuck
-Death Grips,104,TheRudeDuck
-Levitation Room,103,TheRudeDuck
-David Bowie,95,TheRudeDuck
-Grabbitz,95,TheRudeDuck
-Knife Party,95,TheRudeDuck
-Post Animal,95,TheRudeDuck
-My Bloody Valentine,91,TheRudeDuck
-Jimi Hendrix,90,TheRudeDuck
-Seven Lions,90,TheRudeDuck
-Dr. Dog,85,TheRudeDuck
-Pearl Jam,85,TheRudeDuck
-Alvvays,82,TheRudeDuck
-Kikagaku Moyo,82,TheRudeDuck
-Röyksopp,80,TheRudeDuck
-The Avalanches,79,TheRudeDuck
-Neutral Milk Hotel,76,TheRudeDuck
-Jawbreaker,74,TheRudeDuck
-Shellac,73,TheRudeDuck
-David Peacock,69,TheRudeDuck
-Gorillaz,69,TheRudeDuck
-KIDS SEE GHOSTS,69,TheRudeDuck
-Circa Survive,67,TheRudeDuck
-American Football,65,TheRudeDuck
-BROCKHAMPTON,65,TheRudeDuck
-Polvo,65,TheRudeDuck
-Sugar Candy Mountain,65,TheRudeDuck
-Zedd,65,TheRudeDuck
-Taylor Swift,62,TheRudeDuck
-Sonic Youth,61,TheRudeDuck
-The Orb,61,TheRudeDuck
-fIREHOSE,59,TheRudeDuck
-Turnover,59,TheRudeDuck
-Koda,57,TheRudeDuck
-Sparta,57,TheRudeDuck
-The Beach Boys,55,TheRudeDuck
-Caravan,54,TheRudeDuck
-Closure in Moscow,53,TheRudeDuck
-Nigel Good,51,TheRudeDuck
-Nero,49,TheRudeDuck
-Big Black,48,TheRudeDuck
-Pavement,48,TheRudeDuck
-Porter Robinson,48,TheRudeDuck
-Kamasi Washington,46,TheRudeDuck
-Townes Van Zandt,45,TheRudeDuck
-Portishead,44,TheRudeDuck
-Can,42,TheRudeDuck
-Stevie Wonder,42,TheRudeDuck
-The Beatles,42,TheRudeDuck
-The Doors,41,TheRudeDuck
-Koven.,39,TheRudeDuck
-Wipers,39,TheRudeDuck
-The Cars,38,TheRudeDuck
-My Morning Jacket,37,TheRudeDuck
-Maybeshewill,36,TheRudeDuck
-Oasis,35,TheRudeDuck
-Ween,35,TheRudeDuck
-Arctic Monkeys,34,TheRudeDuck
-Car Seat Headrest,33,TheRudeDuck
-Blue Öyster Cult,31,TheRudeDuck
-Eden,30,TheRudeDuck
-Japandroids,30,TheRudeDuck
-Rites of Spring,30,TheRudeDuck
-Simon & Garfunkel,30,TheRudeDuck
-"Crosby, Stills & Nash",29,TheRudeDuck
-Joy Division,29,TheRudeDuck
-Miguel,28,TheRudeDuck
-Rage Against the Machine,28,TheRudeDuck
-ShockOne,28,TheRudeDuck
-Wand,28,TheRudeDuck
-ABBA,27,TheRudeDuck
-Antemasque,27,TheRudeDuck
-Pond,27,TheRudeDuck
-Temples,27,TheRudeDuck
-Camel,26,TheRudeDuck
-Erickson,26,TheRudeDuck
-Slowdive,25,TheRudeDuck
-Wolfgang Gartner,25,TheRudeDuck
-Au5,24,TheRudeDuck
-HOMESHAKE,24,TheRudeDuck
-Paul Simon,24,TheRudeDuck
-The Jesus Lizard,24,TheRudeDuck
-Black Flag,23,TheRudeDuck
-Television,23,TheRudeDuck
-Catfish and the Bottlemen,22,TheRudeDuck
-Khalid,22,TheRudeDuck
-Silverstein,22,TheRudeDuck
-FKJ,21,TheRudeDuck
-Sunny Day Real Estate,21,TheRudeDuck
-Armin van Buuren,20,TheRudeDuck
-DIIV,20,TheRudeDuck
-John Coltrane,20,TheRudeDuck
-Trap City,20,TheRudeDuck
-Neil Young,19,TheRudeDuck
-Unknown Mortal Orchestra,19,TheRudeDuck
-Chance the Rapper,18,TheRudeDuck
-The All-American Rejects,18,TheRudeDuck
-The Tallest Man on Earth,18,TheRudeDuck
-Jaco Pastorius,17,TheRudeDuck
-Melody's Echo Chamber,17,TheRudeDuck
-Minus the Bear,17,TheRudeDuck
-The Beths,16,TheRudeDuck
-Tricky,16,TheRudeDuck
-Beans,15,TheRudeDuck
-Duke Ellington,15,TheRudeDuck
-Hobo Johnson,15,TheRudeDuck
-CunninLynguists,14,TheRudeDuck
-Father John Misty,14,TheRudeDuck
-Karma Fields,14,TheRudeDuck
-Kate Bush,14,TheRudeDuck
-Moses Gunn Collective,14,TheRudeDuck
-Spoon,14,TheRudeDuck
-Steve Lacy,14,TheRudeDuck
-Swim Mountain,14,TheRudeDuck
-Bear vs. Shark,13,TheRudeDuck
-Dave Brubeck,13,TheRudeDuck
-Iron Maiden,13,TheRudeDuck
-Mastodon,13,TheRudeDuck
-Psychedelic Porn Crumpets,13,TheRudeDuck
-The Police,13,TheRudeDuck
-Ty Segall,13,TheRudeDuck
-ZHU,13,TheRudeDuck
-Fractal,12,TheRudeDuck
-Halloweens,12,TheRudeDuck
-Jamiroquai,12,TheRudeDuck
-Joey Bada$$,12,TheRudeDuck
-Michael Bublé,12,TheRudeDuck
-Silent Rider,12,TheRudeDuck
-The Pains of Being Pure at Heart,12,TheRudeDuck
-The Walkmen,12,TheRudeDuck
-Childish Gambino,11,TheRudeDuck
-Devo,11,TheRudeDuck
-Freddie Hubbard,11,TheRudeDuck
-Pipe-Eye,11,TheRudeDuck
-Serj Tankian,11,TheRudeDuck
-The Smiths,11,TheRudeDuck
-Tim Kasher,11,TheRudeDuck
-Anna Yvette,10,TheRudeDuck
-Bill Evans,10,TheRudeDuck
-Black Eyes,10,TheRudeDuck
-Bright Eyes,10,TheRudeDuck
-Camo & Krooked,10,TheRudeDuck
-Joyce Manor,10,TheRudeDuck
-St John,10,TheRudeDuck
-Styx,10,TheRudeDuck
-Destroyer,9,TheRudeDuck
-"Earth, Wind & Fire",9,TheRudeDuck
-Rogue,9,TheRudeDuck
-The Hotelier,9,TheRudeDuck
-Tropical Fuck Storm,9,TheRudeDuck
-Astronaut,8,TheRudeDuck
-Bill Evans Trio,8,TheRudeDuck
-Hall,8,TheRudeDuck
-Home,8,TheRudeDuck
-Puppet,8,TheRudeDuck
-Sungazer,8,TheRudeDuck
-Witch,8,TheRudeDuck
-America,7,TheRudeDuck
-Bad Boy Chiller Crew,7,TheRudeDuck
-Cocteau Twins,7,TheRudeDuck
-Fred V & Grafix feat. Reija Lee,7,TheRudeDuck
-Joe Walsh,7,TheRudeDuck
-Kansas,7,TheRudeDuck
-Mole Corrison,7,TheRudeDuck
-Osees,7,TheRudeDuck
-The Flaming Lips,7,TheRudeDuck
-The Killers,7,TheRudeDuck
-The Nation of Ulysses,7,TheRudeDuck
-The Weeknd,7,TheRudeDuck
-Van Morrison,7,TheRudeDuck
-Blonde Redhead,6,TheRudeDuck
-Blues Backing Tracks,6,TheRudeDuck
-Boston,6,TheRudeDuck
-Eagles,6,TheRudeDuck
-Green Day,6,TheRudeDuck
-Panopticon,6,TheRudeDuck
-Stonefield,6,TheRudeDuck
-Tortoise,6,TheRudeDuck
-twenty one pilots,6,TheRudeDuck
-Wes Montgomery,6,TheRudeDuck
-Antônio Carlos Jobim,5,TheRudeDuck
-Ariel Pink,5,TheRudeDuck
-Chet Baker,5,TheRudeDuck
-Daniel Rossen,5,TheRudeDuck
-Dead Letter Circus,5,TheRudeDuck
-JinSang,5,TheRudeDuck
-Lord Huron,5,TheRudeDuck
-Mika,5,TheRudeDuck
-Pegboard Nerds,5,TheRudeDuck
-Stan Getz,5,TheRudeDuck
-SwuM,5,TheRudeDuck
-The Murlocs,5,TheRudeDuck
-Thelonious Monk,5,TheRudeDuck
-Tiësto,5,TheRudeDuck
-Tom Waits,5,TheRudeDuck
-Vulfpeck,5,TheRudeDuck
-Watsky,5,TheRudeDuck
-7 Minutes Dead,4,TheRudeDuck
-Alex Cameron,4,TheRudeDuck
-Bathory,4,TheRudeDuck
-Beach Fossils,4,TheRudeDuck
-Billy Joel,4,TheRudeDuck
-Burial,4,TheRudeDuck
-Charles Mingus,4,TheRudeDuck
-Creedence Clearwater Revival,4,TheRudeDuck
-"Crosby, Stills, Nash & Young",4,TheRudeDuck
-Deafheaven,4,TheRudeDuck
-Dean Martin,4,TheRudeDuck
-Drugdealer,4,TheRudeDuck
-Freddie Gibbs,4,TheRudeDuck
-Gang of Youths,4,TheRudeDuck
-Hellberg,4,TheRudeDuck
-Herbie Hancock,4,TheRudeDuck
-Joni Mitchell,4,TheRudeDuck
-Labrinth,4,TheRudeDuck
-LOVING,4,TheRudeDuck
-MF DOOM,4,TheRudeDuck
-Modest Mouse,4,TheRudeDuck
-Noel Redding,4,TheRudeDuck
-Noisestorm,4,TheRudeDuck
-Pendulum,4,TheRudeDuck
-Rameses B,4,TheRudeDuck
-Steely Dan,4,TheRudeDuck
-Stereotronique,4,TheRudeDuck
-The B-52's,4,TheRudeDuck
-The Clash,4,TheRudeDuck
-The Psychedelic Furs,4,TheRudeDuck
-The Shins,4,TheRudeDuck
-The Standells,4,TheRudeDuck
-The Zombies,4,TheRudeDuck
-Tristam,4,TheRudeDuck
-Vince Staples,4,TheRudeDuck
-Zacari,4,TheRudeDuck
-A Perfect Circle,3,TheRudeDuck
-Aero Chord,3,TheRudeDuck
-And So I Watch You From Afar,3,TheRudeDuck
-Andy Shauf,3,TheRudeDuck
-Angel Olsen,3,TheRudeDuck
-Aphex Twin,3,TheRudeDuck
-Bedouin Soundclash,3,TheRudeDuck
-Billy Idol,3,TheRudeDuck
-Black Eyed Peas,3,TheRudeDuck
-BlocBoy JB,3,TheRudeDuck
-Britney Spears,3,TheRudeDuck
-Broadcast,3,TheRudeDuck
-Camille Saint-Saëns,3,TheRudeDuck
-Chick Corea,3,TheRudeDuck
-Coldplay,3,TheRudeDuck
-Cotton Jones,3,TheRudeDuck
-Daniel Johnston,3,TheRudeDuck
-Denzel Curry,3,TheRudeDuck
-DJ Sabrina The Teenage DJ,3,TheRudeDuck
-Donovan,3,TheRudeDuck
-Eevee,3,TheRudeDuck
-Ella Fitzgerald,3,TheRudeDuck
-Flo Rida,3,TheRudeDuck
-Florence + the Machine,3,TheRudeDuck
-Foxygen,3,TheRudeDuck
-Gwen Stefani,3,TheRudeDuck
-Hermitude,3,TheRudeDuck
-Holy Wave,3,TheRudeDuck
-How to Destroy Angels,3,TheRudeDuck
-idealism,3,TheRudeDuck
-Idles,3,TheRudeDuck
-Interpol,3,TheRudeDuck
-Iron & Wine,3,TheRudeDuck
-Jay Rock,3,TheRudeDuck
-Jay Sean,3,TheRudeDuck
-John Coltrane Quartet,3,TheRudeDuck
-Local Natives,3,TheRudeDuck
-Looking Glass,3,TheRudeDuck
-Lou Bega,3,TheRudeDuck
-Made in M,3,TheRudeDuck
-Magdalena Bay,3,TheRudeDuck
-MANWOLVES,3,TheRudeDuck
-Matt Maeson,3,TheRudeDuck
-MitiS,3,TheRudeDuck
-Mr FijiWiji,3,TheRudeDuck
-NAV,3,TheRudeDuck
-Nicki Minaj,3,TheRudeDuck
-Omni,3,TheRudeDuck
-Oneohtrix Point Never,3,TheRudeDuck
-Paul Desmond,3,TheRudeDuck
-PIXL,3,TheRudeDuck
-Rihanna,3,TheRudeDuck
-Ryley Walker,3,TheRudeDuck
-Sean Paul,3,TheRudeDuck
-Singularity,3,TheRudeDuck
-SOB x RBE,3,TheRudeDuck
-Soulja Boy,3,TheRudeDuck
-Spose,3,TheRudeDuck
-Summer Salt,3,TheRudeDuck
-Sweet,3,TheRudeDuck
-The Mamas & the Papas,3,TheRudeDuck
-The Monkees,3,TheRudeDuck
-The Stampeders,3,TheRudeDuck
-The Yardbirds,3,TheRudeDuck
-The Zeros,3,TheRudeDuck
-Thurston Moore,3,TheRudeDuck
-Trivecta,3,TheRudeDuck
-Tut Tut Child,3,TheRudeDuck
-Twista,3,TheRudeDuck
-Ultimate Spinach,3,TheRudeDuck
-Usher,3,TheRudeDuck
-Varien,3,TheRudeDuck
-Washed Out,3,TheRudeDuck
-Wayne Shorter,3,TheRudeDuck
-Wesley Willis,3,TheRudeDuck
-Women,3,TheRudeDuck
-Wun Two,3,TheRudeDuck
-Yung Gravy,3,TheRudeDuck
-_tag,2,TheRudeDuck
-13th Floor Elevators,2,TheRudeDuck
-24kGoldn,2,TheRudeDuck
-50 Cent,2,TheRudeDuck
-A L E X,2,TheRudeDuck
-A$AP Rocky,2,TheRudeDuck
-Ab-Soul,2,TheRudeDuck
-Aerosmith,2,TheRudeDuck
-Akon,2,TheRudeDuck
-Alex G,2,TheRudeDuck
-Ariana Grande,2,TheRudeDuck
-Atoms for Peace,2,TheRudeDuck
-Aviators,2,TheRudeDuck
-aXian,2,TheRudeDuck
-Bad Religion,2,TheRudeDuck
-barnes blvd.,2,TheRudeDuck
-Baroness,2,TheRudeDuck
-Battles,2,TheRudeDuck
-Big Thief,2,TheRudeDuck
-Black Lips,2,TheRudeDuck
-Blank Banshee,2,TheRudeDuck
-Bon Iver,2,TheRudeDuck
-Brad Mehldau,2,TheRudeDuck
-Broken Bells,2,TheRudeDuck
-Brookes Brothers,2,TheRudeDuck
-bru-c,2,TheRudeDuck
-Brye,2,TheRudeDuck
-Burgundy Skies,2,TheRudeDuck
-Caesars,2,TheRudeDuck
-Cave In,2,TheRudeDuck
-Chad VanGaalen,2,TheRudeDuck
-Charli XCX,2,TheRudeDuck
-Chelsea Wolfe,2,TheRudeDuck
-Chris Brown,2,TheRudeDuck
-Chris Webby,2,TheRudeDuck
-Claes Rosen,2,TheRudeDuck
-Clifford Brown,2,TheRudeDuck
-Colleen D'Agostino,2,TheRudeDuck
-Com Truise,2,TheRudeDuck
-Corey Feldman,2,TheRudeDuck
-Cosmo Pyke,2,TheRudeDuck
-Country Joe & The Fish,2,TheRudeDuck
-Courtney Barnett,2,TheRudeDuck
-Cream,2,TheRudeDuck
-Damaged Bug,2,TheRudeDuck
-Daniel Caesar,2,TheRudeDuck
-Daniele Luppi,2,TheRudeDuck
-Desaparecidos,2,TheRudeDuck
-Descendents,2,TheRudeDuck
-Dinka,2,TheRudeDuck
-Django Reinhardt,2,TheRudeDuck
-Dobie Gray,2,TheRudeDuck
-Don McLean,2,TheRudeDuck
-Doss,2,TheRudeDuck
-Dot Hacker,2,TheRudeDuck
-Draper,2,TheRudeDuck
-Droptek,2,TheRudeDuck
-Dub Trio,2,TheRudeDuck
-Eli Starr Trio,2,TheRudeDuck
-elijah who,2,TheRudeDuck
-Elton John,2,TheRudeDuck
-Eminence,2,TheRudeDuck
-Estelle,2,TheRudeDuck
-Eucalyptic,2,TheRudeDuck
-Faces,2,TheRudeDuck
-Feint,2,TheRudeDuck
-Fergie,2,TheRudeDuck
-Flat Worms,2,TheRudeDuck
-Flower Travellin' Band,2,TheRudeDuck
-Flughand,2,TheRudeDuck
-Future Islands,2,TheRudeDuck
-Gang of Four,2,TheRudeDuck
-Gary Burton,2,TheRudeDuck
-George Acosta,2,TheRudeDuck
-Good Morning,2,TheRudeDuck
-Gregory Esayan,2,TheRudeDuck
-Guided by Voices,2,TheRudeDuck
-Guy Onraet,2,TheRudeDuck
-Haley Heynderickx,2,TheRudeDuck
-Harris Cole,2,TheRudeDuck
-Harry Styles,2,TheRudeDuck
-Helvetia,2,TheRudeDuck
-Henry Mancini,2,TheRudeDuck
-Her's,2,TheRudeDuck
-Horsey,2,TheRudeDuck
-I.Y.F.F.E,2,TheRudeDuck
-Ichiko Aoba,2,TheRudeDuck
-Iman Omari,2,TheRudeDuck
-In Love With a Ghost,2,TheRudeDuck
-infinite bisous,2,TheRudeDuck
-Isaiah Rashad,2,TheRudeDuck
-J'San,2,TheRudeDuck
-Jack Johnson,2,TheRudeDuck
-Japanese Breakfast,2,TheRudeDuck
-Jimmy Buffett,2,TheRudeDuck
-Johnny Cash,2,TheRudeDuck
-Jorja Smith,2,TheRudeDuck
-Juice WRLD,2,TheRudeDuck
-Juventa,2,TheRudeDuck
-Kasbo,2,TheRudeDuck
-Ke$ha,2,TheRudeDuck
-Kelly Clarkson,2,TheRudeDuck
-Keri Hilson,2,TheRudeDuck
-Khruangbin,2,TheRudeDuck
-King Tuff,2,TheRudeDuck
-Kshmr,2,TheRudeDuck
-LCD Soundsystem,2,TheRudeDuck
-Lee Ranaldo,2,TheRudeDuck
-Leonard Peters,2,TheRudeDuck
-Les Paul,2,TheRudeDuck
-M.I.A.,2,TheRudeDuck
-Majestic,2,TheRudeDuck
-Mario,2,TheRudeDuck
-McCoy Tyner,2,TheRudeDuck
-Michael Cera,2,TheRudeDuck
-Michael Haggins,2,TheRudeDuck
-Mommy,2,TheRudeDuck
-Mondo Drag,2,TheRudeDuck
-Mötley Crüe,2,TheRudeDuck
-Mozzy,2,TheRudeDuck
-Nafis,2,TheRudeDuck
-Natasha Bedingfield,2,TheRudeDuck
-Natural Child,2,TheRudeDuck
-Nelly,2,TheRudeDuck
-Oliver Tree,2,TheRudeDuck
-Olivia Rodrigo,2,TheRudeDuck
-Oscar Peterson Trio,2,TheRudeDuck
-Our Lady Peace,2,TheRudeDuck
-Panda Bear,2,TheRudeDuck
-Panic! at the Disco,2,TheRudeDuck
-Pissed Jeans,2,TheRudeDuck
-Pixies,2,TheRudeDuck
-Plain White T's,2,TheRudeDuck
-Popeska,2,TheRudeDuck
-Protostar,2,TheRudeDuck
-Pure Prairie League,2,TheRudeDuck
-"QUICKLY, QUICKLY",2,TheRudeDuck
-Ramones,2,TheRudeDuck
-Raveena,2,TheRudeDuck
-Reina del Mar,2,TheRudeDuck
-Reverend Baron,2,TheRudeDuck
-Rich the Kid,2,TheRudeDuck
-Riton,2,TheRudeDuck
-Robert Elovsson Quartet,2,TheRudeDuck
-Rogue Feat. Meg Dean,2,TheRudeDuck
-Rollz,2,TheRudeDuck
-Rootkit,2,TheRudeDuck
-Sam Barsh,2,TheRudeDuck
-ScHoolboy Q,2,TheRudeDuck
-Seneca B,2,TheRudeDuck
-Shakira,2,TheRudeDuck
-Shame,2,TheRudeDuck
-Sharon Van Etten,2,TheRudeDuck
-Simon J,2,TheRudeDuck
-sleepdealer,2,TheRudeDuck
-Snail's house,2,TheRudeDuck
-Sonny Rollins,2,TheRudeDuck
-Soulero,2,TheRudeDuck
-Soulforge,2,TheRudeDuck
-Sunbeam Sound Machine,2,TheRudeDuck
-Superorganism,2,TheRudeDuck
-T.I.,2,TheRudeDuck
-Tally Hall,2,TheRudeDuck
-Telomic,2,TheRudeDuck
-The Brian Jonestown Massacre,2,TheRudeDuck
-The Buttertones,2,TheRudeDuck
-The Clientele,2,TheRudeDuck
-The Dillinger Escape Plan,2,TheRudeDuck
-The Effends,2,TheRudeDuck
-The Kinks,2,TheRudeDuck
-The KVB,2,TheRudeDuck
-The Lumineers,2,TheRudeDuck
-The Rapture,2,TheRudeDuck
-The Tides,2,TheRudeDuck
-The Voidz,2,TheRudeDuck
-Tommy Tutone,2,TheRudeDuck
-Toro y Moi,2,TheRudeDuck
-Toto,2,TheRudeDuck
-Triathalon,2,TheRudeDuck
-TV on the Radio,2,TheRudeDuck
-TwoThirds,2,TheRudeDuck
-Ty Segall Band,2,TheRudeDuck
-Tycho,2,TheRudeDuck
-Vengaboys,2,TheRudeDuck
-Wallows,2,TheRudeDuck
-Weezer,2,TheRudeDuck
-Win and Woo,2,TheRudeDuck
-Yusuf,2,TheRudeDuck
-Zella Day,2,TheRudeDuck
-[bsd.u],1,TheRudeDuck
-1-800-SUPERSTAR,1,TheRudeDuck
-18 Carat Affair,1,TheRudeDuck
-1985 Donmar Warehouse Cast,1,TheRudeDuck
-2 Chainz,1,TheRudeDuck
-369,1,TheRudeDuck
-A Place to Bury Strangers,1,TheRudeDuck
-a-ha,1,TheRudeDuck
-A$AP Mob,1,TheRudeDuck
-Aaron James,1,TheRudeDuck
-AC/DC,1,TheRudeDuck
-Aeron Aether,1,TheRudeDuck
-Aeron Aether & Mango & Andre Frauenstein,1,TheRudeDuck
-Afroman,1,TheRudeDuck
-Ahe Bane,1,TheRudeDuck
-Ahmad Jamal Trio,1,TheRudeDuck
-Alessia Cara,1,TheRudeDuck
-Alex Lahey,1,TheRudeDuck
-Alfons,1,TheRudeDuck
-Alice Coltrane,1,TheRudeDuck
-Alice in Chains,1,TheRudeDuck
-Alicia Keys,1,TheRudeDuck
-Allah-Las,1,TheRudeDuck
-Allie X,1,TheRudeDuck
-Alma,1,TheRudeDuck
-Alyss,1,TheRudeDuck
-Amen Dunes,1,TheRudeDuck
-Anamanaguchi,1,TheRudeDuck
-Andrew Gold,1,TheRudeDuck
-Andy Williams,1,TheRudeDuck
-Anita O'Day,1,TheRudeDuck
-Antonio Vivaldi,1,TheRudeDuck
-Arbour,1,TheRudeDuck
-Arcade Player,1,TheRudeDuck
-Art Blakey,1,TheRudeDuck
-As Tall As Lions,1,TheRudeDuck
-Aso,1,TheRudeDuck
-Astrud Gilberto,1,TheRudeDuck
-Audioslave,1,TheRudeDuck
-Avenged Sevenfold,1,TheRudeDuck
-Avril Lavigne,1,TheRudeDuck
-Ayelle,1,TheRudeDuck
-AZEDIA,1,TheRudeDuck
-B.o.B,1,TheRudeDuck
-Backxwash,1,TheRudeDuck
-Bad Brains,1,TheRudeDuck
-Baha Men,1,TheRudeDuck
-Bakar,1,TheRudeDuck
-Barrie,1,TheRudeDuck
-Bass Drum of Death,1,TheRudeDuck
-Bassti,1,TheRudeDuck
-bbno$,1,TheRudeDuck
-Beach Bunny,1,TheRudeDuck
-Beachdust,1,TheRudeDuck
-Beastie Boys,1,TheRudeDuck
-Beau Projet,1,TheRudeDuck
-Bebe Rexha,1,TheRudeDuck
-Beirut,1,TheRudeDuck
-Ben Folds Five,1,TheRudeDuck
-Ben Webster,1,TheRudeDuck
-Benny Golson and The Philadelphians,1,TheRudeDuck
-Benny Goodman,1,TheRudeDuck
-Bert H,1,TheRudeDuck
-Beyoncé,1,TheRudeDuck
-Big K.R.I.T.,1,TheRudeDuck
-Bill Withers,1,TheRudeDuck
-Billie Holiday,1,TheRudeDuck
-Billy Lemos,1,TheRudeDuck
-Billy Strayhorn,1,TheRudeDuck
-Birds of Maya,1,TheRudeDuck
-Biz Markie,1,TheRudeDuck
-Björk,1,TheRudeDuck
-Black Atlass,1,TheRudeDuck
-"Black Country, New Road",1,TheRudeDuck
-Black Grapefruit,1,TheRudeDuck
-Black Moth Super Rainbow,1,TheRudeDuck
-Black Mountain,1,TheRudeDuck
-blackbear,1,TheRudeDuck
-Bleachers,1,TheRudeDuck
-Blue Wednesday,1,TheRudeDuck
-bluedoom,1,TheRudeDuck
-bluntone,1,TheRudeDuck
-Blur,1,TheRudeDuck
-Bob Dylan,1,TheRudeDuck
-Bob Marley & The Wailers,1,TheRudeDuck
-Bob Seger,1,TheRudeDuck
-Bobby Helms,1,TheRudeDuck
-Bodies of Water,1,TheRudeDuck
-Boney M.,1,TheRudeDuck
-Bonnie Tyler,1,TheRudeDuck
-Booker-T,1,TheRudeDuck
-Boom Jinx & Soundprank,1,TheRudeDuck
-Botnek,1,TheRudeDuck
-Brainiac,1,TheRudeDuck
-Brant Bjork,1,TheRudeDuck
-Brock Berrigan,1,TheRudeDuck
-Bruno Mars,1,TheRudeDuck
-Bryce Dessner,1,TheRudeDuck
-Bud Powell,1,TheRudeDuck
-Burt Bacharach,1,TheRudeDuck
-Burt Mitchell,1,TheRudeDuck
-Burzum,1,TheRudeDuck
-Buscabulla,1,TheRudeDuck
-Busta Rhymes,1,TheRudeDuck
-Butthole Surfers,1,TheRudeDuck
-Buzzcocks,1,TheRudeDuck
-Calvin Harris,1,TheRudeDuck
-Cap'n Jazz,1,TheRudeDuck
-Carl Arnett,1,TheRudeDuck
-Case & Point,1,TheRudeDuck
-Cash Cash,1,TheRudeDuck
-Castanets,1,TheRudeDuck
-Cat Power,1,TheRudeDuck
-Cautious Clay,1,TheRudeDuck
-Charlie Barnet,1,TheRudeDuck
-Charlie Daniels Band,1,TheRudeDuck
-Charlie Parker,1,TheRudeDuck
-Chaz Bundick Meets The Mattson 2,1,TheRudeDuck
-Chicane,1,TheRudeDuck
-Chief Keef,1,TheRudeDuck
-Choir Boy,1,TheRudeDuck
-Chris Mazuera,1,TheRudeDuck
-Chrome Sparks,1,TheRudeDuck
-Ciara,1,TheRudeDuck
-City Girl,1,TheRudeDuck
-City of Caterpillar,1,TheRudeDuck
-Claude Debussy,1,TheRudeDuck
-Colbie Caillat,1,TheRudeDuck
-Cole Porter,1,TheRudeDuck
-Confusing Guy,1,TheRudeDuck
-Conro,1,TheRudeDuck
-Cookie Jar,1,TheRudeDuck
-Cookin Soul,1,TheRudeDuck
-Cool Ghouls,1,TheRudeDuck
-Cosha,1,TheRudeDuck
-Cosmic Gate & Andrew Bayer,1,TheRudeDuck
-Count Basie,1,TheRudeDuck
-Crazy Frog,1,TheRudeDuck
-Crocodylus,1,TheRudeDuck
-Crowded House,1,TheRudeDuck
-Culture Shock,1,TheRudeDuck
-Daily Bread,1,TheRudeDuck
-Dakat,1,TheRudeDuck
-Dance Gavin Dance,1,TheRudeDuck
-Danger Mouse,1,TheRudeDuck
-Dave Grohl,1,TheRudeDuck
-Dave Guard,1,TheRudeDuck
-David Fitzpatrick Trio,1,TheRudeDuck
-Dawes,1,TheRudeDuck
-Dead Ghosts,1,TheRudeDuck
-Dead Moon,1,TheRudeDuck
-Death in Vegas,1,TheRudeDuck
-deem spencer,1,TheRudeDuck
-Delayde,1,TheRudeDuck
-Desert Sessions,1,TheRudeDuck
-Desired,1,TheRudeDuck
-Devaloop,1,TheRudeDuck
-Dexys Midnight Runners,1,TheRudeDuck
-Dijon,1,TheRudeDuck
-Dillon Francis,1,TheRudeDuck
-Dimension,1,TheRudeDuck
-Dinosaur Jr.,1,TheRudeDuck
-Diplo,1,TheRudeDuck
-Dirty Beaches,1,TheRudeDuck
-Dirty South,1,TheRudeDuck
-Dizzy Gillespie,1,TheRudeDuck
-DJ Jules,1,TheRudeDuck
-DJ Khaled,1,TheRudeDuck
-Django Django,1,TheRudeDuck
-Dogleg,1,TheRudeDuck
-"Dream, Ivory",1,TheRudeDuck
-Dreamers Delight,1,TheRudeDuck
-DripReport,1,TheRudeDuck
-DROELOE,1,TheRudeDuck
-Dua Lipa,1,TheRudeDuck
-Dumbo Gets Mad,1,TheRudeDuck
-Duncan Sheik,1,TheRudeDuck
-Dylan Lytle,1,TheRudeDuck
-EARTHGANG,1,TheRudeDuck
-Echosmith,1,TheRudeDuck
-Ed Sheeran,1,TheRudeDuck
-Edu.,1,TheRudeDuck
-El-P,1,TheRudeDuck
-Electric Wizard,1,TheRudeDuck
-Electric Youth,1,TheRudeDuck
-Elhae,1,TheRudeDuck
-Elijah Blake,1,TheRudeDuck
-Elise Magnefold,1,TheRudeDuck
-Elvis Costello,1,TheRudeDuck
-Eminem,1,TheRudeDuck
-Emitt Rhodes,1,TheRudeDuck
-Empire of the Sun,1,TheRudeDuck
-Ennio Máno,1,TheRudeDuck
-Ethan Gruska,1,TheRudeDuck
-Eugene Lambert,1,TheRudeDuck
-Everything Everything,1,TheRudeDuck
-Faded Paper Figures,1,TheRudeDuck
-FANTOMPOWER,1,TheRudeDuck
-Fats Waller,1,TheRudeDuck
-Favright,1,TheRudeDuck
-Feed Me Jack,1,TheRudeDuck
-Feet,1,TheRudeDuck
-Feist,1,TheRudeDuck
-Fickle Friends,1,TheRudeDuck
-Figub Brazlevič,1,TheRudeDuck
-Flea,1,TheRudeDuck
-Floating Points,1,TheRudeDuck
-Flobots,1,TheRudeDuck
-flovry,1,TheRudeDuck
-Foals,1,TheRudeDuck
-Ford.,1,TheRudeDuck
-Francis Lai,1,TheRudeDuck
-Frank Carter & The Rattlesnakes,1,TheRudeDuck
-Frédéric Chopin,1,TheRudeDuck
-Fritz Kreisler,1,TheRudeDuck
-Froth,1,TheRudeDuck
-fujitsu,1,TheRudeDuck
-Fyfe,1,TheRudeDuck
-Gal Abutbul,1,TheRudeDuck
-Generationals,1,TheRudeDuck
-Genesis Owusu,1,TheRudeDuck
-George Gershwin,1,TheRudeDuck
-Gerry Gibbs and The Third Trio from the Sun,1,TheRudeDuck
-Ghost Funk Orchestra,1,TheRudeDuck
-Ghostnaut,1,TheRudeDuck
-Girls,1,TheRudeDuck
-Gladys Knight & The Pips,1,TheRudeDuck
-Glass Animals,1,TheRudeDuck
-Glenn Miller,1,TheRudeDuck
-Glimlip,1,TheRudeDuck
-Gluecifer,1,TheRudeDuck
-Gold Celeste,1,TheRudeDuck
-Gomez,1,TheRudeDuck
-Goo Goo Dolls,1,TheRudeDuck
-Gordon Lightfoot,1,TheRudeDuck
-Grandaddy,1,TheRudeDuck
-Grant Green,1,TheRudeDuck
-Grapetooth,1,TheRudeDuck
-Grateful Dead,1,TheRudeDuck
-Greg Foat,1,TheRudeDuck
-Greg Kosic,1,TheRudeDuck
-Grove Street Quartet,1,TheRudeDuck
-H E R B,1,TheRudeDuck
-Handbook,1,TheRudeDuck
-Hanreti,1,TheRudeDuck
-Hard Bass School,1,TheRudeDuck
-Hatchie,1,TheRudeDuck
-Hazem Beltagui,1,TheRudeDuck
-Help Stamp Out Loneliness,1,TheRudeDuck
-Helvetic Nerds,1,TheRudeDuck
-Henry Lindon,1,TheRudeDuck
-Hiatus Kaiyote,1,TheRudeDuck
-Hibou,1,TheRudeDuck
-Highly Suspect,1,TheRudeDuck
-Hiromi,1,TheRudeDuck
-HM SURF,1,TheRudeDuck
-Homeboy Sandman,1,TheRudeDuck
-Honeymoan,1,TheRudeDuck
-Hooded Fang,1,TheRudeDuck
-Hot Date,1,TheRudeDuck
-House of Pain,1,TheRudeDuck
-HOWES3,1,TheRudeDuck
-Ian Noe,1,TheRudeDuck
-Illiterate,1,TheRudeDuck
-Illuminati Hotties,1,TheRudeDuck
-Infinity Ripple,1,TheRudeDuck
-Inner Wave,1,TheRudeDuck
-Insan3lik3,1,TheRudeDuck
-invention_,1,TheRudeDuck
-j^p^n,1,TheRudeDuck
-Jacob Henry,1,TheRudeDuck
-Jaden Smith,1,TheRudeDuck
-Jaeden Camstra,1,TheRudeDuck
-Jakob Ahlbom,1,TheRudeDuck
-James,1,TheRudeDuck
-James Blunt,1,TheRudeDuck
-James Jackson Jazz Trio,1,TheRudeDuck
-Jane Archer and the Reactionaries,1,TheRudeDuck
-Jason Derülo,1,TheRudeDuck
-jasper bones,1,TheRudeDuck
-JAY-Z,1,TheRudeDuck
-JayKae,1,TheRudeDuck
-jazzinuf,1,TheRudeDuck
-JC Hopkins Biggish Band,1,TheRudeDuck
-Jeff Rosenstock,1,TheRudeDuck
-Jefferson Airplane,1,TheRudeDuck
-Jeremih,1,TheRudeDuck
-Jerome Kern,1,TheRudeDuck
-Jerry Paper,1,TheRudeDuck
-Jessie Ware,1,TheRudeDuck
-Jethimself,1,TheRudeDuck
-jhfly,1,TheRudeDuck
-Jim Croce,1,TheRudeDuck
-Jimmy Eat World,1,TheRudeDuck
-Jimmy Smith,1,TheRudeDuck
-JNYR,1,TheRudeDuck
-jobii,1,TheRudeDuck
-Joe Zawinul,1,TheRudeDuck
-Johann Sebastian Bach,1,TheRudeDuck
-John Denver,1,TheRudeDuck
-John Lennon,1,TheRudeDuck
-John Lewis,1,TheRudeDuck
-John Mayer,1,TheRudeDuck
-John Mellencamp,1,TheRudeDuck
-John Scofield,1,TheRudeDuck
-Johnny Mathis,1,TheRudeDuck
-Jonny Greenwood,1,TheRudeDuck
-José Feliciano,1,TheRudeDuck
-Joshua Redman,1,TheRudeDuck
-Journey,1,TheRudeDuck
-JR Castro,1,TheRudeDuck
-Julian Lynch,1,TheRudeDuck
-JunkieMunkie,1,TheRudeDuck
-Justice,1,TheRudeDuck
-Justin Timberlake,1,TheRudeDuck
-KAN SANO,1,TheRudeDuck
-karavelo,1,TheRudeDuck
-Kashmere Stage Band,1,TheRudeDuck
-Kendall Miles,1,TheRudeDuck
-Kenny Burrell,1,TheRudeDuck
-Kenny Rogers & The First Edition,1,TheRudeDuck
-Kero Kero Bonito,1,TheRudeDuck
-Kevin Abstract,1,TheRudeDuck
-Kill Paris,1,TheRudeDuck
-"King Crimson, David Singleton",1,TheRudeDuck
-KLIM,1,TheRudeDuck
-knowmadic,1,TheRudeDuck
-Knxwledge,1,TheRudeDuck
-KOAN Sound,1,TheRudeDuck
-Koi Child,1,TheRudeDuck
-Kollavinilika,1,TheRudeDuck
-kori,1,TheRudeDuck
-Kylie Minogue,1,TheRudeDuck
-L'indécis,1,TheRudeDuck
-Lady Gaga,1,TheRudeDuck
-Las Rosas,1,TheRudeDuck
-Laszlo,1,TheRudeDuck
-Laurie Sharon Quartet,1,TheRudeDuck
-Leftfield,1,TheRudeDuck
-Leona Lewis,1,TheRudeDuck
-Lester Young,1,TheRudeDuck
-Liars,1,TheRudeDuck
-Light Bin,1,TheRudeDuck
-Light of Sun,1,TheRudeDuck
-Lil B,1,TheRudeDuck
-Lil Nas X,1,TheRudeDuck
-Lil Uzi Vert,1,TheRudeDuck
-Limp Bizkit,1,TheRudeDuck
-Link Wray,1,TheRudeDuck
-"Lipps, Inc.",1,TheRudeDuck
-Living Colour,1,TheRudeDuck
-lōland,1,TheRudeDuck
-Low,1,TheRudeDuck
-Low Strung,1,TheRudeDuck
-Lucy Dacus,1,TheRudeDuck
-Luigi Valentino,1,TheRudeDuck
-Luiz Bonfá,1,TheRudeDuck
-Lungfish,1,TheRudeDuck
-Lush,1,TheRudeDuck
-LVNDVN,1,TheRudeDuck
-M. Ward,1,TheRudeDuck
-M83,1,TheRudeDuck
-Mac Miller,1,TheRudeDuck
-Madeon,1,TheRudeDuck
-Madonna,1,TheRudeDuck
-Magnus Ringblom Quartet,1,TheRudeDuck
-Mahavishnu Orchestra,1,TheRudeDuck
-Mal Waldron,1,TheRudeDuck
-Mannequin Pussy,1,TheRudeDuck
-Marcos Valle,1,TheRudeDuck
-Marcy Playground,1,TheRudeDuck
-Marquis Hill,1,TheRudeDuck
-Mary J. Blige,1,TheRudeDuck
-Matt Black,1,TheRudeDuck
-Matt Champion,1,TheRudeDuck
-Matt Lange,1,TheRudeDuck
-Meat Puppets,1,TheRudeDuck
-Meatbodies,1,TheRudeDuck
-Kanye West,191,superfrat
-Spose,102,superfrat
-Watsky,95,superfrat
-Juice WRLD,92,superfrat
-Lil Nas X,81,superfrat
-Jack Johnson,80,superfrat
-Zac Brown Band,80,superfrat
-Miracle Tones,77,superfrat
-Drake,71,superfrat
-Tai Verdes,68,superfrat
-Joji,62,superfrat
-Eagles,58,superfrat
-Johnny Cash,53,superfrat
-Polo G,47,superfrat
-Johann Sebastian Bach,45,superfrat
-Certified Lover Boy,44,superfrat
-Gordon Lightfoot,44,superfrat
-Santana,38,superfrat
-Nat King Cole,36,superfrat
-Black Sabbath,34,superfrat
-Jim Croce,34,superfrat
-Ryan Caraveo,34,superfrat
-The Dave Brubeck Quartet,34,superfrat
-Rich Brian,33,superfrat
-Tiagz,32,superfrat
-SonReal,29,superfrat
-Creedence Clearwater Revival,27,superfrat
-John Denver,27,superfrat
-Billy Joel,26,superfrat
-Chris de Burgh,26,superfrat
-Jane Archer and the Reactionaries,26,superfrat
-Miracle of Sound,26,superfrat
-The Beths,26,superfrat
-U.S. Drill Sergeant Field Recordings,26,superfrat
-Chris Webby,24,superfrat
-Looking Glass,24,superfrat
-Chance the Rapper,23,superfrat
-Yung Gravy,23,superfrat
-Frédéric Chopin,22,superfrat
-Frank Sinatra,21,superfrat
-Astrud Gilberto,20,superfrat
-Goo Goo Dolls,20,superfrat
-Token,20,superfrat
-Boney M.,19,superfrat
-Michael Bublé,19,superfrat
-Steve Miller Band,19,superfrat
-Alex Cameron,18,superfrat
-John Mellencamp,18,superfrat
-King Gizzard & The Lizard Wizard,18,superfrat
-The Nitty Gritty Dirt Band,18,superfrat
-Van Halen,18,superfrat
-Willie Nelson,18,superfrat
-Dave Brubeck,17,superfrat
-Kendrick Lamar,17,superfrat
-The Arrogant Worms,17,superfrat
-The Rolling Stones,17,superfrat
-James Taylor,16,superfrat
-Jimmy Buffett,16,superfrat
-Post Malone,16,superfrat
-Quinn XCII,16,superfrat
-Van Morrison,16,superfrat
-AK,15,superfrat
-Denzel Curry,15,superfrat
-Future,15,superfrat
-Gipsy Kings,15,superfrat
-Nate Lesco,15,superfrat
-Stan Getz,15,superfrat
-The U.S. Army Airborne Rangers,15,superfrat
-Tom Misch,15,superfrat
-Fleet Foxes,14,superfrat
-Marty Robbins,14,superfrat
-Shotgun Willy,14,superfrat
-Steely Dan,14,superfrat
-Surfaces,14,superfrat
-TOKYO’S REVENGE,14,superfrat
-Akira The Don,13,superfrat
-BabyJake,13,superfrat
-bbno$,13,superfrat
-Boston,13,superfrat
-Paul Simon,13,superfrat
-South Park Mexican,13,superfrat
-The U.S. Marines,13,superfrat
-50 Cent,12,superfrat
-Electric Light Orchestra,12,superfrat
-George Gershwin,12,superfrat
-Joe Walsh,12,superfrat
-Luiz Bonfá,12,superfrat
-Roger Miller,12,superfrat
-The Stampeders,12,superfrat
-Aviators,11,superfrat
-Bryce Vine,11,superfrat
-Don McLean,11,superfrat
-Eminem,11,superfrat
-Mick Konstantin,11,superfrat
-Tennessee Ernie Ford,11,superfrat
-Twiddle,11,superfrat
-Vince Staples,11,superfrat
-Wolfmother,11,superfrat
-88rising,10,superfrat
-Bachman-Turner Overdrive,10,superfrat
-Camille Saint-Saëns,10,superfrat
-Doris Day,10,superfrat
-Hall & Oates,10,superfrat
-Joey Bada$$,10,superfrat
-Josh A,10,superfrat
-Neil Young,10,superfrat
-Simon & Garfunkel,10,superfrat
-Tech N9ne,10,superfrat
-The Allman Brothers Band,10,superfrat
-Toby Keith,10,superfrat
-YNW Melly,10,superfrat
-21 Savage,9,superfrat
-Andy Mineo,9,superfrat
-Blue Scholars,9,superfrat
-Chip Boaz,9,superfrat
-Corb Lund,9,superfrat
-Django Reinhardt,9,superfrat
-"Earth, Wind & Fire",9,superfrat
-Hopsin,9,superfrat
-Jim Breuer,9,superfrat
-Louis Armstrong,9,superfrat
-Matt Maeson,9,superfrat
-Metallica,9,superfrat
-Michael Haggins,9,superfrat
-Phil Collins,9,superfrat
-Red Hot Chili Peppers,9,superfrat
-Stevie Wonder,9,superfrat
-The Band,9,superfrat
-Tom Petty,9,superfrat
-Wolfgang Amadeus Mozart,9,superfrat
-Barry Manilow,8,superfrat
-Bob Seger,8,superfrat
-Busta Rhymes,8,superfrat
-DaBaby,8,superfrat
-Dean Martin,8,superfrat
-Franz Liszt,8,superfrat
-Grateful Dead,8,superfrat
-Great Big Sea,8,superfrat
-Jimmy Cliff,8,superfrat
-Justin Bieber,8,superfrat
-KOTA The Friend,8,superfrat
-Lil B,8,superfrat
-Lynyrd Skynyrd,8,superfrat
-Marvin Gaye,8,superfrat
-My Morning Jacket,8,superfrat
-Natalie Cole,8,superfrat
-Oliver Tree,8,superfrat
-Pop Smoke,8,superfrat
-Radioclub,8,superfrat
-SAD FROSTY,8,superfrat
-Tame Impala,8,superfrat
-The J. Geils Band,8,superfrat
-The Weeknd,8,superfrat
-Weezer,8,superfrat
-a-ha,7,superfrat
-Bon Jovi,7,superfrat
-Claude Debussy,7,superfrat
-Glen Campbell,7,superfrat
-J. Cole,7,superfrat
-JASIAH,7,superfrat
-João Gilberto,7,superfrat
-Lil' Wayne,7,superfrat
-Mötley Crüe,7,superfrat
-NAV,7,superfrat
-Neil Diamond,7,superfrat
-Ornella Vanoni,7,superfrat
-Piero Umiliani,7,superfrat
-Steve Earle,7,superfrat
-The Longest Johns,7,superfrat
-The Righteous Brothers,7,superfrat
-The Seige,7,superfrat
-tobi lou,7,superfrat
-Townes Van Zandt,7,superfrat
-Ween,7,superfrat
-YNG Martyr,7,superfrat
-Aesop Rock,6,superfrat
-AL-X the Great,6,superfrat
-Andrea Bocelli,6,superfrat
-Billy Marchiafava,6,superfrat
-Elton John,6,superfrat
-Genesis,6,superfrat
-Grand Funk Railroad,6,superfrat
-Kenny G,6,superfrat
-khai dreams,6,superfrat
-Kid Quill,6,superfrat
-Led Zeppelin,6,superfrat
-Looptroop Rockers,6,superfrat
-Myriam Alter,6,superfrat
-Nas,6,superfrat
-Ne-Yo,6,superfrat
-Nick Drake,6,superfrat
-Norman Greenbaum,6,superfrat
-Pure Prairie League,6,superfrat
-Slift,6,superfrat
-Three Dog Night,6,superfrat
-Tom MacDonald,6,superfrat
-Tom Petty and The Heartbreakers,6,superfrat
-Antônio Carlos Jobim,5,superfrat
-Beastie Boys,5,superfrat
-Bob Dylan,5,superfrat
-Caesars,5,superfrat
-ceo@business.net,5,superfrat
-Daði Freyr,5,superfrat
-Faces,5,superfrat
-Fall Out Boy,5,superfrat
-Grizzly Bear,5,superfrat
-Guns N' Roses,5,superfrat
-Hagood Hardy,5,superfrat
-iAmJakeHill,5,superfrat
-Internet Money,5,superfrat
-Jimi Hendrix,5,superfrat
-John Williams,5,superfrat
-Journey,5,superfrat
-King Harvest,5,superfrat
-"Lipps, Inc.",5,superfrat
-Madonna,5,superfrat
-Mario Biondi,5,superfrat
-McCoy Tyner,5,superfrat
-Motörhead,5,superfrat
-Nicki Minaj,5,superfrat
-Old Crow Medicine Show,5,superfrat
-Rezz,5,superfrat
-Riton,5,superfrat
-Rubén González,5,superfrat
-Sidney Bechet,5,superfrat
-Still Woozy,5,superfrat
-Stompin' Tom Connors,5,superfrat
-Talking Heads,5,superfrat
-Tex Williams,5,superfrat
-The Cars,5,superfrat
-The Killers,5,superfrat
-The Supremes,5,superfrat
-The Temptations,5,superfrat
-Warren Zevon,5,superfrat
-XXXTENTACION,5,superfrat
-AC/DC,4,superfrat
-Alan Watts,4,superfrat
-America,4,superfrat
-Antonio Vivaldi,4,superfrat
-beabadoobee,4,superfrat
-Bfb Da Packman,4,superfrat
-Billy Idol,4,superfrat
-Blues Traveler,4,superfrat
-Buffalo Springfield,4,superfrat
-Charlie Daniels Band,4,superfrat
-Chicago,4,superfrat
-Dion,4,superfrat
-DJ Antoine,4,superfrat
-DJ Chose,4,superfrat
-DJ Khaled,4,superfrat
-Dobie Gray,4,superfrat
-Dreamville,4,superfrat
-Eddie Money,4,superfrat
-Ella Fitzgerald,4,superfrat
-Else,4,superfrat
-Elvis Presley,4,superfrat
-Everyone You Know,4,superfrat
-Felix Mendelssohn,4,superfrat
-Fleetwood Mac,4,superfrat
-Futuristic,4,superfrat
-Gene Autry,4,superfrat
-Georg Friedrich Händel,4,superfrat
-Hoodie Allen,4,superfrat
-ilyTOMMY,4,superfrat
-Jon Bellion,4,superfrat
-Joyner Lucas,4,superfrat
-Kamasi Washington,4,superfrat
-Love,4,superfrat
-Mac DeMarco,4,superfrat
-MANWOLVES,4,superfrat
-Marshmello,4,superfrat
-Men at Work,4,superfrat
-Orleans,4,superfrat
-Oscar Peterson Trio,4,superfrat
-OutKast,4,superfrat
-Papik,4,superfrat
-Queen,4,superfrat
-Roy Rogers,4,superfrat
-Rupert Holmes,4,superfrat
-Sol,4,superfrat
-Supertramp,4,superfrat
-The Backseat Lovers,4,superfrat
-The Beatles,4,superfrat
-The HU,4,superfrat
-The Irish Rovers,4,superfrat
-The Oak Ridge Boys,4,superfrat
-The Wood Brothers,4,superfrat
-Trippie Redd,4,superfrat
-"Tyler, the Creator",4,superfrat
-VGR,4,superfrat
-Wax,4,superfrat
-Waylon Jennings,4,superfrat
-Young Thug,4,superfrat
-24kGoldn,3,superfrat
-2Pac,3,superfrat
-Aaron Taos,3,superfrat
-Ab-Soul,3,superfrat
-Abhi The Nomad,3,superfrat
-Aerosmith,3,superfrat
-Alabama,3,superfrat
-Alan Mills,3,superfrat
-Aminé,3,superfrat
-Aries,3,superfrat
-Arturo Sandoval,3,superfrat
-Atmosphere,3,superfrat
-Bazanji,3,superfrat
-Bill Withers,3,superfrat
-Blue Öyster Cult,3,superfrat
-Bob Wills & His Texas Playboys,3,superfrat
-Bobby Darin,3,superfrat
-Bread,3,superfrat
-Burrell,3,superfrat
-Can,3,superfrat
-Charles Manson,3,superfrat
-Childish Gambino,3,superfrat
-Chuck Berry,3,superfrat
-Commodores,3,superfrat
-CracMac Media,3,superfrat
-"Crosby, Stills, Nash & Young",3,superfrat
-Culture Club,3,superfrat
-D'Angelo,3,superfrat
-Dan + Shay,3,superfrat
-Daniel Caesar,3,superfrat
-David Bowie,3,superfrat
-David Ferguson,3,superfrat
-Days N' Daze,3,superfrat
-Dire Straits,3,superfrat
-Dizzy Gillespie,3,superfrat
-DJ Blyatman,3,superfrat
-DJ Sabrina The Teenage DJ,3,superfrat
-Dr. Hook,3,superfrat
-Ed Sheeran,3,superfrat
-EKOH,3,superfrat
-ERIICE,3,superfrat
-Fats Domino,3,superfrat
-Felix Cartal,3,superfrat
-Five Finger Death Punch,3,superfrat
-Five Man Electrical Band,3,superfrat
-Focus,3,superfrat
-Foreigner,3,superfrat
-Frank Ocean,3,superfrat
-Frankie Valli & the Four Seasons,3,superfrat
-Franz Schubert,3,superfrat
-gianni & kyle,3,superfrat
-Hard Bass School,3,superfrat
-Harry Mack,3,superfrat
-Higher Brothers,3,superfrat
-Hobo Johnson,3,superfrat
-Ice-T,3,superfrat
-Jakey,3,superfrat
-Jimmy Dean,3,superfrat
-Johnny Horton,3,superfrat
-Judy Garland,3,superfrat
-Justin Timberlake,3,superfrat
-Kenndog,3,superfrat
-Kenny Rogers,3,superfrat
-Keri Hilson,3,superfrat
-Kryple,3,superfrat
-KYLE,3,superfrat
-Kylie Minogue,3,superfrat
-Lil Boom,3,superfrat
-Lil Loaded,3,superfrat
-Little River Band,3,superfrat
-Lullaby House Music,3,superfrat
-Mild High Club,3,superfrat
-Moby,3,superfrat
-Nina Simone,3,superfrat
-NLE Choppa,3,superfrat
-Offset,3,superfrat
-Paul Brandt,3,superfrat
-Pouya,3,superfrat
-Princess Chelsea,3,superfrat
-Rare Americans,3,superfrat
-Rav,3,superfrat
-Rod Stewart,3,superfrat
-Rush,3,superfrat
-Sir Mix-A-Lot,3,superfrat
-Ski Mask the Slump God,3,superfrat
-Snoop Dogg,3,superfrat
-Starland Vocal Band,3,superfrat
-Stealers Wheel,3,superfrat
-Steve Tyrell,3,superfrat
-Sugs,3,superfrat
-Sweet,3,superfrat
-T.I.,3,superfrat
-The Black Keys,3,superfrat
-The Carter Family,3,superfrat
-The Doobie Brothers,3,superfrat
-The Everly Brothers,3,superfrat
-The Ink Spots,3,superfrat
-The Nude Party,3,superfrat
-The Statler Brothers,3,superfrat
-The Taxpayers,3,superfrat
-The Who,3,superfrat
-Timo Krantz,3,superfrat
-Tony Bennett,3,superfrat
-Twisted Insane,3,superfrat
-Vance Joy,3,superfrat
-Verzache,3,superfrat
-Vitamin String Quartet,3,superfrat
-Vitas,3,superfrat
-War,3,superfrat
-Wes Montgomery,3,superfrat
-Whethan,3,superfrat
-Yes,3,superfrat
-Young Dolph,3,superfrat
-Young Jeezy,3,superfrat
-Yung Craka,3,superfrat
-$NOT,2,superfrat
-1NONLY,2,superfrat
-A$AP Rocky,2,superfrat
-Ace Hood,2,superfrat
-Afroman,2,superfrat
-Al Green,2,superfrat
-Alanis Morissette,2,superfrat
-Alec King,2,superfrat
-Alicia Keys,2,superfrat
-Aphex Twin,2,superfrat
-Arcade Player,2,superfrat
-Arizona Zervas,2,superfrat
-AronChupa,2,superfrat
-Art Pepper,2,superfrat
-Bahamas,2,superfrat
-Bakar,2,superfrat
-Barenaked Ladies,2,superfrat
-Bee Gees,2,superfrat
-Benny Benassi,2,superfrat
-Beyoncé,2,superfrat
-Billie Holiday,2,superfrat
-Billy Squier,2,superfrat
-Bing Crosby,2,superfrat
-BlocBoy JB,2,superfrat
-Bobby Shmurda,2,superfrat
-Booker T. & the MG's,2,superfrat
-Bossa Bros,2,superfrat
-Brooks Jefferson,2,superfrat
-Bryan Adams,2,superfrat
-Bubba Sparxxx,2,superfrat
-Burial,2,superfrat
-C-Dot 416,2,superfrat
-c. henry,2,superfrat
-C.W. McCall,2,superfrat
-Cal Scruby,2,superfrat
-Cal Tjader,2,superfrat
-Call Me Karizma,2,superfrat
-Camel,2,superfrat
-Caravan,2,superfrat
-Charles Givings,2,superfrat
-Chelsea Wolfe,2,superfrat
-Chief Keef,2,superfrat
-Chri$ Trill,2,superfrat
-Claire Rosinkranz,2,superfrat
-CLMD,2,superfrat
-Colter Wall,2,superfrat
-Crumb,2,superfrat
-Culture Shock,2,superfrat
-Current Swell,2,superfrat
-Cyndi Lauper,2,superfrat
-Daddyphatsnaps,2,superfrat
-Daniel Johnston,2,superfrat
-Danni Carlos,2,superfrat
-Danny Fernandes,2,superfrat
-Darius,2,superfrat
-Diana Krall,2,superfrat
-Diane Warren,2,superfrat
-Dierks Bentley,2,superfrat
-Dimitri Vegas & Like Mike,2,superfrat
-Dj Meetha,2,superfrat
-Dominic Fike,2,superfrat
-Donavon Frankenreiter,2,superfrat
-Doss,2,superfrat
-Dr. Dog,2,superfrat
-Dua Lipa,2,superfrat
-Dubskie,2,superfrat
-Duke Ellington,2,superfrat
-Dunder,2,superfrat
-Elis Regina,2,superfrat
-Enrique Iglesias,2,superfrat
-Eric Clapton,2,superfrat
-Erik Satie,2,superfrat
-Etta James,2,superfrat
-Felly,2,superfrat
-Fickle Friends,2,superfrat
-Finger Eleven,2,superfrat
-Flobots,2,superfrat
-G Perico,2,superfrat
-Gavin DeGraw,2,superfrat
-Gerry Rafferty,2,superfrat
-Glenn Miller,2,superfrat
-Gloria Gaynor,2,superfrat
-Grapetooth,2,superfrat
-Hank Williams Jr.,2,superfrat
-Hanreti,2,superfrat
-Harry James,2,superfrat
-Huey Lewis & The News,2,superfrat
-Hyper,2,superfrat
-I Prevail,2,superfrat
-Iceage,2,superfrat
-IDK,2,superfrat
-Issam Alnajjar,2,superfrat
-Iva Zanicchi,2,superfrat
-Ivan B,2,superfrat
-Jack Harlow,2,superfrat
-Jackson Browne,2,superfrat
-Jason Derülo,2,superfrat
-Jay Sean,2,superfrat
-Jerry Reed,2,superfrat
-Joe Cocker,2,superfrat
-Johnny Rivers,2,superfrat
-Jonathan Coulton,2,superfrat
-Jonathan Edwards,2,superfrat
-Joni Mitchell,2,superfrat
-Julie London,2,superfrat
-Karl Blau,2,superfrat
-KC and The Sunshine Band,2,superfrat
-Kelly Clarkson,2,superfrat
-Kenny Loggins,2,superfrat
-Kevin Hart Latin Jazz Quintet,2,superfrat
-Kid Cudi,2,superfrat
-Kid Rock,2,superfrat
-Kidintense,2,superfrat
-Kings of the River,2,superfrat
-Koda,2,superfrat
-Kodak Black,2,superfrat
-L'Orange,2,superfrat
-Landspeed,2,superfrat
-Lang Lang,2,superfrat
-Lazerhawk,2,superfrat
-Leo Sayer,2,superfrat
-Leona Lewis,2,superfrat
-Lil Baby,2,superfrat
-Lil Dicky,2,superfrat
-Lil Mosey,2,superfrat
-Lil Peep,2,superfrat
-lil ricefield,2,superfrat
-Lil Tjay,2,superfrat
-Lil Uzi Vert,2,superfrat
-Little Simz,2,superfrat
-Loggins & Messina,2,superfrat
-Logic,2,superfrat
-LoneMoon,2,superfrat
-Loverboy,2,superfrat
-Ludvigsson,2,superfrat
-Luigi Boccherini,2,superfrat
-Luke Bryan,2,superfrat
-Luke Combs,2,superfrat
-M.I.A.,2,superfrat
-Marcaux,2,superfrat
-Marian Hill,2,superfrat
-Mario,2,superfrat
-Mary J. Blige,2,superfrat
-Mat Zo,2,superfrat
-Matt Nathanson,2,superfrat
-Meat Loaf,2,superfrat
-Meek Mill,2,superfrat
-Mel McDaniel,2,superfrat
-Merle Haggard,2,superfrat
-Mikael Arvo,2,superfrat
-Mos Def,2,superfrat
-Mozzy,2,superfrat
-N.W.A,2,superfrat
-Nara Veloso,2,superfrat
-Natasha Bedingfield,2,superfrat
-Nathan Le'michael,2,superfrat
-Nelly,2,superfrat
-Nightshift TV,2,superfrat
-Nikolaus Harnoncourt,2,superfrat
-Nirvana,2,superfrat
-No Suits,2,superfrat
-Oasis,2,superfrat
-One True God,2,superfrat
-Only The Family,2,superfrat
-Pat Metheny,2,superfrat
-Peter Frampton,2,superfrat
-"Peter, Paul & Mary",2,superfrat
-Pink Floyd,2,superfrat
-Pink Sweat$,2,superfrat
-Plain White T's,2,superfrat
-Porter Robinson,2,superfrat
-Power Glove,2,superfrat
-Prof,2,superfrat
-Quindon Tarver,2,superfrat
-Rage Against the Machine,2,superfrat
-Ram Jam,2,superfrat
-Ramones,2,superfrat
-Real Estate,2,superfrat
-Remo,2,superfrat
-Res One,2,superfrat
-Rest for the Wicked,2,superfrat
-Rick Springfield,2,superfrat
-Ricky Martin,2,superfrat
-Ricky Nelson,2,superfrat
-Sacha Baron Cohen,2,superfrat
-SAINt JHN,2,superfrat
-Sam Cooke,2,superfrat
-sammy rash,2,superfrat
-Scarecrow Blues Hip Hop,2,superfrat
-Scattle,2,superfrat
-Sean Paul,2,superfrat
-Sérgio Mendes & Brasil '66,2,superfrat
-Shayfer James,2,superfrat
-Slipknot,2,superfrat
-Soccer Mommy,2,superfrat
-Stan Rogers,2,superfrat
-Steppenwolf,2,superfrat
-Sterkøl,2,superfrat
-Styx,2,superfrat
-Sub Focus,2,superfrat
-Sufjan Stevens,2,superfrat
-Survivor,2,superfrat
-Swedish House Mafia,2,superfrat
-Taylor Swift,2,superfrat
-The 1975,2,superfrat
-The Animals,2,superfrat
-The Avalanches,2,superfrat
-The Boomtown Rats,2,superfrat
-The Clash,2,superfrat
-The Doors,2,superfrat
-The Dreadnoughts,2,superfrat
-The Heavy,2,superfrat
-The Highwaymen,2,superfrat
-The Incredible String Band,2,superfrat
-The Kingsmen,2,superfrat
-The Monkees,2,superfrat
-The Orb,2,superfrat
-The Spencer Lee Band,2,superfrat
-Thee Oh Sees,2,superfrat
-Timmy Trumpet,2,superfrat
-TLC,2,superfrat
-Todd Rundgren,2,superfrat
-Tom T. Hall,2,superfrat
-Toploader,2,superfrat
-Toto,2,superfrat
-Two Feet,2,superfrat
-Vazer,2,superfrat
-Vigiland,2,superfrat
-Vin Jay,2,superfrat
-Wallows,2,superfrat
-Wand,2,superfrat
-Wes Walker,2,superfrat
-Wesley Willis,2,superfrat
-White Town,2,superfrat
-William Bolcom,2,superfrat
-William Wild,2,superfrat
-Wu-Tang Clan,2,superfrat
-Xavy Rusan,2,superfrat
-Yiruma,2,superfrat
-YK Osiris,2,superfrat
-yxngxr1,2,superfrat
-Zella Day,2,superfrat
-ZZ Top,2,superfrat
-¡Mayday!,1,superfrat
-? and the Mysterians,1,superfrat
-...And You Will Know Us by the Trail of Dead,1,superfrat
-.38 Special,1,superfrat
-.wavrunner,1,superfrat
-1990nowhere,1,superfrat
-2 Chainz,1,superfrat
-60's 70's 80's 90's Hits,1,superfrat
-A Boogie wit da Hoodie,1,superfrat
-A Flock of Seagulls,1,superfrat
-A Lost People,1,superfrat
-A$AP Ferg,1,superfrat
-Abril Olivera,1,superfrat
-Acid Dad,1,superfrat
-Acker Bilk,1,superfrat
-Acoustic Hits,1,superfrat
-AJJ,1,superfrat
-Alan Jackson,1,superfrat
-Alexis Ffrench,1,superfrat
-Alys,1,superfrat
-American Football,1,superfrat
-Amos Lee,1,superfrat
-Anderson .Paak,1,superfrat
-Andrew Rannells,1,superfrat
-Andy Shauf,1,superfrat
-Arden Jones,1,superfrat
-Arizona Jones,1,superfrat
-Asher Monroe,1,superfrat
-Astor Piazzolla,1,superfrat
-At the Drive-In,1,superfrat
-Avicii,1,superfrat
-Avril Lavigne,1,superfrat
-B.J. Thomas,1,superfrat
-B.o.B,1,superfrat
-Babe Rainbow,1,superfrat
-Backstreet Boys,1,superfrat
-Backxwash,1,superfrat
-Bad Company,1,superfrat
-Badfinger,1,superfrat
-Bandingo YGNE,1,superfrat
-Bankrol Hayden,1,superfrat
-Barbra Streisand,1,superfrat
-Bass Santana,1,superfrat
-Battles,1,superfrat
-Bea Miller,1,superfrat
-Beans,1,superfrat
-Beast in Black,1,superfrat
-Bebe Rexha,1,superfrat
-Beegie Adair,1,superfrat
-Béla Bartók,1,superfrat
-Ben E. King,1,superfrat
-Benjamin Francis Leftwich,1,superfrat
-Benny the Butcher,1,superfrat
-Bernard Herrmann,1,superfrat
-Big & Rich,1,superfrat
-Big Hongry,1,superfrat
-Big Red Machine,1,superfrat
-Big Sugar,1,superfrat
-Bill Evans,1,superfrat
-Bill Evans Trio,1,superfrat
-Billy Cassidy,1,superfrat
-Billy Strings,1,superfrat
-Billy Talent,1,superfrat
-Bingx,1,superfrat
-Biz Markie,1,superfrat
-Black Eyed Peas,1,superfrat
-Black Pumas,1,superfrat
-Black Rebel Motorcycle Club,1,superfrat
-Blake Shelton,1,superfrat
-Blastoyz,1,superfrat
-Bliss n Eso,1,superfrat
-Blonde Redhead,1,superfrat
-Blondie,1,superfrat
-Blood Orange,1,superfrat
-Blue Rodeo,1,superfrat
-Blueface,1,superfrat
-Blues Image,1,superfrat
-bôa,1,superfrat
-Bob Marley & The Wailers,1,superfrat
-Bobby Bare,1,superfrat
-Bobby McFerrin,1,superfrat
-Bobby Morganstein,1,superfrat
-Bohannon,1,superfrat
-Bonnie Tyler,1,superfrat
-Booker-T,1,superfrat
-boy pablo,1,superfrat
-Breaux,1,superfrat
-Brevner,1,superfrat
-Brewer & Shipley,1,superfrat
-Bring Me the Horizon,1,superfrat
-Britney Spears,1,superfrat
-Bruce Springsteen,1,superfrat
-Bruno Major,1,superfrat
-Bruno Mars,1,superfrat
-Bryce Hase,1,superfrat
-Bryson Gray,1,superfrat
-C-Murder,1,superfrat
-Cab Calloway,1,superfrat
-Calvin Harris,1,superfrat
-Cam Meekins,1,superfrat
-Canned Heat,1,superfrat
-Capital Cities,1,superfrat
-Carl Orff,1,superfrat
-Caroline Rose,1,superfrat
-Cartoons,1,superfrat
-Caskey,1,superfrat
-Cautious Clay,1,superfrat
-Celtic Connection,1,superfrat
-Central Cee,1,superfrat
-Charlie Rich,1,superfrat
-Charlie's Angels,1,superfrat
-Chelsea Cutler,1,superfrat
-Chet Baker,1,superfrat
-Chico Rose,1,superfrat
-Chill Bump,1,superfrat
-Chillman,1,superfrat
-Choo Jackson,1,superfrat
-Chris Brown,1,superfrat
-Chris Janson,1,superfrat
-Chuck Sutton,1,superfrat
-Ciara,1,superfrat
-Classified,1,superfrat
-Clear Soul Forces,1,superfrat
-Clouds of Calm,1,superfrat
-Clyde Carson,1,superfrat
-Cocktail Martino,1,superfrat
-Colbie Caillat,1,superfrat
-Coldplay,1,superfrat
-Cole Porter,1,superfrat
-Confusing Guy,1,superfrat
-Connie Francis,1,superfrat
-Connor Edwards,1,superfrat
-Cordae,1,superfrat
-Cosha,1,superfrat
-CPRCRN,1,superfrat
-"Crosby, Stills & Nash",1,superfrat
-Cryptic Wisdom,1,superfrat
-Curtis Mayfield,1,superfrat
-Cutting Crew,1,superfrat
-Cypress Hill,1,superfrat
-Dabbla,1,superfrat
-Dalida,1,superfrat
-Daniel Lanois,1,superfrat
-Darius Rucker,1,superfrat
-davay,1,superfrat
-David Francey,1,superfrat
-David Guetta,1,superfrat
-DDG,1,superfrat
-Dean Friedman,1,superfrat
-Death Grips,1,superfrat
-Deerhoof,1,superfrat
-Del,1,superfrat
-Denis Leary,1,superfrat
-Devan Platinum,1,superfrat
-Devo,1,superfrat
-Diverse Character,1,superfrat
-DJ Casper,1,superfrat
-DJ Jules,1,superfrat
-DJ Kuba,1,superfrat
-DJ Scheme,1,superfrat
-DMX,1,superfrat
-Doley Bernays,1,superfrat
-Don Henley,1,superfrat
-Don Williams,1,superfrat
-Donnie,1,superfrat
-Drax Project,1,superfrat
-DripReport,1,superfrat
-Drive-By Truckers,1,superfrat
-Dropkick Murphys,1,superfrat
-Dusty Springfield,1,superfrat
-DVBBS,1,superfrat
-Dxddy Mxck,1,superfrat
-Eddie Palmieri,1,superfrat
-Eddie Vedder,1,superfrat
-Edison Lighthouse,1,superfrat
-Édith Piaf,1,superfrat
-Edvard Grieg,1,superfrat
-Elton Britt,1,superfrat
-Elvis Costello & The Attractions,1,superfrat
-Ely Bruna,1,superfrat
-Emilie-Claire Barlow,1,superfrat
-Emrod,1,superfrat
-Energy,1,superfrat
-Enrico Pieranunzi,1,superfrat
-Enya,1,superfrat
-Eric Church,1,superfrat
-Eric Johnson,1,superfrat
-Erickson,1,superfrat
-Estelle,1,superfrat
-Europe,1,superfrat
-Evan Marien,1,superfrat
-Evanescence,1,superfrat
-Exile,1,superfrat
-Eydie Gormé,1,superfrat
-famba,1,superfrat
-Fan Sounds for Babies,1,superfrat
-Feist,1,superfrat
-Fernando Knopf,1,superfrat
-Fiddler On The Roof Company,1,superfrat
-Fifth Harmony,1,superfrat
-Fitz,1,superfrat
-Fivio Foreign,1,superfrat
-Fliptrix,1,superfrat
-Flora Martínez,1,superfrat
-Florida Georgia Line,1,superfrat
-Flying Lotus,1,superfrat
-Flyysoulja,1,superfrat
-Foghat,1,superfrat
-Foo Fighters,1,superfrat
-Ford.,1,superfrat
-Four Tet,1,superfrat
-Foxa,1,superfrat
-Frank & Maury,1,superfrat
-Frank Turner,1,superfrat
-Frankie Laine,1,superfrat
-Freddie Gibbs,1,superfrat
-Freddie Hubbard,1,superfrat
-Free,1,superfrat
-Friday Pilots Club,1,superfrat
-Fritz Kreisler,1,superfrat
-Froggy Fresh,1,superfrat
-Frozen Ghost,1,superfrat
-Fugazi,1,superfrat
-Funkmaster Flex,1,superfrat
-Fuzz,1,superfrat
-G Herbo,1,superfrat
-G-Eazy,1,superfrat
-G-Unit,1,superfrat
-G. Love & Special Sauce,1,superfrat
-Gary Puckett & The Union Gap,1,superfrat
-Gawne,1,superfrat
-Geek Music,1,superfrat
-Genesis Owusu,1,superfrat
-Geordie Kieffer,1,superfrat
-George Benson,1,superfrat
-George Jones,1,superfrat
-George Michael,1,superfrat
-George Strait,1,superfrat
-Gigi D'Agostino,1,superfrat
-Gino Vannelli,1,superfrat
-Giorgio Costantini,1,superfrat
-Giveon,1,superfrat
-Gladys Knight & The Pips,1,superfrat
-Glass Animals,1,superfrat
-Glass Tiger,1,superfrat
-Gloria Estefan,1,superfrat
-Gowan,1,superfrat
-Greydon Square,1,superfrat
-Gustav Holst,1,superfrat
-Gwen Stefani,1,superfrat
-"Hamilton, Joe Frank & Reynolds",1,superfrat
-Hank Mobley,1,superfrat
-Hank Williams,1,superfrat
-Harry Chapin,1,superfrat
-"Harry Connick, Jr.",1,superfrat
-Head East,1,superfrat
-Healy,1,superfrat
-Heart,1,superfrat
-Helion,1,superfrat
-Henry AZ,1,superfrat
-Henry Mancini,1,superfrat
-Hentai Xander,1,superfrat
-Herbie Hancock,1,superfrat
-Hi-Rez,1,superfrat
-Holly Cole,1,superfrat
-HONNE,1,superfrat
-hooligan chase,1,superfrat
-Horsey,1,superfrat
-HotBoii,1,superfrat
-iann dior,1,superfrat
-IFHT,1,superfrat
-iMAGiNARY OTHER,1,superfrat
-Imanbek,1,superfrat
-Iron Maiden,1,superfrat
-Isaak,1,superfrat
-Ishdarr,1,superfrat
-Jack Jetson,1,superfrat
-Jack Kays,1,superfrat
-Jackson C. Frank,1,superfrat
-Jacky Terrasson,1,superfrat
-Jadeci,1,superfrat
-Jaisean,1,superfrat
-Jamaar,1,superfrat
-James Colt,1,superfrat
-James DeAngelis,1,superfrat
-Janko Nilovic,1,superfrat
-Jarren Benton,1,superfrat
-Jarv & Thief,1,superfrat
-Jason Chen,1,superfrat
-Jay Rock,1,superfrat
-Jazz Cartier,1,superfrat
-Jazzanova,1,superfrat
-Jean Sibelius,1,superfrat
-Jeremiah Perez,1,superfrat
-jerkcurb,1,superfrat
-Jerry Bryant,1,superfrat
-Jerry Lee Lewis,1,superfrat
-Jesse Colin Young,1,superfrat
-Jesse Stewart,1,superfrat
-Jimmy and the Pips,1,superfrat
-Jimmy Eat World,1,superfrat
-Joe Henderson,1,superfrat
-Joe Nichols,1,superfrat
-Joey Trap,1,superfrat
-John Coltrane,1,superfrat
-John Legend,1,superfrat
-John Lennon,1,superfrat
-John Mayer,1,superfrat
-Johnny 2 Phones,1,superfrat
-Jordin Sparks,1,superfrat
-Jorge Ben,1,superfrat
-Joseph Beg,1,superfrat
-Joseph Jean,1,superfrat
-Joseph Williams,1,superfrat
-Josh Gad,1,superfrat
-Juicy J,1,superfrat
-Juliana Aquino,1,superfrat
-Julien Baker,1,superfrat
-Julius Aston,1,superfrat
-Justice,1,superfrat
-Justin Starling,1,superfrat
-Justin Stone,1,superfrat
-Justina Valentine,1,superfrat
-Justus Bennetts,1,superfrat
-K.A.A.N.,1,superfrat
-Karen Souza,1,superfrat
-Kate Bush,1,superfrat
-Kay Kyser & His Orchestra,1,superfrat
-Keelow,1,superfrat
-Keith Mansfield,1,superfrat
-Keith Power,1,superfrat
-Kembe X,1,superfrat
-Kenny Chesney,1,superfrat
-Kevin Gates,1,superfrat
-Key Glock,1,superfrat
-Kid Francescoli,1,superfrat
-KIDS SEE GHOSTS,1,superfrat
-Kikagaku Moyo,1,superfrat
-King Von,1,superfrat
-Knowmads,1,superfrat
-Kris Kristofferson,1,superfrat
-L'indécis,1,superfrat
-Lamont Holt,1,superfrat
-Laurel,1,superfrat
-Leaf,1,superfrat
-Lee Michaels,1,superfrat
-Lemon Demon,1,superfrat
-Leon Bridges,1,superfrat
-Les Misérables-Original London Cast,1,superfrat
+artist,total_plays,JBreidfjord_scrobbles,IcoBeltran_scrobbles,TheRudeDuck_scrobbles,superfrat_scrobbles
+Rush,59749629,15363,172,1049,3
+Billy Joel,45554961,9485,31,4,26
+King Gizzard & The Lizard Wizard,35673913,8367,763,1610,18
+The Beatles,607672063,5640,208,42,4
+Yes,28545615,4183,124,827,3
+Queens of the Stone Age,160297801,3919,162,3250,0
+Queen,237478483,3849,22,0,4
+Arctic Monkeys,410638374,3093,0,34,0
+Led Zeppelin,214965149,2979,65,1037,6
+ABBA,65856616,2966,85,27,0
+Arcade Fire,201156719,2906,23,316,0
+Carly Rae Jepsen,61924239,2616,4320,323,0
+Twenty One Pilots,103563130,2369,22,6,0
+Mayday Parade,30354466,2303,0,0,0
+Supertramp,25473081,1740,0,179,4
+Blue Öyster Cult,22416338,1586,0,31,3
+David Bowie,235293650,1475,176,95,3
+Foo Fighters,217187399,1410,0,813,1
+The 1975,80935342,1297,0,0,2
+Royal Blood,21621591,1250,0,391,0
+Vampire Weekend,118325483,1180,59,0,0
+The Beach Boys,88835013,1173,273,55,0
+Parquet Courts,15804146,1114,41,1025,0
+Simon & Garfunkel,73193761,934,0,30,10
+The Cars,14434314,931,0,38,5
+Radiohead,590384868,927,2949,3576,0
+The Zombies,17187193,915,0,4,0
+Catfish and The Bottlemen,15015755,912,0,22,0
+Bring Me the Horizon,124926333,865,0,0,1
+Tom Petty and The Heartbreakers,25138798,825,0,0,6
+Talking Heads,66639971,768,301,502,5
+Boston,17860577,767,0,6,13
+The Mamas & the Papas,16425637,760,0,3,0
+Black Sabbath,118265581,666,40,334,34
+Love,10681006,666,0,116,4
+Blossoms,5718950,663,0,0,0
+The Smiths,196548326,649,0,11,0
+Mac DeMarco,66795842,629,0,789,4
+Fleetwood Mac,101091520,616,93,173,4
+Styx,11637070,611,0,10,2
+Broken Bells,25628019,567,0,2,0
+Electric Light Orchestra,39590426,482,203,105,12
+Greta Van Fleet,9506940,480,0,114,0
+LCD Soundsystem,59146068,466,108,2,0
+The Mars Volta,53015721,465,22,1006,0
+Steely Dan,26413833,451,0,4,14
+Thee Oh Sees,14196280,411,106,345,2
+Alex Cameron,2795768,402,849,4,18
+Kansas,16847823,368,0,7,0
+Nick Drake,51922354,306,166,203,6
+Pipe-Eye,281557,301,0,11,0
+The Black Keys,145445743,285,0,0,3
+CHON,5062461,277,0,0,0
+The Orb,8559823,276,0,61,2
+Billy Talent,73473221,265,0,141,1
+King Crimson,34291091,259,93,271,0
+Metallica,316847274,253,114,706,9
+The Doors,149746282,244,0,41,2
+The Police,54198187,243,0,13,0
+The Standells,591140,242,0,4,0
+Stonefield,371614,237,0,6,0
+Billie Eilish,147939614,228,61,0,0
+Ed Sheeran,127818350,216,0,1,3
+Caravan,3307116,215,0,54,2
+a-ha,33559073,206,0,1,7
+Townes Van Zandt,11726437,198,0,45,7
+Erickson,200981,194,0,26,1
+Beans,584731,189,0,15,1
+Andy Shauf,3589911,169,0,3,1
+Avenged Sevenfold,111472331,167,0,1,0
+Paul Simon,32857231,160,0,24,13
+Relient K,25207717,159,0,0,0
+Tom Petty,18085293,158,0,0,9
+Fleet Foxes,81590433,155,70,583,14
+Yellow Magic Orchestra,6248528,151,0,0,0
+Asia,6178910,149,0,0,0
+Babe Rainbow,1937691,146,0,579,1
+Omni,931924,146,0,3,0
+Joni Mitchell,29764407,140,100,4,2
+The Alan Parsons Project,16878749,139,0,0,0
+Return to Forever,1914938,135,0,0,0
+The Dave Brubeck Quartet,8388891,135,0,178,34
+Imagine Dragons,112907860,127,0,0,0
+Toto,27982688,124,21,2,2
+Ariana Grande,294101954,117,45,2,0
+Post Animal,1268228,116,0,95,0
+Dean Friedman,94253,115,0,0,1
+Ghost,37314295,115,0,0,0
+Genesis,45059808,110,0,0,6
+Bob Dylan,176930820,105,91,1,5
+Booker-T,4383,103,0,1,1
+Halloweens,108879,103,0,12,0
+Van Halen,46460993,103,0,0,18
+Pink Floyd,364452246,101,144,184,2
+Hozier,46592884,99,0,0,0
+Levitation Room,709323,98,0,103,0
+The Clash,95249746,97,39,4,2
+Camel,15063594,88,144,26,2
+Snail Mail,9584793,88,1536,137,0
+Journey,32901374,87,0,1,5
+Animal Collective,88483538,84,3688,266,0
+My Chemical Romance,168716576,84,0,0,0
+The Strokes,218922335,84,73,232,0
+SLIFT,377343,81,38,165,6
+Wand,1601284,81,0,28,2
+Red Hot Chili Peppers,331974581,80,0,875,9
+Tender,2213349,80,0,0,0
+Charles Manson,1566017,77,0,0,3
+Creedence Clearwater Revival,70269611,77,0,4,27
+The Kinks,59445895,77,0,2,0
+"Crosby, Stills & Nash",8782781,76,0,29,1
+Elton John,71578397,76,23,2,6
+Sam Smith,49944357,75,0,0,0
+Alice Phoebe Lou,1654659,73,0,0,0
+Tame Impala,132046021,73,45,1606,8
+Bruce Springsteen,93104159,69,58,0,1
+Lolo Zouaï,2256204,68,340,0,0
+Paul McCartney,40535656,67,0,0,0
+St John,35064,67,0,10,0
+Kate Bush,56916541,63,36,14,1
+Yusuf,553984,60,0,2,0
+Lorde,146941429,59,790,0,0
+Vinyl Theatre,1047891,59,0,0,0
+Selena Gomez,95488027,58,0,0,0
+The Turtles,6885215,58,0,0,0
+Anderson Bruford Wakeman Howe,414800,57,0,0,0
+Sugar Candy Mountain,1179508,57,0,65,0
+Best Coast,26293466,56,0,0,0
+Dream Theater,103752935,56,0,0,0
+Frankie and the Witch Fingers,377250,56,0,0,0
+Van Morrison,38389235,54,0,7,16
+Hall,50029,52,0,8,0
+Beastie Boys,84231263,51,30,1,5
+Beck,112593276,51,251,794,0
+Daniel Johnston,11802292,50,0,3,2
+Television,9947399,49,60,23,0
+Hans Zimmer,86961824,48,0,0,0
+Angel Olsen,19961730,46,3246,3,0
+"Crosby, Stills, Nash & Young",12557217,46,0,4,3
+Frankie Valli & the Four Seasons,5588830,46,0,0,3
+Billy Idol,21123213,45,0,3,4
+Kendrick Lamar,185652551,44,1905,1938,17
+"Peter, Paul & Mary",3272205,44,0,0,2
+Phoebe Bridgers,50562830,44,416,0,0
+The Knife,60311799,44,564,393,0
+Tori Kelly,5528849,44,0,0,0
+Hall & Oates,18510726,43,0,0,10
+Sweet,6207102,42,0,3,3
+Thelonious Monk,14155525,42,0,5,0
+Belle and Sebastian,95385705,41,2021,145,0
+Volkmar Andreae,1348,41,0,0,0
+MGMT,119509653,40,293,203,0
+Herbie Hancock,15168594,39,0,4,1
+of Montreal,55077202,39,189,387,0
+Can,14617951,38,327,42,3
+Loverboy,2807661,38,0,0,2
+The Fratellis,35769178,38,0,0,0
+Christopher Larkin,2269890,37,0,0,0
+Foreigner,17967003,37,0,0,3
+Prince,54691511,37,0,0,0
+Sufjan Stevens,159180663,37,103,1657,2
+The Who,82623493,37,0,0,3
+Otis Redding,28430097,36,0,0,0
+Dean Martin,20210836,35,0,4,8
+DragonForce,25944226,35,0,0,0
+Rick Springfield,3853400,35,0,0,2
+Bob Seger,7444427,34,0,1,8
+Michael Jackson,156694633,34,54,0,0
+Fuzz,2425759,32,0,430,1
+Jim Croce,8007566,32,0,1,34
+Tempesst,135660,32,0,0,0
+The Outfield,4215254,32,0,0,0
+$uicideboy$,64405891,31,36,0,0
+Aurora,22452329,31,0,0,0
+Mild High Club,7105989,31,0,893,3
+The Chainsmokers,36271491,31,37,0,0
+Fats Waller,2387620,30,0,1,0
+Moondog,4564901,30,0,0,0
+starbenders,244805,30,0,0,0
+Beach House,98491878,29,90,518,0
+John Denver,11273177,29,0,1,27
+Ralph,749341,29,308,0,0
+Steve Miller Band,13081233,29,0,0,19
+Foster the People,71170424,28,0,0,0
+Cage the Elephant,53527908,27,48,0,0
+Fugazi,31432393,27,1398,3575,1
+Pyotr Ilyich Tchaikovsky,19440403,27,19,0,0
+The Association,1755279,27,0,0,0
+Father John Misty,25757432,26,51,14,0
+James Taylor,16058264,26,0,0,16
+Lord Huron,16633324,26,79,5,0
+Real Estate,23672607,26,0,163,2
+Soccer Mommy,9648919,26,1011,0,2
+George Harrison,28244352,25,0,0,0
+Iceage,8477947,25,2554,883,2
+Neil Young,75030631,25,32,19,10
+Stephen Stills,2076015,25,0,0,0
+AC/DC,153079116,24,0,1,4
+alt-J,82001438,24,21,0,0
+Bones,41132156,24,0,0,0
+John Mellencamp,8644227,24,0,1,18
+OneRepublic,75609458,24,0,0,0
+The Stampeders,129291,24,0,3,12
+Bruno Mars,85621163,23,22,1,1
+Faces,4896061,23,0,2,5
+Grizzly Bear,59710593,23,28,1279,5
+Kenny Loggins,7511506,23,0,0,2
+Psychedelic Porn Crumpets,2970195,23,0,13,0
+The Monkees,11258692,23,0,3,2
+The Velvet Underground,74851991,23,694,117,0
+Tool,142453232,23,0,385,0
+Bloodhound Gang,35866900,22,0,0,0
+Cream,29035477,22,0,2,0
+Dexys Midnight Runners,6723950,22,0,1,0
+Eagles,42911426,22,0,6,58
+Elvis Presley,83179071,22,0,0,4
+MF DOOM,45112875,22,52,4,0
+The Cure,190581624,22,90,0,0
+Thrice,43062097,22,366,315,0
+Bee Gees,30313767,21,0,0,2
+CHVRCHES,48233503,21,0,0,0
+Coldplay,432984184,21,0,3,1
+America,13396445,20,0,7,4
+Bill Withers,18228574,20,0,1,3
+Drake,258597135,20,0,0,71
+Frank Sinatra,81334621,20,0,0,21
+Green Day,221227674,20,0,6,0
+Marvin Gaye,41359491,20,0,0,8
+Rod Stewart,20738724,20,0,0,3
+U.S. Girls,4271184,20,349,0,0
+13th Floor Elevators,5402553,19,0,2,0
+Kiss,52662360,19,0,0,0
+Stevie Wonder,53360755,19,0,42,9
+Ty Segall,14674057,19,0,13,0
+Crumb,7310941,18,0,338,2
+Donnie Iris,245812,18,0,0,0
+Squid,2354278,18,48,0,0
+The Dear Hunter,13898947,18,0,0,0
+The Murlocs,1695208,18,0,5,0
+The Pentangle,1781011,18,0,0,0
+Frank Ocean,194422807,17,0,1030,3
+Haircut 100,874334,17,0,0,0
+Heart,15047177,17,0,0,1
+Poison,10661705,17,0,0,0
+Redbone,3281651,17,0,0,0
+The Killers,239034947,17,51,7,5
+The Yardbirds,10458753,17,0,3,0
+Thin Lizzy,21040730,17,0,0,0
+White Lies,35485837,17,0,0,0
+Bachman-Turner Overdrive,4026395,15,0,0,10
+Devo,16995490,15,0,11,1
+Eric Johnson,4227672,15,0,0,1
+Funkadelic,11147424,15,0,0,0
+Guns N' Roses,129800114,15,0,0,5
+Kikagaku Moyo,2250359,15,0,82,1
+Magic Man,2178661,15,0,0,0
+The Doobie Brothers,11985380,15,0,0,3
+The Four Tops,7651366,15,0,0,0
+The J. Geils Band,3183980,15,0,0,8
+American Football,18326836,14,106,65,1
+Bon Jovi,73511761,14,0,0,7
+Cheap Trick,10114833,14,0,0,0
+Chet Baker,23161323,14,0,5,1
+Donovan,13146288,14,0,3,0
+Jon Bellion,10586548,14,0,0,4
+Quicksand,2559218,14,78,0,0
+Sia,101115857,14,58,0,0
+The Human League,11657067,14,0,0,0
+Barcelona,3043654,13,0,0,0
+Deep Purple,59368776,13,0,0,0
+Duran Duran,34310876,13,0,0,0
+Golden Earring,4869264,13,0,0,0
+Harry Nilsson,9328353,13,0,0,0
+Norman Greenbaum,2854530,13,0,0,6
+Oasis,172375291,13,0,35,2
+Sniff 'n' the Tears,639422,13,0,0,0
+Tears for Fears,31225709,13,0,0,0
+The Neighbourhood,78454980,13,0,0,0
+The Psychedelic Furs,8179782,13,0,4,0
+The Voidz,5718504,13,23,2,0
+Unknown Mortal Orchestra,20452291,13,0,19,0
+...And You Will Know Us by the Trail of Dead,16595614,12,244,628,1
+Blue Cheer,1788331,12,0,0,0
+Deerhunter,45393347,12,131,840,0
+Deniece Williams,1387399,12,0,0,0
+Free,6292002,12,0,0,1
+Gentle Giant,6448493,12,0,0,0
+George Michael,27382770,12,30,0,1
+Joy Division,117414553,12,111,29,0
+Lana Del Rey,376045384,12,437,123,0
+Men at Work,10276936,12,0,0,4
+Mount Eerie,14358438,12,0,0,0
+Phil Collins,37466002,12,0,0,9
+Primus,23474303,12,0,247,0
+Rainbow,21177475,12,0,0,0
+Run the Jewels,32874562,12,1104,863,0
+Rupert Holmes,2394743,12,0,0,4
+Sigur Rós,135839338,12,23,0,0
+Slowdive,44178920,12,173,25,0
+Status Quo,8949998,12,0,0,0
+T. Rex,21978578,12,0,0,0
+The Jackson 5,18365950,12,34,0,0
+The Louvin Brothers,940514,12,0,0,0
+Ultimate Spinach,845321,12,0,3,0
+Vince Guaraldi Trio,9087008,12,33,0,0
+10cc,7980602,11,0,0,0
+Beach Fossils,19200965,11,35,4,0
+Cavs,29769,11,0,0,0
+Cotton Jones,1957586,11,0,3,0
+Death from Above 1979,26190799,11,337,454,0
+Declan Mckenna,12825257,11,104,0,0
+"Emerson, Lake & Palmer",10816735,11,0,0,0
+Frank Zappa,43770936,11,0,0,0
+Grapetooth,346237,11,0,1,2
+Grover Anderson,23397,11,0,0,0
+Iron Maiden,186952524,11,88,13,1
+Kurt Vile,19901421,11,0,105,0
+Louis Prima,4022072,11,0,0,0
+Madvillain,42823204,11,60,170,0
+Miles Davis,57769062,11,37,128,0
+Neil Diamond,12008054,11,0,0,7
+Orions Belte,347512,11,0,0,0
+Quiet Riot,5178258,11,0,0,0
+Saint Motel,8673704,11,0,0,0
+The B-52's,11355174,11,0,4,0
+The Supremes,10855215,11,0,0,5
+Todd Rundgren,6731315,11,0,0,2
+Warren Zevon,8042549,11,0,0,5
+AJR,14044830,10,0,0,0
+Alex Lahey,1119863,10,136,1,0
+Aly & AJ,11168617,10,157,0,0
+Aphex Twin,94361763,10,405,3,2
+Badfinger,4070872,10,0,0,1
+Chuck Berry,20067527,10,0,0,3
+Country Joe & The Fish,1402426,10,0,2,0
+Deerhoof,15182099,10,37,0,1
+Eddie Money,3671698,10,0,0,4
+Foxygen,9196156,10,18,3,0
+Jethro Tull,32368013,10,48,138,0
+Joe Walsh,3826952,10,0,7,12
+Kacey Musgraves,26735897,10,72,0,0
+Kings of Leon,182624035,10,0,0,0
+Leonard Cohen,55443283,10,35,0,0
+Manfred Mann's Earth Band,3232107,10,0,0,0
+Michael Bublé,58703226,10,0,12,19
+Mountain,2834252,10,0,0,0
+My Bloody Valentine,58081044,10,3146,91,0
+Nathaniel Rateliff & the Night Sweats,2926355,10,0,0,0
+Pond,7970415,10,0,27,0
+Simple Minds,16655691,10,0,0,0
+Smash Mouth,15049840,10,0,0,0
+The Buggles,3796084,10,0,0,0
+The Tallest Man on Earth,35521007,10,95,18,0
+Alex Crispin,15859,9,0,0,0
+Andrew Bird,52161430,9,0,0,0
+Ariel Pink,12404592,9,0,5,0
+Björk,135958206,9,78,1,0
+Blue Swede,2865694,9,0,0,0
+David Peacock,107679,9,0,69,0
+Depeche Mode,186733589,9,0,0,0
+Elliott Smith,120635441,9,0,0,0
+Elvis Costello & The Attractions,9512041,9,0,0,1
+Fats Domino,4450851,9,0,0,3
+Felt,5251762,9,21,0,0
+Henry Mancini,5697704,9,0,2,1
+Julien Baker,13703119,9,148,0,1
+Mike Posner,15736155,9,97,0,0
+Minor Threat,14625333,9,153,117,0
+Moaning Lisa,80305,9,0,0,0
+Mole Corrison,16,9,0,7,0
+Mötley Crüe,35300713,9,0,2,7
+Pentatonix,12905294,9,0,0,0
+Sam Roberts,2828493,9,0,0,0
+The Byrds,16998117,9,0,0,0
+The Romantics,2186316,9,0,0,0
+U2,157642343,9,128,0,0
+Bon Iver,144608048,8,0,2,0
+Bryan Adams,32140079,8,0,0,2
+Dave Edmunds,1011305,8,0,0,0
+Dire Straits,65635980,8,57,0,3
+Huey Lewis & The News,8052230,8,0,0,2
+Louis Hardin,145768,8,0,0,0
+Osees,701299,8,0,7,0
+Strap,8290,8,0,0,0
+The War on Drugs,24826019,8,955,247,0
+"Tyler, the Creator",178423268,8,170,747,4
+VeggieTales,543877,8,0,0,0
+Wham!,13354897,8,0,0,0
+Wild Cherry,1890544,8,0,0,0
+Bad Company,8813452,7,0,0,1
+Blondie,37565367,7,67,0,1
+Chaz Bundick Meets The Mattson 2,573506,7,0,1,0
+Dumbo Gets Mad,1299268,7,0,1,0
+Elvin Bishop,1372250,7,0,0,0
+Eric Clapton,57490717,7,0,0,2
+Fitz and the Tantrums,11201984,7,0,0,0
+Foals,81177040,7,0,1,0
+Frédéric Chopin,50500349,7,44,1,22
+Future Islands,21066215,7,427,2,0
+Gary Numan,11907717,7,0,0,0
+GhosteMane,13669016,7,0,0,0
+Gordon Lightfoot,4527220,7,0,1,44
+Half Moon Run,5584244,7,0,0,0
+Iron & Wine,77104149,7,0,3,0
+King Tuff,2639636,7,0,2,0
+Loudon Wainwright III,2774837,7,0,0,0
+Matthew Wilder,1894805,7,0,0,0
+Michael Cera,1540124,7,0,2,0
+Naked Eyes,1757225,7,0,0,0
+Nancy Sinatra,12631968,7,0,0,0
+REO Speedwagon,7955114,7,0,0,0
+Starship,5272050,7,0,0,0
+The Moody Blues,12400884,7,0,0,0
+The Ocean,9508112,7,0,0,0
+The Protomen,3811373,7,0,0,0
+The Rolling Stones,179941825,7,0,0,17
+The Stooges,19140672,7,0,0,0
+The Weeknd,216237941,7,203,7,8
+Violent Femmes,16533704,7,0,0,0
+Weezer,134454227,7,250,2,8
+White Reaper,1511622,7,0,0,0
+Alice Cooper,35234668,6,0,0,0
+Bass Drum of Death,3111098,6,0,1,0
+Bastille,54503370,6,0,0,0
+Calvin Harris,94594211,6,374,1,1
+Camille Saint-Saëns,6602609,6,0,3,10
+Captain Beefheart & His Magic Band,13234967,6,0,0,0
+Carole King,9662323,6,0,0,0
+Compulsive Gamblers,424391,6,0,0,0
+Cursive,17145197,6,48,721,0
+Don Henley,6811436,6,0,0,1
+Drugdealer,1943763,6,0,4,0
+Flat Worms,177891,6,0,2,0
+Grand Funk Railroad,6123865,6,0,0,6
+Haley Heynderickx,2715941,6,0,2,0
+Hatchie,1513591,6,1752,1,0
+Jimi Hendrix,0,6,50,90,5
+Kristofer Maddigan,1040128,6,0,0,0
+Lit,5562100,6,0,0,0
+Macklemore & Ryan Lewis,33818178,6,32,0,0
+Metric,68263345,6,0,0,0
+Moses Gunn Collective,1018788,6,0,14,0
+OutKast,66174760,6,125,0,4
+Phillip Larue,252968,6,0,0,0
+Rihanna,251541460,6,50,3,0
+Snarky Puppy,3711513,6,0,123,0
+Temples,7007633,6,0,27,0
+The Go-Go's,3158711,6,0,0,0
+The Harmaleighs,157748,6,0,0,0
+The Lovin' Spoonful,5272652,6,0,0,0
+The Moldy Peaches,8265925,6,0,0,0
+The Smashing Pumpkins,145898494,6,48,467,0
+The Temptations,15039689,6,0,0,5
+The Tragically Hip,7761519,6,0,0,0
+Tigers in the Sky,190569,6,0,0,0
+Tom Robinson Band,491281,6,0,0,0
+Trooper,458019,6,0,0,0
+Twisted Sister,10641194,6,0,0,0
+UFO,7228402,6,0,0,0
+Unwound,8154558,6,700,1357,0
+Van der Graaf Generator,4471485,6,18,0,0
+Wolfmother,33505021,6,0,0,11
+A Flock of Seagulls,6538266,5,0,0,1
+Allah-Las,6184066,5,0,1,0
+Beach Bunny,8348601,5,1008,1,0
+Benjamin Britten,1764040,5,0,0,0
+Billy Squier,2682454,5,0,0,2
+Boards of Canada,108969093,5,1409,186,0
+Bruce Cockburn,1867960,5,0,0,0
+Collective Soul,12919822,5,0,0,0
+Def Leppard,26892496,5,0,0,0
+Derek and the Dominos,7188748,5,0,0,0
+Dmitri Shostakovich,6266298,5,0,0,0
+DNCE,7630440,5,0,0,0
+"Earth, Wind & Fire",22056681,5,84,9,9
+Edward Sharpe & The Magnetic Zeros,26861198,5,0,0,0
+Fela Kuti,5110278,5,0,0,0
+First Aid Kit,21699939,5,0,0,0
+Florence + the Machine,194941616,5,0,3,0
+George Martin,484683,5,0,0,0
+Goodbye June,624729,5,0,0,0
+Grateful Dead,39601383,5,0,1,8
+Ike & Tina Turner,3516277,5,0,0,0
+Insecure Men,267643,5,0,0,0
+Interpol,134974187,5,25,3,0
+James Bay,15798071,5,0,0,0
+James Colt,78662,5,0,0,1
+John Bratton,359,5,0,0,0
+Johnny Cash,116577910,5,0,2,53
+Justin Bieber,99905610,5,0,0,8
+Kanye West,480516383,5,522,316,191
+Kyuss,27090052,5,0,354,0
+Lucy Dacus,7904045,5,125,1,0
+Mink Mussel Creek,211500,5,0,0,0
+Ocean Alley,2226651,5,0,0,0
+Pouya,7879645,5,0,0,3
+Sagittarius,539357,5,0,0,0
+Steam Powered Giraffe,1813668,5,0,0,0
+Taylor Berrett,53764,5,0,0,0
+The Animals,16011311,5,0,0,2
+The Black Jets,109304,5,0,0,0
+The Decemberists,65577310,5,0,0,0
+The Lumineers,39427390,5,0,2,0
+The Seeds,2006455,5,0,0,0
+The Shins,93887660,5,0,4,0
+TWAIN,223709,5,0,0,0
+Watsky,5291799,5,0,5,95
+Yung Gravy,9045569,5,0,3,24
+April Wine,1213577,4,0,0,0
+Barns Courtney,3531953,4,0,0,0
+BLACK MIDI,5619165,4,0,0,0
+Bleachers,13420384,4,83,1,0
+blink-182,203820117,4,0,0,0
+"Blood, Sweat & Tears",2140678,4,0,0,0
+Caribou,36381480,4,76,0,0
+Charli XCX,87761173,4,880,2,0
+Charlie Puth,18339917,4,0,0,0
+Cher,20546896,4,0,0,0
+Chicago,14578750,4,0,0,4
+Chris Isaak,12243362,4,0,0,0
+Coin,8842788,4,36,0,0
+Corey Hart,1807046,4,0,0,0
+Del Shannon,3051369,4,0,0,0
+Eagles of Death Metal,22386090,4,0,115,0
+Eliza & The Delusionals,177206,4,0,0,0
+Fairport Convention,4311795,4,0,0,0
+Fat White Family,1621362,4,0,0,0
+Franz Ferdinand,121531404,4,0,0,0
+Gino Vannelli,915893,4,0,0,1
+Glaxo Babies,148749,4,0,0,0
+Gregory Alan Isakov,10289963,4,0,0,0
+Grimes,93948036,4,1222,305,0
+Hounds,48600,4,0,0,0
+Idles,14042257,4,153,3,0
+INXS,21765811,4,0,0,0
+Jefferson Airplane,31774964,4,0,1,0
+Jocelyn Alice,205435,4,0,0,0
+John Lennon,45149199,4,0,1,1
+John Prine,6049600,4,0,0,0
+Julien Chang,147837,4,0,0,0
+La Dispute,25676383,4,628,693,0
+"Lipps, Inc.",1952689,4,0,1,5
+Ludacris,21505485,4,0,0,0
+Måneskin,18721694,4,0,0,0
+Martha Reeves & The Vandellas,4456059,4,0,0,0
+Nelson Riddle,537509,4,0,0,0
+O Terno,4076874,4,0,0,0
+OCS,571898,4,0,0,0
+Of Monsters and Men,48769154,4,0,0,0
+One Direction,109263824,4,0,0,0
+Randy Newman,7688537,4,0,0,0
+Rick Wakeman,2347791,4,0,0,0
+Rina Sawayama,31424624,4,312,0,0
+Santana,31107452,4,0,0,38
+Scott McKenzie,2386101,4,0,0,0
+Slow Meadow,1661372,4,0,0,0
+Soft Machine,4159744,4,83,0,0
+Stephen Bishop,855234,4,0,0,0
+Steve Winwood,4722126,4,0,0,0
+Ted Nugent,4467712,4,0,0,0
+The 5th Dimension,2032336,4,0,0,0
+The Band,17918300,4,0,0,9
+The Cab,10916777,4,0,0,0
+The Districts,2034224,4,0,0,0
+The Knack,2948534,4,0,0,0
+The Last Shadow Puppets,35165537,4,0,0,0
+The Modern Lovers,4889904,4,38,0,0
+The Pretty Things,2903075,4,0,0,0
+Them Crooked Vultures,16722510,4,0,303,0
+Traffic,4598375,4,0,0,0
+Trudy and the Romance,510941,4,0,0,0
+Us The Duo,1219084,4,0,0,0
+Vanilla Ice,2478109,4,0,0,0
+Wings,7617887,4,0,0,0
+Wolfgang Amadeus Mozart,50800459,4,25,0,9
+Արամ Խաչատրյան,975958,4,0,0,0
+松任谷由実,3157366,4,0,0,0
+Ace Frehley,1578882,3,0,0,0
+Al Stewart,3009250,3,0,0,0
+Allie X,17013337,3,569,1,0
+Alvvays,15860811,3,478,82,0
+Ambrosia,1462929,3,0,0,0
+Anne Murray,1602577,3,0,0,0
+At the Drive-In,29440380,3,389,1088,1
+Attawalpa,40922,3,0,0,0
+Barry Manilow,4678762,3,0,0,8
+Bear McCreary,12969859,3,0,0,0
+Big Thief,14397776,3,265,2,0
+Blonde Redhead,29013197,3,328,6,1
+Blur,104984566,3,23,1,0
+Bob Marley & The Wailers,71861818,3,0,1,1
+Booker T. & the MG's,5687243,3,0,0,2
+Brian Wilson,4681613,3,0,0,0
+Burial,43440193,3,1547,4,2
+Cake,46913709,3,0,0,0
+Canned Heat,6741012,3,0,0,1
+Cass Elliot,573601,3,0,0,0
+Chelsea Wolfe,17690255,3,250,2,2
+Chet Atkins,1927694,3,0,0,0
+Chicano Batman,1407454,3,0,0,0
+Clare Maguire,2413126,3,578,0,0
+Corn on My Dinner Plate,33445,3,0,0,0
+Counting Crows,39125132,3,0,0,0
+Cryptopsy,5935047,3,0,0,0
+Curtis Mayfield,12713558,3,0,0,1
+Death Cab for Cutie,178735338,3,0,0,0
+Des Rocs,1596242,3,0,0,0
+Diana Ross and the Supremes,3693605,3,0,0,0
+DIIV,17010841,3,525,20,0
+Dr. Dog,17902432,3,0,85,2
+Eels,52188091,3,24,0,0
+Europe,14463250,3,0,0,1
+Felix Mendelssohn,6372141,3,0,0,4
+fkbambam,163719,3,0,0,0
+Frankie Valli,3225776,3,0,0,0
+Fruit Bats,5682598,3,0,0,0
+Grim Salvo,150243,3,0,0,0
+Hammerhedd,22168,3,0,0,0
+Hobo Johnson,3508602,3,0,15,3
+James Newton Howard,13256873,3,0,0,0
+Jason Derülo,29666426,3,32,1,2
+Jefferson Starship,1917272,3,0,0,0
+Jess Glynne,6895246,3,0,0,0
+John Coltrane,27609921,3,0,20,1
+John Hartford,1154014,3,0,0,0
+Jonas Blue,9118504,3,0,0,0
+Jonathan Wilson,2083300,3,0,0,0
+Judah & the Lion,1817124,3,0,0,0
+Julia Holter,8213286,3,1487,0,0
+Khalid,35587105,3,0,22,0
+Kool & The Gang,11477296,3,0,0,0
+Krokus,2182238,3,0,0,0
+Labrinth,16590382,3,0,4,0
+Les Claypool And The Holy Mackerel,491093,3,0,0,0
+Lola Marsh,1152300,3,0,0,0
+Los Scallywaggs,17776,3,0,0,0
+Ludovico Einaudi,45023098,3,0,0,0
+Mac Miller,111467108,3,58,1,0
+Mahavishnu Orchestra,3855390,3,28,1,0
+Mark Ronson,27460232,3,0,0,0
+Martha and the Muffins,870857,3,0,0,0
+Mary Wells,1939875,3,0,0,0
+Men Without Hats,3410136,3,0,0,0
+Michael Giacchino,14801702,3,0,0,0
+Mildlife,450539,3,0,0,0
+Misfits,62829264,3,0,0,0
+MØ,20471826,3,0,0,0
+Montrose,677738,3,0,0,0
+Muse,376863078,3,42,0,0
+New Order,67511132,3,0,0,0
+Nico,10227980,3,18,0,0
+Oliver Tree,13006607,3,0,2,8
+Ozzy Osbourne,54783098,3,0,0,0
+Paul Anka,4667768,3,0,0,0
+Phoenix,85719264,3,138,0,0
+Reel Big Fish,24845739,3,0,0,0
+Renata Zeiguer,98380,3,0,0,0
+Ride,12178599,3,102,0,0
+Robert DeLong,2204621,3,0,0,0
+Ron Gallo,795026,3,0,0,0
+Ruen Brothers,186823,3,0,0,0
+Seals & Crofts,1715746,3,0,0,0
+Sergei Prokofiev,5337108,3,0,0,0
+Sharon Van Etten,18377536,3,240,2,0
+Slow Pulp,1399947,3,0,0,0
+Sonic Youth,79722245,3,23,61,0
+Stamen,19983,3,0,0,0
+Swim Mountain,529694,3,0,14,0
+Tee Grizzley,4402348,3,0,0,0
+Tegan and Sara,84296664,3,0,0,0
+The All-American Rejects,51903586,3,638,18,0
+The Allman Brothers Band,16443700,3,0,0,10
+The Bobby Fuller Four,722114,3,0,0,0
+The Damned,8622766,3,0,0,0
+The Dead Pirates,415858,3,0,0,0
+The Effends,1232,3,0,2,0
+The Everly Brothers,6253046,3,0,0,3
+The Jamaican Reggae Band,19849,3,0,0,0
+The Lounge Lizards,1163228,3,0,0,0
+The Nice,653226,3,0,0,0
+The Nude Party,429300,3,0,0,3
+The Searchers,1855837,3,0,0,0
+The West Coast Pop Art Experimental Band,1469737,3,0,0,0
+Tiësto,48325297,3,0,5,0
+Trippy tha Kid,31935,3,0,0,0
+TV Girl,12034200,3,0,0,0
+Uriah Heep,12617371,3,0,0,0
+Whitney,7228538,3,96,0,0
+Will Smith,10419713,3,0,0,0
+Young the Giant,21293720,3,0,0,0
+.38 Special,3038055,2,0,0,1
+49th Parallel,55918,2,0,0,0
+83hades,226776,2,0,0,0
+A Great Big World,5853574,2,0,0,0
+Aerosmith,81008327,2,0,2,3
+Aesop Rock,28051773,2,180,0,6
+Afourteen,982276,2,0,0,0
+Al Wilson,430050,2,0,0,0
+Alabama Shakes,17688027,2,41,0,0
+Alex Turner,11649809,2,0,0,0
+Alexander Rybak,3507827,2,0,0,0
+Allan Holdsworth,1597370,2,0,0,0
+Anekdoten,1736203,2,0,0,0
+Antarctigo Vespucci,1134526,2,0,0,0
+Antemasque,1186337,2,0,27,0
+Anthony Moore,41695,2,0,0,0
+Aphrodite's Child,2458133,2,0,0,0
+Austyn Gillette,49788,2,0,0,0
+Bad Suns,6452919,2,0,0,0
+beabadoobee,11311767,2,185,0,4
+Big K.R.I.T.,12918904,2,161,1,0
+Big L,9713430,2,241,0,0
+Bill Bruford,447129,2,0,0,0
+Bill Haley & His Comets,2595134,2,0,0,0
+Bill Walton,52484,2,0,0,0
+Billy Childish,225656,2,0,0,0
+Billy Marchiafava,930782,2,0,0,6
+Birdtalker,752876,2,0,0,0
+Birdy,32328286,2,0,0,0
+Black Mountain,5881014,2,0,1,0
+Black Pumas,2365878,2,0,0,1
+Bohannon,199704,2,0,0,1
+Bombay Bicycle Club,42249208,2,40,0,0
+Boz Scaggs,3604777,2,0,0,0
+Bruno Sanders,92445,2,0,0,0
+Buddy Holly,12927770,2,0,0,0
+Camera Obscura,25607887,2,806,0,0
+Carl Orff,4282125,2,0,0,1
+Carly Simon,6035860,2,0,0,0
+Carpenters,15089388,2,0,0,0
+Chantel Jeffries,208227,2,0,0,0
+chetta,449396,2,0,0,0
+Childish Gambino,91239519,2,37,11,3
+Chilliwack,200859,2,0,0,0
+Chris Brown,62848989,2,94,2,1
+Christian Sinding,47804,2,0,0,0
+Cocteau Twins,45765901,2,310,7,0
+Colter Wall,2350747,2,0,0,2
+Cooper Brothers,2660,2,0,0,0
+Corey Kilgannon,284215,2,0,0,0
+Corners,234151,2,0,0,0
+Corpse,7916145,2,0,0,0
+Courtney Barnett,14831682,2,69,2,0
+Crowded House,14087693,2,96,1,0
+Crying,1214185,2,1891,0,0
+Cullah,90362,2,0,0,0
+Dada Plan,37842,2,0,0,0
+Damien Jurado,10261491,2,69,0,0
+Daniel Caesar,23241091,2,0,2,3
+Danny Brown,32973481,2,785,0,0
+Danny Walgreen,93467,2,0,0,0
+Daughters,8517117,2,282,0,0
+Dave Van Ronk,1297726,2,0,0,0
+Dead Ghosts,920827,2,0,1,0
+deadmau5,58179548,2,0,368,0
+Deafheaven,11327658,2,805,4,0
+Deal Casino,253461,2,0,0,0
+Deftones,126890516,2,35,343,0
+Del Amitri,2776198,2,0,0,0
+Dermot Kennedy,6064620,2,25,0,0
+Desiigner,4810288,2,0,0,0
+Diana Ross,10217742,2,0,0,0
+Dio,27753188,2,0,0,0
+Diplo,13961145,2,0,1,0
+Disclosure,42773318,2,0,0,0
+DJ Fresh,8670917,2,23,0,0
+DJ Khaled,22811474,2,0,1,4
+DJ Sabrina The Teenage DJ,909649,2,2611,3,3
+Doddy Gatz,27531,2,0,0,0
+DOGDEER,26603,2,0,0,0
+Domingo Ruiz,14701,2,0,0,0
+Don McLean,7758646,2,0,2,11
+Dreamers,2640646,2,0,0,0
+Echo & the Bunnymen,21418331,2,0,0,0
+Edwin Starr,2669168,2,0,0,0
+Elvis Costello,19752129,2,0,1,0
+Eminem,259741134,2,53,1,11
+England Dan & John Ford Coley,767568,2,0,0,0
+Feet,267256,2,36,1,0
+Flower Travellin' Band,617869,2,0,2,0
+Foghat,3352811,2,0,0,1
+Fountains of Wayne,10526121,2,0,0,0
+Francesca Marr,83031,2,0,0,0
+Fritz Kreisler,501703,2,55,1,1
+Froggy Fresh,140574,2,0,0,1
+FUKKIT,973626,2,0,0,0
+fun.,33264914,2,0,0,0
+G-Eazy,21579804,2,0,0,1
+George Alec,97453,2,0,0,0
+George Ezra,16696465,2,0,0,0
+Gillian Welch,6665518,2,0,0,0
+Gnash,5324647,2,0,0,0
+Grouplove,20637551,2,22,0,0
+Gum,1154116,2,0,0,0
+Happyness,858888,2,0,0,0
+Harlequin Gold,18685,2,0,0,0
+Harrison Fjord,102323,2,0,0,0
+Hey Major,1952,2,0,0,0
+Holborns,52052,2,0,0,0
+Holychild,999716,2,0,0,0
+Hot Snakes,3121007,2,111,203,0
+Houses,2211935,2,0,0,0
+Iggy Azalea,37706593,2,0,0,0
+Imogen Heap,38744684,2,0,0,0
+Iris DeMent,991335,2,0,0,0
+Jackie Hayes,148700,2,0,0,0
+Jackie Wilson,3795039,2,0,0,0
+Jaco Pastorius,3618022,2,0,17,0
+Jacob Gade,24900,2,0,0,0
+Japanese Breakfast,13441830,2,72,2,0
+Jason Mraz,66995475,2,0,0,0
+Jawbreaker,10272020,2,0,74,0
+Jay-Z,112301562,2,50,1,0
+Jeremy Messersmith,1354315,2,0,0,0
+Jerry Lee Lewis,6352659,2,0,0,1
+Jimmy Eat World,76998411,2,18,1,1
+Jimmy Ruffin,1371130,2,0,0,0
+Jimmy Smith,2744761,2,0,1,0
+Joe Jackson,5879653,2,0,0,0
+Johannes Brahms,10828352,2,23,0,0
+John Travolta,2911160,2,0,0,0
+Jonathan Richman,3732145,2,0,0,0
+JPEGMAFIA,39566909,2,141,0,0
+Justin Timberlake,85201532,2,56,1,3
+Justin Townes Earle,4016803,2,0,0,0
+Kate NV,589985,2,0,0,0
+Katy Perry,207901876,2,0,0,0
+Kero Kero Bonito,17985460,2,517,1,0
+Kultivator,37700,2,0,0,0
+Kylof Söze,111620,2,0,0,0
+Lighthouse,146462,2,0,0,0
+Lil Dicky,4531076,2,0,0,2
+LIL PUMP,6961596,2,0,0,0
+Lil' Wayne,83448681,2,0,0,7
+Linkin Park,337888977,2,0,0,0
+Lionel Richie,11535834,2,0,0,0
+Little Richard,6888333,2,0,0,0
+Little River Band,2627084,2,0,0,3
+Live Solum,214442,2,0,0,0
+Liz Phair,8829849,2,21,0,0
+LMFAO,20789856,2,0,0,0
+Loggins & Messina,1424601,2,0,0,2
+Looking Glass,1508632,2,0,3,24
+LUKEBIKE,63630,2,0,0,0
+lzr,51392,2,0,0,0
+M83,94679751,2,0,1,0
+Magazine,3478278,2,0,0,0
+Manchester Orchestra,25074712,2,0,0,0
+Mannequin Pussy,2020446,2,248,1,0
+Mary Steinbrecher,75081,2,0,0,0
+Matthew Simmons,94916,2,0,0,0
+Meat Puppets,6828219,2,0,1,0
+Meatbodies,607362,2,0,1,0
+Melanie,2128900,2,0,0,0
+Mercury Rev,7401591,2,594,0,0
+Mission of Burma,5450360,2,0,536,0
+Mitski,70168016,2,121,0,0
+Modest Mouse,136267352,2,67,4,0
+Morgan Delt,1000161,2,0,0,0
+Morrissey,59322899,2,0,0,0
+Mr. Elevator,70378,2,0,0,0
+Mumford & Sons,107374036,2,0,0,0
+Mystic Braves,768064,2,0,0,0
+Natasha Bedingfield,18801570,2,154,2,2
+Nektar,1170980,2,0,0,0
+Neutral Milk Hotel,64590699,2,26,76,0
+Nick Cave & The Bad Seeds,73473117,2,113,0,0
+Nicki Minaj,110603491,2,0,3,5
+Nina Simone,47601189,2,0,0,3
+Nirvana,267988765,2,34,451,2
+Oingo Boingo,8413287,2,0,0,0
+Orleans,878218,2,0,0,4
+Oscar Peterson Trio,3416653,2,0,2,4
+Palm,773467,2,0,0,0
+Panic! at the Disco,146100484,2,0,2,0
+Paramore,228699690,2,83,0,0
+Pat Benatar,8394467,2,0,0,0
+Paul Dukas,202994,2,0,0,0
+Perfume Genius,19596564,2,383,0,0
+Pete Seeger,2366539,2,0,0,0
+Peter & Gordon,694874,2,0,0,0
+Philip Glass,24685850,2,0,0,0
+Platinum Blonde,176910,2,0,0,0
+Prompto,306754,2,0,0,0
+PVRIS,13217829,2,0,0,0
+Ramirez,4771869,2,0,0,0
+Ramones,80231071,2,0,2,2
+Ray Noble & His Orchestra,66928,2,0,0,0
+Red Vox,1857693,2,0,0,0
+Reigning Sound,1526241,2,0,0,0
+Reptaliens,267735,2,0,0,0
+robert elovsson,156781,2,0,0,0
+Robin Thicke,15181955,2,0,0,0
+Rodrigo y Gabriela,11635696,2,0,0,0
+Roger Hodgson,643973,2,0,0,0
+Ron Fields,72828,2,0,0,0
+Rosie O'Donnell,100443,2,0,0,0
+Run–D.M.C.,2191533,2,0,0,0
+Salt Cathedral,497331,2,0,0,0
+Sam Cooke,18778330,2,0,0,2
+Scott Joplin,1223270,2,0,0,0
+Semisonic,8170024,2,0,0,0
+Shocking Blue,4325068,2,0,0,0
+sister sparrow,59905,2,0,0,0
+Skinshape,2293154,2,0,0,0
+Sloan,4115493,2,0,0,0
+Small Forward,231709,2,0,0,0
+Smokey Robinson and The Miracles,4981691,2,0,0,0
+Sneaky Pete Kleinow,54822,2,0,0,0
+Soft Cell,9650546,2,0,0,0
+Speck Joliet,17615,2,0,0,0
+Spoon,51101487,2,0,14,0
+Spose,800355,2,0,3,102
+Steppenwolf,10579851,2,0,0,2
+Steve Hackett,3578131,2,0,0,0
+Strawberry Alarm Clock,1671188,2,0,0,0
+Sublime,59538028,2,0,0,0
+Swerzie,134798,2,0,0,0
+Sxmpra,135732,2,0,0,0
+System of a Down,254621473,2,0,491,0
+The Beets,705297,2,0,0,0
+The Brian Jonestown Massacre,23499867,2,47,2,0
+The Champs,1011752,2,0,0,0
+The Claypool Lennon Delirium,983263,2,0,0,0
+The Electric Prunes,1740476,2,0,0,0
+The Glorious Sons,901361,2,0,0,0
+The Growlers,11533150,2,0,0,0
+The Guess Who,4702009,2,0,0,0
+The Hollies,9075005,2,0,0,0
+The King Khan & BBQ Show,1917916,2,0,0,0
+The Kingston Trio,1051393,2,0,0,0
+The Lemon Pipers,246589,2,0,0,0
+The Lemon Twigs,1598204,2,0,0,0
+The Louisville Orchestra,7136,2,0,0,0
+The New Pornographers,28283828,2,0,0,0
+The Osborne Brothers,231149,2,0,0,0
+The Pains of Being Pure at Heart,14734703,2,697,12,0
+The Palms,633968,2,0,0,0
+The Platters,4394507,2,0,0,0
+The Pretenders,10238861,2,0,0,0
+The Slaps,194891,2,0,0,0
+The Trammps,1550150,2,0,0,0
+The Tubes,783175,2,0,0,0
+The White Stripes,139397532,2,27,0,0
+Thom Rotella Band,4298,2,0,0,0
+Three Dog Night,4695324,2,0,0,6
+Tim Heidecker,509992,2,0,0,0
+Tom Waits,95272993,2,97,5,0
+Tommy Cash,2261858,2,0,0,0
+Toro y Moi,34117780,2,0,2,0
+Tower of Power,3554564,2,0,0,0
+Trinidad James,1004632,2,0,0,0
+TrippyThaKid,278928,2,0,0,0
+Tropical Fuck Storm,1976741,2,222,9,0
+TTRRUUCES,118334,2,0,0,0
+Tunewave,92,2,0,0,0
+Turnover,11765283,2,0,59,0
+Tyga,19942846,2,0,0,0
+Vashti Bunyan,9018798,2,0,0,0
+Vengaboys,4599071,2,0,2,0
+W.A.S.P.,17489653,2,0,0,0
+Walk the Moon,17542713,2,23,0,0
+Wallows,21952987,2,170,2,2
+We Hunt Buffalo,239011,2,0,0,0
+Ween,25131719,2,292,35,7
+White Denim,5767894,2,0,0,0
+Whitesnake,22903269,2,0,0,0
+Wishbone Ash,4206455,2,0,0,0
+Witch,1678999,2,0,8,0
+Wolf Alice,16284230,2,0,0,0
+Woods,7095948,2,0,0,0
+XATASHI,31611,2,0,0,0
+XTC,13890895,2,0,0,0
+Yellowcard,50635650,2,0,0,0
+Yiruma,15140394,2,0,0,2
+Yung Yogi,27568,2,0,0,0
+Zager & Evans,542137,2,0,0,0
+110th Street Jazz Trio,21627,1,0,0,0
+30 Seconds to Mars,118330458,1,0,0,0
+3OH!3,31850922,1,0,0,0
+5 Seconds of Summer,53002644,1,0,0,0
+50 Cent,48551937,1,0,2,12
+A Tribe Called Quest,54078687,1,21,332,0
+A&J,6021,1,0,0,0
+A$AP Rocky,88577332,1,39,2,2
+Aaron Carter,1311787,1,0,0,0
+ABC,4353247,1,0,0,0
+Academy of St. Martin in the Fields,448979,1,0,0,0
+Adam Levine,2057601,1,0,0,0
+Adebisi Shank,1533784,1,0,0,0
+Adrian Belew,1337176,1,0,0,0
+Al Bowlly,1018449,1,0,0,0
+Al Di Meola,3911744,1,0,0,0
+Al Lover,152050,1,0,0,0
+"Albert Hammond, Jr.",9886733,1,0,0,0
+Alexandra Savior,3277389,1,92,0,0
+Alexandre Desplat,20356653,1,0,0,0
+Alexisonfire,42799390,1,300,801,0
+Alfons,625650,1,0,1,0
+Alicks,1033671,1,0,0,0
+The Beths,2333755,0,3597,16,26
+Massive Attack,128777732,0,1753,203,0
+Madeon,12504295,0,1718,1,0
+Swans,30793552,0,1343,0,0
+Nilüfer Yanya,2624030,0,1165,0,0
+Sewerslvt,4571819,0,1114,0,0
+Drive Like Jehu,2559476,0,998,546,0
+Iglooghost,3034381,0,813,0,0
+Lydia,8716477,0,793,0,0
+Death Grips,65698855,0,763,104,1
+Deamn,231969,0,708,0,0
+Pronoun,356286,0,648,0,0
+dogleg,1221587,0,618,1,0
+Raveena,3439810,0,593,2,0
+Valerie June,1729550,0,586,0,0
+Copeland,17074573,0,574,0,0
+BROCKHAMPTON,93825375,0,561,65,0
+Ethan Gruska,437790,0,556,1,0
+Broken Social Scene,57206934,0,514,0,0
+Julee Cruise,3709335,0,501,0,0
+Joey Bada$$,29696609,0,492,12,10
+Caroline Rose,2003871,0,478,0,1
+Let's Eat Grandma,2585843,0,478,0,0
+Porter Robinson,18469818,0,475,48,2
+Sophie,13505160,0,471,0,0
+Rites of Spring,2839514,0,470,30,0
+Help Stamp Out Loneliness,79241,0,463,1,0
+Gabrielle Aplin,8716990,0,454,0,0
+Hüsker Dü,13913031,0,438,538,0
+Have a Nice Life,16234752,0,405,155,0
+Jessie Ware,27788145,0,403,1,0
+Blood Diamonds,671879,0,398,0,0
+HAIM,37316263,0,388,0,0
+Barrie,936081,0,383,1,0
+FKA twigs,34559071,0,379,0,0
+Faye Webster,5574540,0,377,0,0
+CunninLynguists,16825353,0,376,14,0
+slayyyter,9325235,0,375,0,0
+Yves Tumor,11965952,0,363,0,0
+Clairo,40287704,0,358,0,0
+Blanck Mass,2280898,0,356,0,0
+Cult of Luna,13269855,0,349,0,0
+Little Simz,9123758,0,342,0,2
+Tricky,31159345,0,342,16,0
+Hazel English,1440025,0,308,0,0
+no vacation,3789986,0,306,0,0
+Dance Gavin Dance,36430974,0,302,1,0
+The Microphones,23780250,0,296,189,0
+Martha,1081566,0,290,0,0
+The Blood Brothers,12344805,0,280,0,0
+Destroyer,17097225,0,277,9,0
+Girls,15496961,0,271,1,0
+Air,94739506,0,264,107,0
+Four Tet,35585356,0,262,0,1
+Fever Ray,27275418,0,255,0,0
+Gang of Youths,3730351,0,254,4,0
+The Fall of Troy,18553594,0,254,153,0
+Liturgy,2889249,0,250,0,0
+Gryffin,6673753,0,245,0,0
+The Aces,3552953,0,245,0,0
+Virtual Self,1045897,0,241,0,0
+Shellac,5693570,0,234,73,0
+Yumi Zouma,3641837,0,234,0,0
+Arcade Player,956080,0,225,1,2
+Yandere,228609,0,225,0,0
+Dead Kennedys,26511084,0,221,315,0
+Anamanaguchi,12978075,0,218,1,0
+070 Shake,5280448,0,217,0,0
+Johann Sebastian Bach,65123643,0,217,1,45
+Denzel Curry,36647604,0,216,3,15
+Waxahatchee,9238967,0,215,0,0
+Wipers,5185522,0,209,39,0
+Closure in Moscow,3730328,0,208,53,0
+SG Lewis,5584355,0,208,0,0
+Luomo,1548735,0,205,0,0
+The Mowgli's,3818615,0,204,0,0
+Petite Meller,583903,0,203,0,0
+Hannah Cohen,488214,0,201,0,0
+Matmos,2474224,0,199,0,0
+Chloe Moriondo,3462977,0,197,0,0
+Sunny Day Real Estate,10561361,0,196,21,0
+Superorganism,3171788,0,193,2,0
+Dua Lipa,114196111,0,187,1,2
+Godspeed You! Black Emperor,24098925,0,186,0,0
+One Last Wish,431412,0,186,0,0
+Snail's house,2682149,0,185,2,0
+NoName,8486861,0,181,0,0
+Janelle Monáe,31841310,0,180,0,0
+Jenevieve,737196,0,178,0,0
+Gorillaz,223835889,0,177,69,0
+Culture Shock,986944,0,176,1,2
+Danny L Harle,2107384,0,174,0,0
+The Antlers,25694554,0,174,0,0
+City of Caterpillar,1113127,0,173,1,0
+Black Eyes,1051073,0,171,10,0
+Cloud Nothings,12151422,0,170,512,0
+Doja Cat,101182748,0,167,0,0
+Bill Evans Trio,6298275,0,165,8,1
+famba,95622,0,165,0,1
+Weyes Blood,12276901,0,165,0,0
+Molly Burch,1318413,0,163,0,0
+Squarepusher,16710025,0,163,0,0
+Zomby,7435457,0,162,0,0
+The Courtneys,487550,0,160,0,0
+club night,40465,0,158,0,0
+Natalie Imbruglia,15459874,0,157,0,0
+Nails,5373464,0,156,0,0
+Ulcerate,2370992,0,156,0,0
+Lizzo,21776245,0,155,0,0
+Jamie xx,18778385,0,153,0,0
+Poppy,17602522,0,153,0,0
+Marissa Nadler,6610770,0,152,0,0
+BACKxWASH,535379,0,151,1,1
+bôa,5029740,0,150,0,1
+Hillsong United,13608589,0,149,0,0
+Indian Summer,1221871,0,149,0,0
+Polish Club,292452,0,149,0,0
+Duster,12251418,0,147,0,0
+Xiu Xiu,20451610,0,146,0,0
+M.I.A.,66381070,0,145,2,2
+I Know Leopard,213864,0,143,0,0
+Fickle Friends,2509190,0,142,1,2
+Bicep,4982498,0,141,0,0
+Low,22157609,0,140,1,0
+Everything Everything,15055368,0,137,1,0
+Kim Petras,25444517,0,137,0,0
+Shy Kids,124188,0,136,0,0
+Chastity,173484,0,135,0,0
+Clarence Clarity,3025051,0,135,0,0
+Rolling Blackouts Coastal Fever,2391582,0,135,0,0
+Hop Along,5205546,0,134,0,0
+Magdalena Bay,3584186,0,132,3,0
+Mura Masa,10219934,0,132,0,0
+Nas,64226593,0,131,0,6
+Doss,581362,0,130,2,2
+JVNA,268588,0,130,0,0
+ratboy,480179,0,130,0,0
+Dinosaur Jr.,29504988,0,129,1,0
+Weatherday,2570665,0,129,0,0
+Bibio,17373517,0,127,0,0
+Culture Abuse,873451,0,127,0,0
+Mew,32814811,0,126,267,0
+Travi$ Scott,61742894,0,124,0,0
+TOKiMONSTA,7673171,0,123,0,0
+Forth Wanderers,1193516,0,122,0,0
+Sigala,6372052,0,121,0,0
+Injury Reserve,9778012,0,120,0,0
+Blind Mr. Jones,341285,0,119,0,0
+Judas Priest,72488618,0,119,0,0
+clipping.,9629905,0,118,0,0
+Wild Nothing,20019398,0,118,0,0
+Cap'n Jazz,7621864,0,117,1,0
+Bad Moves,198246,0,116,0,0
+Oxbow,1093646,0,115,0,0
+TOPS,4299884,0,115,0,0
+Jamila Woods,1799904,0,114,0,0
+Laura Marling,33839061,0,114,0,0
+Code Orange,3708644,0,113,0,0
+Anna von Hausswolff,3120897,0,112,0,0
+Ne-Yo,29495891,0,112,0,6
+Bladee,60636684,0,111,0,0
+Zeal & Ardor,3150212,0,111,0,0
+Balthazar,7360366,0,110,0,0
+Hailee Steinfeld,11038442,0,109,0,0
+The Avalanches,30454297,0,109,79,2
+The Flaming Lips,60064717,0,109,7,0
+Antonio Vivaldi,28183793,0,108,1,4
+Bad Boy Chiller Crew,320610,0,108,7,0
+Tkay Maidza,3181149,0,108,0,0
+Dehd,1240212,0,107,0,0
+Blood Orange,26008116,0,106,0,1
+Feist,71237298,0,106,1,1
+Maren Morris,3605402,0,106,0,0
+Yukika,3343760,0,105,0,0
+Angel Du$t,1764671,0,104,0,0
+Beyoncé,213459350,0,104,1,2
+Diet Cig,1599273,0,104,0,0
+Portishead,92474658,0,104,44,0
+Stella Donnelly,2043195,0,104,0,0
+Anonymous,2020480,0,103,0,0
+Auli'i Cravalho,1799022,0,103,0,0
+Jordin Sparks,11712148,0,102,0,1
+Laurel,1857498,0,102,0,0
+Illuminati Hotties,1498790,0,101,1,0
+Genesis Owusu,1744511,0,100,1,1
+The Big Moon,1407758,0,100,0,0
+Turnstile,8501856,0,100,0,0
+Mariam the Believer,223077,0,99,0,0
+Sun Kil Moon,16329586,0,99,0,0
+Battles,16205710,0,98,2,1
+Georgia,1678589,0,98,0,0
+Justice,63469771,0,97,1,1
+mclusky,4679306,0,97,0,0
+Tierra Whack,6133885,0,97,0,0
+A Lot Like Birds,2289607,0,96,0,0
+Touché Amoré,19940049,0,96,0,0
+Doe Paoro,255190,0,95,0,0
+Young Thug,54244230,0,95,0,4
+Burzum,26559701,0,94,1,0
+J. Cole,83299644,0,94,0,7
+Musette,314210,0,94,0,0
+Widowspeak,3875999,0,93,0,0
+Jonathan,62693,0,92,0,0
+Liz Lawrence,334735,0,92,0,0
+Panda Bear,18791593,0,92,2,0
+Deltron 3030,9277592,0,91,0,0
+goat girl,1134423,0,91,0,0
+Sweet Trip,10587460,0,91,0,0
+Filmmaker,527365,0,90,0,0
+Frodus,425946,0,90,0,0
+Barely Alive,719389,0,89,0,0
+Remember Sports,1066413,0,89,0,0
+Soul Glo,251398,0,89,0,0
+Coheed and Cambria,53469229,0,88,0,0
+Max,12019670,0,88,0,0
+Pusha T,20352874,0,88,0,0
+The Nation of Ulysses,1152274,0,88,7,0
+Wilco,67754694,0,88,0,0
+Circa Survive,33002420,0,87,67,0
+Floral Tattoo,212672,0,87,0,0
+Ford.,746689,0,87,1,1
+Pixies,120305617,0,86,2,0
+Chris Keys,599662,0,85,0,0
+Algiers,1938969,0,84,0,0
+Altar of Plagues,1923900,0,84,0,0
+Twin Shadow,14089448,0,84,0,0
+Big Black,6763549,0,83,48,0
+Cressida,445982,0,83,0,0
+Ondatrópica,544423,0,83,0,0
+Rhye,13293878,0,83,0,0
+PUP,9706655,0,82,0,0
+Classixx,2502543,0,81,0,0
+Hannah Grace,120451,0,81,0,0
+Jung,415962,0,81,0,0
+Melt-Banana,6234337,0,81,0,0
+Remi Wolf,4041314,0,81,0,0
+Barely Civil,67334,0,80,0,0
+Jessy Lanza,2663060,0,80,0,0
+Kelsey Lu,2273373,0,80,0,0
+Kylie Minogue,92523858,0,80,1,3
+RVG,113991,0,80,0,0
+cosha,192483,0,79,1,1
+Mariah Carey,115892415,0,79,0,0
+Mario,8327115,0,79,2,2
+Nicole Atkins,1477524,0,79,0,0
+Svalbard,539628,0,79,0,0
+My Morning Jacket,27648006,0,78,37,8
+Autechre,24777495,0,77,0,0
+Brand New,96294380,0,77,109,0
+Elio,929956,0,77,0,0
+James Blake,60486340,0,77,0,0
+Panopticon,2323584,0,77,6,0
+Refused,13838037,0,77,177,0
+Machine Girl,7476219,0,76,0,0
+NANORAY,405567,0,76,0,0
+Lauv,33244417,0,75,0,0
+Billy Woods,3036626,0,74,0,0
+Charly Bliss,2063204,0,74,0,0
+Hum,3882199,0,74,0,0
+Regina Spektor,91475441,0,74,0,0
+Street Sects,826348,0,74,0,0
+adult mom,1341554,0,73,0,0
+Cory Wong,1318674,0,73,0,0
+Keri Hilson,11703378,0,73,2,3
+Oh Wonder,13191805,0,73,0,0
+Passion Pit,52019096,0,73,0,0
+Marching Church,494738,0,71,0,0
+Moby,102615141,0,71,0,3
+Natalia Lafourcade,8298718,0,71,0,0
+The Men,2894687,0,71,0,0
+Miasmatic Necrosis,55026,0,70,0,0
+Pile,2050996,0,70,176,0
+Saba,10967411,0,70,0,0
+SZA,51486218,0,70,0,0
+Bill Evans,15537366,0,69,10,1
+Jay Som,4219096,0,69,0,0
+Strange Ranger,421144,0,69,0,0
+Wire,17508979,0,69,0,0
+Minutemen,12579492,0,68,1154,0
+Dayglow,8370289,0,67,0,0
+Deakin,620351,0,67,0,0
+Hannah Diamond,2667847,0,67,0,0
+Roy Blair,2666302,0,67,0,0
+Adult Jazz,677308,0,66,0,0
+Mobb Deep,18747055,0,66,0,0
+Shura,4613892,0,66,0,0
+Black Eyed Peas,84518413,0,65,3,1
+Cautious Clay,2690681,0,65,1,1
+Christie Front Drive,931996,0,65,0,0
+Julia Jacklin,4039826,0,65,0,0
+The National,164583482,0,65,0,0
+Estelle,9502983,0,64,2,1
+Alicia Keys,59387085,0,63,1,2
+Avey Tare,2433321,0,63,0,0
+Farewell Poetry,50815,0,63,0,0
+Helado Negro,2465193,0,63,0,0
+Our Lady Peace,12477232,0,63,2,0
+The Verve,38339426,0,63,0,0
+Tycho,32503482,0,63,2,0
+Yola,737391,0,63,0,0
+Mazzy Star,24527230,0,62,0,0
+Converge,34987775,0,61,0,0
+Jawbox,1980662,0,61,0,0
+Susanne Sundfør,7666899,0,61,0,0
+DJ Shadow,41322629,0,60,0,0
+Pinegrove,8386573,0,60,0,0
+Traditional,2781336,0,60,0,0
+Black Breath,1700772,0,59,0,0
+Chris Stapleton,5367645,0,59,0,0
+Emperor,12422987,0,59,0,0
+Fiona Apple,57247287,0,59,0,0
+FONTAINES D.C.,4977079,0,59,0,0
+Jenny Lewis,7241825,0,59,0,0
+Protomartyr,6259205,0,59,0,0
+Sorry,1650622,0,59,0,0
+The Griswolds,1743167,0,59,0,0
+MEDHANE,895904,0,58,0,0
+Notches,29456,0,58,0,0
+Rafael Lechowski,83866,0,58,0,0
+Shinichi Suzuki,36458,0,58,0,0
+The Go! Team,14260452,0,58,0,0
+Girls Aloud,21319986,0,57,0,0
+Lift to Experience,472385,0,57,0,0
+Rustie,4683549,0,57,0,0
+George Clanton,3366683,0,56,0,0
+Ichiko Aoba,4808859,0,56,2,0
+Lady Gaga,409513944,0,56,1,0
+Maybeshewill,13122032,0,56,36,0
+Middle Kids,1484835,0,56,0,0
+NEUPINK,63925,0,56,0,0
+Clams Casino,10449427,0,55,0,0
+Dixie Chicks,11163084,0,55,0,0
+Joey Purp,1667274,0,55,0,0
+Liars,12054236,0,55,1,0
+LINGUA IGNOTA,2255086,0,55,0,0
+Space Daze,37938,0,55,0,0
+A$AP Ferg,16358176,0,54,0,1
+Kelly Clarkson,73669393,0,54,2,2
+King Princess,10939485,0,54,0,0
+Twin Forks,759623,0,54,0,0
+Young Jesus,458040,0,54,0,0
+Cut Copy,35463272,0,53,0,0
+Radical Face,13317385,0,53,0,0
+Special Interest,240112,0,53,0,0
+Uppermost,2541593,0,53,0,0
+Dear Nora,1097805,0,52,0,0
+Dirty Projectors,17951398,0,52,0,0
+Freddie Gibbs,32786797,0,52,4,1
+Marina,42959684,0,52,0,0
+Tamaryn,3037940,0,52,0,0
+The Chemical Brothers,66512874,0,52,0,0
+The Radio Dept.,25052195,0,52,0,0
+Tonight Alive,8630477,0,52,0,0
+bAnoffee,582564,0,51,0,0
+Destiny's Child,28658006,0,51,0,0
+Horsey,297048,0,51,2,1
+Local Natives,29001507,0,51,3,0
+Nazar,607496,0,51,0,0
+Porcupine Tree,82598818,0,51,0,0
+Saosin,27315360,0,51,0,0
+Tennis,12882602,0,51,0,0
+99RadioService,182696,0,50,0,0
+James Ivy,287992,0,50,0,0
+Jessie J,35610630,0,50,0,0
+Kimbra,8897309,0,50,0,0
+MIYNT,190420,0,50,0,0
+Pinkshinyultrablast,1692934,0,50,0,0
+Planning for Burial,1671455,0,50,0,0
+Rinse,56329,0,50,0,0
+Skee Mask,2074660,0,50,0,0
+SPELLLING,2122760,0,50,0,0
+Sun June,220591,0,50,0,0
+Tove Lo,50871516,0,50,0,0
+Dälek,3647852,0,49,0,0
+Jay Sean,10839640,0,49,3,2
+Lush,7977395,0,49,1,0
+Niki,6605303,0,49,0,0
+The Drums,28411074,0,49,0,0
+Beat Happening,5832377,0,48,0,0
+Big Red Machine,3655004,0,48,0,1
+Daft Punk,242817108,0,48,0,0
+Doves,19988144,0,48,0,0
+Infant Island,122183,0,48,0,0
+Public Enemy,15960152,0,48,0,0
+Teenage Fanclub,9679273,0,48,0,0
+Hannah Peel,619337,0,47,0,0
+Noel Gallagher's High Flying Birds,15434437,0,47,0,0
+Rachel Stevens,2105595,0,47,0,0
+Moses Sumney,6390991,0,46,0,0
+The Adventures,898475,0,46,0,0
+Uniform,593439,0,46,0,0
+AdriAnne Lenker,4769415,0,45,0,0
+Dan Deacon,7675752,0,45,0,0
+Jazmine Sullivan,7180622,0,45,0,0
+Soulwax,9543075,0,45,0,0
+Brian Eno,43355275,0,44,0,0
+Clutch,20742654,0,44,0,0
+Lightning Bolt,5890793,0,44,0,0
+Lotic,363727,0,44,0,0
+Maya Jones,4273,0,44,0,0
+Shame,3272305,0,44,2,0
+The Field Mice,2947157,0,44,0,0
+The Sidekicks,1124316,0,44,0,0
+Alice Boman,1059079,0,43,0,0
+Betty Who,3960602,0,43,0,0
+Cayetana,893653,0,43,0,0
+Crocodiles,2681045,0,43,0,0
+Killer Mike,4496688,0,43,0,0
+King Krule,26504758,0,43,114,0
+Liza Anne,1355306,0,43,0,0
+Old Sea Brigade,678541,0,43,0,0
+Spirit of the Beehive,1476532,0,43,0,0
+Britney Spears,245423896,0,42,3,1
+Empath,143214,0,42,0,0
+Glass Beach,2991912,0,42,0,0
+Karfagen,100573,0,42,0,0
+Kirin J Callinan,750689,0,42,0,0
+Lydia Ainsworth,457369,0,42,0,0
+the spirit of the beehive,908129,0,42,0,0
+TNGHT,2583284,0,42,0,0
+Yo La Tengo,47050332,0,42,0,0
+Against All Logic,4097868,0,41,0,0
+amaarae,1371398,0,41,0,0
+ECCO2k,13939780,0,41,0,0
+Food House,1381380,0,41,0,0
+Hot Chip,49810427,0,41,0,0
+Ibibio Sound Machine,470176,0,41,0,0
+JayKae,460135,0,41,1,0
+Planet 1999,500005,0,41,0,0
+Sampha,6551246,0,41,0,0
+squirrel flower,570697,0,41,0,0
+Sun Ra,5961338,0,41,0,0
+The Chicks,1912213,0,41,0,0
+The Sound of Animals Fighting,5376593,0,41,0,0
+Thom Yorke,34368759,0,41,0,0
+Wild Pink,580655,0,41,0,0
+Birds of Tokyo,3884998,0,40,0,0
+Cleaners From Venus,1210047,0,40,0,0
+Ellie Bleach,22886,0,40,0,0
+Eugène Ysaÿe,84020,0,40,0,0
+Halsey,82115288,0,40,0,0
+Jess Cornelius,32317,0,40,0,0
+Jesse McCartney,10263599,0,40,0,0
+Julianna Barwick,4889158,0,40,0,0
+Purple Mountains,1712736,0,40,0,0
+T.I.,35588969,0,40,2,3
+Viagra Boys,2988459,0,40,0,0
+Yung Pinch,2428887,0,40,0,0
+(Sandy) Alex G,6823194,0,39,0,0
+Choir Boy,910695,0,39,1,0
+Lianne La Havas,10340000,0,39,0,0
+Lil Darkie,6801360,0,39,0,0
+mxmtoon,7271732,0,39,0,0
+Nelly,20906196,0,39,2,2
+Ornette Coleman,3482978,0,39,0,0
+Sean Paul,21573104,0,39,3,2
+Stan Getz,12643570,0,39,5,15
+Taylor Swift,581546601,0,39,62,2
+Usher,46233295,0,39,3,0
+Anathema,56905736,0,38,0,0
+"Black Country, New Road",2652541,0,38,1,0
+Guided by Voices,26621115,0,38,2,0
+Mid-Air Thief,1969146,0,38,0,0
+Pete Rock & C.L. Smooth,4434374,0,38,0,0
+Porridge Radio,1288093,0,38,0,0
+Somi,3835868,0,38,0,0
+B.o.B,27828585,0,37,1,1
+Galantis,15091801,0,37,0,0
+I DONT KNOW HOW BUT THEY FOUND ME,8370992,0,37,0,0
+Neon Trees,14902809,0,37,0,0
+Red Velvet - IRENE & SEULGI,5645421,0,37,0,0
+Shovels & Rope,1716482,0,37,0,0
+ShyGirl,4808075,0,37,0,0
+SIE Sound Team,796806,0,37,0,0
+Swirlies,2260800,0,37,0,0
+Zara Larsson,22961394,0,37,0,0
+A. G. Cook,4347943,0,36,0,0
+Buscabulla,740926,0,36,1,0
+DRWN.,640774,0,36,0,0
+Iggy Pop,30909633,0,36,0,0
+Nujabes,32632899,0,36,0,0
+Paintamelody,161218,0,36,0,0
+R.A.P. Ferreira,1839404,0,36,0,0
+Acid Dad,156693,0,35,0,1
+Amon Tobin,28454909,0,35,0,0
+Chai,1190890,0,35,0,0
+Frances Quinlan,397557,0,35,0,0
+Galaxie 500,10550453,0,35,0,0
+Isis,23514619,0,35,0,0
+Kakkmaddafakka,4078896,0,35,0,0
+Kamasi Washington,4214805,0,35,46,4
+La Roux,35301277,0,35,0,0
+mewithoutYou,18925104,0,35,0,0
+Moz-art,5597,0,35,0,0
+Pussy Riot,550636,0,35,0,0
+Still Corners,5940767,0,35,0,0
+The Magnetic Fields,40689436,0,35,0,0
+The Pussycat Dolls,34197578,0,35,0,0
+Bear vs. Shark,4061873,0,34,13,0
+Chiodos,18906636,0,34,0,0
+Crystal Castles,115486394,0,34,0,0
+Eric B. & Rakim,5585814,0,34,0,0
+ian sweet,540902,0,34,0,0
+Jid,12051667,0,34,0,0
+Jorja Smith,16016382,0,34,2,0
+Pavement,53743773,0,34,63,0
+The Wytches,1436684,0,34,0,0
+Tirzah,2232089,0,34,0,0
+Birds of Maya,34513,0,33,1,0
+Goo Goo Dolls,40244538,0,33,1,20
+Jenny Hval,2917712,0,33,0,0
+Jessica Pratt,2865282,0,33,0,0
+Playboi Carti,111033250,0,33,0,0
+Seekae,2059538,0,33,0,0
+An Albatross,1400580,0,32,0,0
+Anna Burch,565252,0,32,0,0
+Better Oblivion Community Center,3942063,0,32,0,0
+Earl Sweatshirt,51417828,0,32,0,0
+Elza Soares,3229749,0,32,0,0
+Foxing,4926986,0,32,0,0
+Fuck Buttons,6287121,0,32,0,0
+God Help the Girl,3490143,0,32,0,0
+John McLaughlin,1698215,0,32,0,0
+Kids See Ghosts,20772744,0,32,69,1
+Margaret Glaspy,795185,0,32,0,0
+Portugal. The Man,43310210,0,32,0,0
+Postcards,119237,0,32,0,0
+Sixpence None the Richer,10475455,0,32,0,0
+Sleater-Kinney,17976009,0,32,0,0
+The Hives,40682113,0,32,0,0
+TOKYOPILL,140438,0,32,0,0
+tricot,5101760,0,32,0,0
+Vic Mensa,4170727,0,32,0,0
+Avantdale Bowling Club,303416,0,31,0,0
+Embrace,6328208,0,31,0,0
+Eve Owen,99286,0,31,0,0
+Gang Gang Dance,5974643,0,31,0,0
+Malibu Ken,787568,0,31,0,0
+MATERIAL GIRL,47815,0,31,0,0
+Norah Jones,72493090,0,31,0,0
+Rae Morris,1686100,0,31,0,0
+The Books,12156985,0,31,0,0
+The KVB,1930652,0,31,2,0
+Thursday,20328886,0,31,414,0
+Computer Magic,1155114,0,30,0,0
+Department of Eagles,6224541,0,30,167,0
+Dusty Springfield,14190068,0,30,0,1
+loote,2323124,0,30,0,0
+Robyn,43813693,0,30,0,0
+Slint,8362519,0,30,126,0
+The Chameleons,7746134,0,30,0,0
+Thundercat,22651171,0,30,111,0
+2Pac,69741325,0,29,0,3
+Acceptance,7578104,0,29,0,0
+Anna of the North,3005383,0,29,0,0
+Baths,13366670,0,29,0,0
+Cassandra Jenkins,630420,0,29,0,0
+CUB,611462,0,29,0,0
+El-P,7901123,0,29,1,0
+Kid Cudi,123291936,0,29,0,2
+Luke Temple,589929,0,29,0,0
+Sex Pistols,23996713,0,29,0,0
+Slayer,91437096,0,29,0,0
+Titus Andronicus,8180157,0,29,0,0
+A.A.L,288778,0,28,0,0
+Ablebody,47383,0,28,0,0
+BC Unidos,106616,0,28,0,0
+Desperate Journalist,370880,0,28,0,0
+eightiesheadachetape,19499,0,28,0,0
+Florist,2201583,0,28,0,0
+Georg Friedrich Händel,12004535,0,28,0,4
+Holliday Howe,34470,0,28,0,0
+LA Priest,1267512,0,28,0,0
+Poté,185300,0,28,0,0
+R. Kelly,16407629,0,28,0,0
+Slick Rick,3220192,0,28,0,0
+Swmrs,2383004,0,28,0,0
+The Passage,116118,0,28,0,0
+Vince Staples,31039409,0,28,4,11
+Washed Out,28885071,0,28,3,0
+Wild Party,1290648,0,28,0,0
+Zella Day,5796631,0,28,2,2
+Bloc Party,112506125,0,27,0,0
+Caroline Polachek,12513337,0,27,0,0
+Cat Power,68459529,0,27,1,0
+Emancipator,23672428,0,27,0,0
+Esperanza Spalding,4251667,0,27,0,0
+Leah Senior,68923,0,27,0,0
+Ludwig van Beethoven,42076100,0,27,0,0
+Nuvolascura,217022,0,27,0,0
+Pitbull,41181328,0,27,0,0
+SASSY 009,689298,0,27,0,0
+Shakira,84667447,0,27,2,0
+Soilwork,37402596,0,27,0,0
+The Jesus Lizard,5246484,0,27,24,0
+The Moondrops,11301,0,27,0,0
+Arca,17154623,0,26,0,0
+Cradle,178974,0,26,0,0
+Dizzy,848529,0,26,0,0
+friedberg,116492,0,26,0,0
+Half Waif,839142,0,26,0,0
+HMLTD,1270741,0,26,0,0
+Homeboy Sandman,1089687,0,26,1,0
+Ke$ha,102477334,0,26,2,0
+Men I Trust,13550163,0,26,497,0
+Mos Def,25465887,0,26,0,2
+Pedro the Lion,9023970,0,26,0,0
+Salem,7403669,0,26,0,0
+Tei Shi,3544343,0,26,0,0
+The Reindeer Consort,181,0,26,0,0
+the scary jokes,1051677,0,26,0,0
+The Unicorns,9997799,0,26,0,0
+Tindersticks,11381009,0,26,0,0
+Bad Brains,16112397,0,25,1,0
+Danitsa,65281,0,25,0,0
+Ellie Goulding,97204409,0,25,0,0
+goreshit,3841192,0,25,0,0
+Hanreti,17660,0,25,1,2
+Jackie Lynn,72253,0,25,0,0
+Jónsi,12246551,0,25,0,0
+katie dey,729839,0,25,0,0
+Lovers Without Borders,7435,0,25,0,0
+Nyck Caution,489250,0,25,0,0
+Otta,47848,0,25,0,0
+Screaming Females,2939435,0,25,0,0
+Sudan Archives,1472413,0,25,0,0
+Tony Molina,983821,0,25,0,0
+100 gecs,24545315,0,24,0,0
+A.C. Freazy,12749,0,24,0,0
+Alice Merton,2791871,0,24,0,0
+Blut aus Nord,5376906,0,24,0,0
+Carm,83054,0,24,0,0
+Dear SilaS,35985,0,24,0,0
+Dorian Electra,7507742,0,24,0,0
+Drunk with Pines,304,0,24,0,0
+EarthGang,5922747,0,24,1,0
+Hayley Williams,11771775,0,24,0,0
+Icona Pop,14319536,0,24,0,0
+Jack Johnson,123053477,0,24,2,80
+Makthaverskan,1502730,0,24,0,0
+Mat Zo,3074392,0,24,1577,2
+Muddy Waters,12664204,0,24,0,0
+oso oso,2412584,0,24,0,0
+Sevdaliza,6547774,0,24,0,0
+Siouxsie and the Banshees,28204378,0,24,0,0
+Tal Bachman,1812731,0,24,0,0
+Thomas Haynes Bayly,5282,0,24,0,0
+Vanessa Carlton,12357625,0,24,0,0
+A Sunny Day In Glasgow,4038776,0,23,0,0
+Avril Lavigne,137982436,0,23,1,1
+Bic Runga,2635848,0,23,0,0
+Forss,330046,0,23,0,0
+Hand Habits,424278,0,23,0,0
+Hope Sandoval & The Warm Inventions,3400202,0,23,0,0
+Janet Jackson,29674934,0,23,0,0
+Jeff Rosenstock,10971133,0,23,1,0
+OFENBACH,3009103,0,23,0,0
+Rae Sremmurd,14507059,0,23,0,0
+Snoh Aalegra,5978241,0,23,0,0
+Solange,26450495,0,23,0,0
+The Jesus and Mary Chain,30461154,0,23,0,0
+The Narrative,617143,0,23,0,0
+Thelma,41184,0,23,0,0
+Zion I,3722992,0,23,0,0
+Arcane Roots,1469741,0,22,0,0
+Avenade,165191,0,22,0,0
+Dream Wife,855100,0,22,0,0
+Edvard Grieg,8838396,0,22,0,1
+Fantasy,228017,0,22,0,0
+Jim-E Stack,950631,0,22,0,0
+Matthias Gusset,35870,0,22,0,0
+No Joy,2190412,0,22,0,0
+Nubya Garcia,593312,0,22,0,0
+Reyko,185863,0,22,0,0
+Rolo Tomassi,3856750,0,22,0,0
+Sad Alex,180272,0,22,0,0
+Sean Kingston,11473468,0,22,0,0
+Tangerine Dream,9911460,0,22,0,0
+The Body,2155169,0,22,0,0
+The Ting Tings,27131410,0,22,0,0
+TLC,14576023,0,22,0,2
+Toploader,4149359,0,22,0,2
+Trentemøller,19736857,0,22,0,0
+Vitalic,11828364,0,22,0,0
+William Black,673131,0,22,0,0
+Wu-Tang Clan,45207809,0,22,0,2
+Bauhaus,22006250,0,21,0,0
+Car Seat Headrest,37937632,0,21,33,0
+Dollshot,2304,0,21,0,0
+Explosions in the Sky,61883007,0,21,0,0
+Flying Lotus,55330284,0,21,247,1
+Gwen Stefani,39171078,0,21,3,1
+Internal Rot,259215,0,21,0,0
+Maggie Rogers,9507857,0,21,0,0
+Nine Inch Nails,199600894,0,21,0,0
+Noisia,11598228,0,21,0,0
+Stretch and Bobbito,22843,0,21,0,0
+Tamara & The Dreams,7840,0,21,0,0
+Yves Jarvis,355678,0,21,0,0
+Zebra Katz,941180,0,21,0,0
+Anderson .Paak,26428040,0,20,0,1
+Bathory,21733072,0,20,4,0
+Beautify Junkyards,91855,0,20,0,0
+Behemoth,37498623,0,20,0,0
+Celeste,4142750,0,20,0,0
+Colbie Caillat,24831323,0,20,1,1
+Dirty Three,4550510,0,20,0,0
+Hermit and the Recluse,605146,0,20,0,0
+Hillsong Worship,4256251,0,20,0,0
+I left my wallet downstairs,5650,0,20,0,0
+Jesca Hoop,1889897,0,20,0,0
+Kings Kaleidoscope,1134409,0,20,0,0
+Maria BC,13878,0,20,0,0
+Martin Solveig,9822644,0,20,0,0
+Megan Thee Stallion,31040768,0,20,0,0
+METZ,3177873,0,20,0,0
+Purity Ring,25989781,0,20,0,0
+Shontelle,3403064,0,20,0,0
+Sunshine & The Rain,8536,0,20,0,0
+Swain,719815,0,20,0,0
+Trey Songz,19656517,0,20,0,0
+WET LEG,246075,0,20,0,0
+Yung Lean,37548578,0,20,0,0
+Annie,7995718,0,19,0,0
+Black Moth Super Rainbow,12728877,0,19,1,0
+Black To Comm,465183,0,19,0,0
+Cowtools,1370,0,19,0,0
+Czarface,3908272,0,19,0,0
+Dawn Richard,2176618,0,19,0,0
+Doom,4347725,0,19,0,0
+Eartheater,3049725,0,19,0,0
+FLOWERTRUCK,56033,0,19,0,0
+Health,13227266,0,19,0,0
+Kali Uchis,49015845,0,19,0,0
+Lomelda,1550752,0,19,0,0
+Post Malone,93717957,0,19,0,16
+Q and Not U,3766042,0,19,0,0
+R.E.M.,106307455,0,19,0,0
+Rose Elinor Dougall,491048,0,19,0,0
+Still Woozy,12633538,0,19,0,5
+Stormzy,9823679,0,19,0,0
+Alice in Chains,96724502,0,18,1,0
+BDRMM,416297,0,18,0,0
+Becca Mancari,310710,0,18,0,0
+Bill Callahan,8007052,0,18,0,0
+Boy Scouts,168886,0,18,0,0
+Giveon,9403767,0,18,0,1
+Isaiah Rashad,24269487,0,18,2,0
+Luke Potter,44340,0,18,0,0
+mapleway,6118,0,18,0,0
+Orchid,7933221,0,18,0,0
+Pip Blom,453984,0,18,0,0
+Rapsody,3722323,0,18,0,0
+Rosey7,3239,0,18,0,0
+Silverstein,34580884,0,18,22,0
+Soundgarden,54224172,0,18,475,0
+Sunn O))),4931812,0,18,0,0
+Talk Talk,13794505,0,18,0,0
+Tim Hecker,20285751,0,18,0,0
+Villagers,7877123,0,18,0,0
+Will Butler,934193,0,18,0,0
+Alex Roe,224269,0,17,0,0
+Alex Winston,1809168,0,17,0,0
+Amen Dunes,3119757,0,17,1,0
+Big Baby,10420,0,17,0,0
+Broadway,2860264,0,17,0,0
+Ciara,25815004,0,17,1,1
+Davido,953644,0,17,0,0
+The Evens,1820848,0,0,435,0
+Glassjaw,11745795,0,0,313,0
+Kaskade,15356349,0,0,297,0
+Haywyre,2204019,0,0,275,0
+Built to Spill,26986926,0,0,247,0
+Weather Report,4992143,0,0,201,0
+Flume,35415596,0,0,194,0
+The Wrens,3846017,0,0,194,0
+UNKLE,33628537,0,0,193,0
+jerkcurb,540482,0,0,173,1
+Jets to Brazil,3810753,0,0,135,0
+Dabin,1844736,0,0,110,0
+Odesza,20702629,0,0,107,0
+Grabbitz,1033892,0,0,95,0
+Knife Party,9723114,0,0,95,0
+Seven Lions,6353878,0,0,90,0
+Pearl Jam,163223924,0,0,85,0
+Röyksopp,78883370,0,0,80,0
+Polvo,3258308,0,0,65,0
+Zedd,30136987,0,0,65,0
+fIREHOSE,1243079,0,0,59,0
+Koda,957696,0,0,57,2
+Sparta,6428758,0,0,57,0
+Nigel Good,293421,0,0,51,0
+Nero,20351138,0,0,49,0
+Koven.,1574290,0,0,39,0
+Eden,14972281,0,0,30,0
+Japandroids,9832306,0,0,30,0
+Miguel,21790913,0,0,28,0
+Rage Against the Machine,103336080,0,0,28,2
+ShockOne,988595,0,0,28,0
+Wolfgang Gartner,3994755,0,0,25,0
+Au5,1868867,0,0,24,0
+Homeshake,7727293,0,0,24,0
+Black Flag,21259717,0,0,23,0
+FKJ,4966032,0,0,21,0
+Armin van Buuren,43337128,0,0,20,0
+Trap City,113197,0,0,20,0
+Chance the Rapper,30979446,0,0,18,23
+Melody's Echo Chamber,7086196,0,0,17,0
+Minus the Bear,30825446,0,0,17,0
+Duke Ellington,15272059,0,0,15,2
+Karma Fields,804890,0,0,14,0
+Steve Lacy,17243678,0,0,14,0
+Dave Brubeck,8294626,0,0,13,17
+Mastodon,58079289,0,0,13,0
+ZHU,10018659,0,0,13,0
+Fractal,297839,0,0,12,0
+Jamiroquai,57844433,0,0,12,0
+Silent Rider,78826,0,0,12,0
+The Walkmen,18704827,0,0,12,0
+Freddie Hubbard,2672621,0,0,11,1
+Serj Tankian,32197628,0,0,11,0
+Tim Kasher,583960,0,0,11,0
+Anna Yvette,288411,0,0,10,0
+Bright Eyes,94278038,0,0,10,0
+Camo & Krooked,6892613,0,0,10,0
+Joyce Manor,15751883,0,0,10,0
+Rogue,1534377,0,0,9,0
+The Hotelier,5494716,0,0,9,0
+Astronaut,724196,0,0,8,0
+Home,6327379,0,0,8,0
+Puppet,827822,0,0,8,0
+Sungazer,518986,0,0,8,0
+Fred V & Grafix feat. Reija Lee,54846,0,0,7,0
+Blues Backing Tracks,11449,0,0,6,0
+Tortoise,11444291,0,0,6,0
+Wes Montgomery,5884160,0,0,6,3
+Antônio Carlos Jobim,12122341,0,0,5,5
+Daniel Rossen,849542,0,0,5,0
+Dead Letter Circus,3153533,0,0,5,0
+JinSang,6451379,0,0,5,0
+Mika,45505696,0,0,5,0
+Pegboard Nerds,4450038,0,0,5,0
+Swum,3169720,0,0,5,0
+Vulfpeck,11146504,0,0,5,0
+7 Minutes Dead,250280,0,0,4,0
+Charles Mingus,12684146,0,0,4,0
+Hellberg,1276450,0,0,4,0
+LOVING,1888222,0,0,4,0
+Noel Redding,105481,0,0,4,0
+Noisestorm,2206444,0,0,4,0
+Pendulum,76562266,0,0,4,0
+Rameses B,3972160,0,0,4,0
+Stereotronique,164012,0,0,4,0
+Tristam,3417307,0,0,4,0
+Zacari,1159422,0,0,4,0
+A Perfect Circle,82045066,0,0,3,0
+Aero Chord,1840890,0,0,3,0
+And So I Watch You From Afar,8353306,0,0,3,0
+Bedouin Soundclash,5523576,0,0,3,0
+BlocBoy JB,2557810,0,0,3,2
+Broadcast,15142788,0,0,3,0
+Chick Corea,4914028,0,0,3,0
+Eevee,4239817,0,0,3,0
+Ella Fitzgerald,33634630,0,0,3,4
+Flo Rida,37814437,0,0,3,0
+Hermitude,3286210,0,0,3,0
+Holy Wave,733359,0,0,3,0
+How to Destroy Angels,5997032,0,0,3,0
+idealism,5706555,0,0,3,0
+Jay Rock,9587915,0,0,3,1
+John Coltrane Quartet,1723321,0,0,3,0
+Lou Bega,2873080,0,0,3,0
+Made in M,1589434,0,0,3,0
+MANWOLVES,601198,0,0,3,4
+Matt Maeson,4168100,0,0,3,9
+MitiS,2626042,0,0,3,0
+Mr FijiWiji,1380375,0,0,3,0
+NAV,17065496,0,0,3,7
+Oneohtrix Point Never,16944431,0,0,3,0
+Paul Desmond,2864384,0,0,3,0
+PIXL,588427,0,0,3,0
+Ryley Walker,979211,0,0,3,0
+Singularity,298039,0,0,3,0
+SOB X RBE,2204231,0,0,3,0
+Soulja Boy,10548480,0,0,3,0
+Summer Salt,3102866,0,0,3,0
+The Zeros,191779,0,0,3,0
+Thurston Moore,4077518,0,0,3,0
+Trivecta,741919,0,0,3,0
+Tut Tut Child,990671,0,0,3,0
+Twista,6667295,0,0,3,0
+Varien,1901761,0,0,3,0
+Wayne Shorter,3895099,0,0,3,0
+Wesley Willis,792955,0,0,3,2
+Women,4192259,0,0,3,0
+Wun Two,3884973,0,0,3,0
+_tag,263412,0,0,2,0
+24kgoldn,9132776,0,0,2,3
+A L E X,2706120,0,0,2,0
+Ab-Soul,7012695,0,0,2,3
+Akon,28305769,0,0,2,0
+Alex G,13365866,0,0,2,0
+Atoms for Peace,7240462,0,0,2,0
+Aviators,1252797,0,0,2,11
+aXian,853990,0,0,2,0
+Bad Religion,74679708,0,0,2,0
+barnes blvd.,1093464,0,0,2,0
+Baroness,19583258,0,0,2,0
+Black Lips,12798542,0,0,2,0
+Blank Banshee,5247484,0,0,2,0
+Brad Mehldau,4737347,0,0,2,0
+Brookes Brothers,1534794,0,0,2,0
+bru-c,747388,0,0,2,0
+Brye,386155,0,0,2,0
+Burgundy Skies,120245,0,0,2,0
+Caesars,7809806,0,0,2,5
+Cave In,3976605,0,0,2,0
+Chad VanGaalen,6084219,0,0,2,0
+Chris Webby,2400429,0,0,2,24
+Claes Rosen,168185,0,0,2,0
+Clifford Brown,1943958,0,0,2,0
+Colleen D'Agostino,128873,0,0,2,0
+Com Truise,10046357,0,0,2,0
+Corey Feldman,62068,0,0,2,0
+Cosmo Pyke,1954077,0,0,2,0
+Damaged Bug,516133,0,0,2,0
+Daniele Luppi,440296,0,0,2,0
+Desaparecidos,3905494,0,0,2,0
+Descendents,24307671,0,0,2,0
+Dinka,857766,0,0,2,0
+Django Reinhardt,13624407,0,0,2,9
+Dobie Gray,707698,0,0,2,4
+Dot Hacker,823883,0,0,2,0
+Draper,998613,0,0,2,0
+Droptek,420360,0,0,2,0
+Dub Trio,1049509,0,0,2,0
+Eli Starr Trio,27037,0,0,2,0
+elijah who,2430559,0,0,2,0
+Eminence,529878,0,0,2,0
+Eucalyptic,201014,0,0,2,0
+Feint,5591240,0,0,2,0
+Fergie,26348263,0,0,2,0
+Flughand,1952599,0,0,2,0
+Gang of Four,11523674,0,0,2,0
+Gary Burton,819433,0,0,2,0
+George Acosta,305926,0,0,2,0
+Good Morning,3390188,0,0,2,0
+Gregory Esayan,162951,0,0,2,0
+Guy Onraet,23,0,0,2,0
+Harris Cole,1528298,0,0,2,0
+Harry Styles,77103594,0,0,2,0
+Helvetia,1593029,0,0,2,0
+Her's,6044819,0,0,2,0
+I.Y.F.F.E,107620,0,0,2,0
+Iman Omari,473315,0,0,2,0
+In Love With a Ghost,3836138,0,0,2,0
+infinite bisous,890999,0,0,2,0
+J'San,2735151,0,0,2,0
+Jimmy Buffett,6339298,0,0,2,16
+Juice WRLD,112034332,0,0,2,93
+Juventa,382813,0,0,2,0
+Kasbo,2119419,0,0,2,0
+Khruangbin,14718710,0,0,2,0
+Kshmr,2967631,0,0,2,0
+Lee Ranaldo,809124,0,0,2,0
+Leonard Peters,108083,0,0,2,0
+Les Paul,583228,0,0,2,0
+Majestic,1047860,0,0,2,0
+McCoy Tyner,2916230,0,0,2,5
+Michael Haggins,71932,0,0,2,9
+Mommy,1857926,0,0,2,0
+Mondo Drag,377427,0,0,2,0
+Mozzy,1183968,0,0,2,2
+Nafis,14634,0,0,2,0
+Natural Child,850019,0,0,2,0
+Olivia Rodrigo,77296581,0,0,2,0
+Pissed Jeans,2526654,0,0,2,0
+Plain White T's,25923300,0,0,2,2
+Popeska,306655,0,0,2,0
+Protostar,409499,0,0,2,0
+Pure Prairie League,940754,0,0,2,6
+"QUICKLY, QUICKLY",1561290,0,0,2,0
+Reina del Mar,83451,0,0,2,0
+Reverend Baron,103810,0,0,2,0
+Rich The Kid,6935172,0,0,2,0
+Riton,3194512,0,0,2,5
+Robert Elovsson Quartet,118001,0,0,2,0
+Rogue Feat. Meg Dean,6982,0,0,2,0
+Rollz,285769,0,0,2,0
+Rootkit,1054394,0,0,2,0
+Sam Barsh,171080,0,0,2,0
+ScHoolboy Q,33265991,0,0,2,0
+Seneca B,387189,0,0,2,0
+Simon J,8912,0,0,2,0
+sleepdealer,1620976,0,0,2,0
+Sonny Rollins,5334587,0,0,2,0
+Soulero,232619,0,0,2,0
+Soulforge,24607,0,0,2,0
+Sunbeam Sound Machine,926866,0,0,2,0
+Tally Hall,6664193,0,0,2,2
+Telomic,125609,0,0,2,0
+The Buttertones,1772417,0,0,2,0
+The Clientele,6475575,0,0,2,0
+The Dillinger Escape Plan,26331774,0,0,2,0
+The Rapture,15844054,0,0,2,0
+The Tides,445716,0,0,2,0
+Tommy Tutone,856396,0,0,2,0
+Triathalon,1337075,0,0,2,0
+TV on the Radio,44838028,0,0,2,0
+TwoThirds,689528,0,0,2,0
+Ty Segall Band,1533156,0,0,2,0
+Win and Woo,443047,0,0,2,0
+[bsd.u],2101222,0,0,1,0
+1-800-SUPERSTAR,308,0,0,1,0
+18 Carat Affair,2054227,0,0,1,0
+1985 Donmar Warehouse Cast,57,0,0,1,0
+2 Chainz,14771545,0,0,1,1
+369,191235,0,0,1,0
+A Place to Bury Strangers,9223254,0,0,1,0
+A$AP Mob,11057814,0,0,1,0
+Aaron James,8993,0,0,1,0
+Aeron Aether,34456,0,0,1,0
+Aeron Aether & Mango & Andre Frauenstein,515,0,0,1,0
+Afroman,4469448,0,0,1,2
+Ahe Bane,68005,0,0,1,0
+Ahmad Jamal Trio,1037659,0,0,1,0
+Alessia Cara,16795271,0,0,1,0
+Alice Coltrane,2947262,0,0,1,0
+Alma,2559495,0,0,1,0
+Alyss,92313,0,0,1,0
+Andrew Gold,982299,0,0,1,0
+Andy Williams,8008195,0,0,1,0
+Anita O'Day,2638830,0,0,1,0
+Arbour,1380438,0,0,1,0
+Art Blakey,2268936,0,0,1,0
+As Tall As Lions,6349296,0,0,1,0
+Aso,2205298,0,0,1,0
+Astrud Gilberto,8305629,0,0,1,20
+Audioslave,60477538,0,0,1,0
+Ayelle,186504,0,0,1,0
+Azedia,502126,0,0,1,0
+Baha Men,1140303,0,0,1,0
+Bakar,3726777,0,0,1,2
+Bassti,703470,0,0,1,0
+bbno$,8918422,0,0,1,13
+Beachdust,12131,0,0,1,0
+Beau Projet,123599,0,0,1,0
+Bebe Rexha,18640581,0,0,1,1
+Beirut,82878819,0,0,1,0
+Ben Folds Five,15784576,0,0,1,0
+Ben Webster,2369880,0,0,1,0
+Benny Golson and The Philadelphians,283,0,0,1,0
+Benny Goodman,5971924,0,0,1,0
+Bert H,142334,0,0,1,0
+Billie Holiday,32838019,0,0,1,2
+Billy Lemos,961566,0,0,1,0
+Billy Strayhorn,90102,0,0,1,0
+Biz Markie,1926625,0,0,1,1
+Black Atlass,1506308,0,0,1,0
+Black Grapefruit,43759,0,0,1,0
+Blackbear,28262854,0,0,1,0
+Blue Wednesday,1465905,0,0,1,0
+bluedoom,332603,0,0,1,0
+bluntone,2050046,0,0,1,0
+Bobby Helms,2631505,0,0,1,0
+Bodies of Water,942246,0,0,1,0
+Boney M.,12074898,0,0,1,19
+Bonnie Tyler,9907441,0,0,1,1
+Boom Jinx & Soundprank,7778,0,0,1,0
+Botnek,244340,0,0,1,0
+Brainiac,1085549,0,0,1,0
+Brant Bjork,4363712,0,0,1,0
+Brock Berrigan,2335557,0,0,1,0
+Bryce Dessner,349601,0,0,1,0
+Bud Powell,2746847,0,0,1,0
+Burt Bacharach,1981174,0,0,1,0
+Burt Mitchell,122692,0,0,1,0
+Busta Rhymes,18340304,0,0,1,8
+Butthole Surfers,8458152,0,0,1,0
+Buzzcocks,14533999,0,0,1,0
+Carl Arnett,456,0,0,1,0
+Case & Point,348995,0,0,1,0
+Cash Cash,7634789,0,0,1,0
+Castanets,1791990,0,0,1,0
+Charlie Barnet,397017,0,0,1,0
+Charlie Daniels Band,2048706,0,0,1,4
+Charlie Parker,11145108,0,0,1,0
+Chicane,10873428,0,0,1,0
+Chief Keef,20365193,0,0,1,2
+Chris Mazuera,1142137,0,0,1,0
+Chrome Sparks,4187752,0,0,1,0
+City Girl,3041835,0,0,1,0
+Claude Debussy,19819098,0,0,1,7
+Cole Porter,1030514,0,0,1,1
+Confusing Guy,9413,0,0,1,1
+CONRO,1264712,0,0,1,0
+Cookie Jar,147825,0,0,1,0
+Cookin Soul,1266763,0,0,1,0
+Cool Ghouls,206271,0,0,1,0
+Cosmic Gate & Andrew Bayer,22255,0,0,1,0
+Count Basie,5148155,0,0,1,0
+Crazy Frog,2211079,0,0,1,0
+Crocodylus,57553,0,0,1,0
+Daily Bread,205915,0,0,1,0
+Dakat,14216,0,0,1,0
+Danger Mouse,6503079,0,0,1,0
+Dave Grohl,468448,0,0,1,0
+Dave Guard,279,0,0,1,0
+David Fitzpatrick Trio,196337,0,0,1,0
+Dawes,5076526,0,0,1,0
+Dead Moon,1652840,0,0,1,0
+Death in Vegas,9355718,0,0,1,0
+Deem Spencer,458175,0,0,1,0
+Delayde,1005884,0,0,1,0
+Desert Sessions,6932825,0,0,1,0
+Desired,2066332,0,0,1,0
+Devaloop,372225,0,0,1,0
+DIJON,2806004,0,0,1,0
+Dillon Francis,5546958,0,0,1,0
+Dimension,1728000,0,0,1,0
+Dirty Beaches,3244414,0,0,1,0
+Dirty South,1796155,0,0,1,0
+Dizzy Gillespie,4835218,0,0,1,3
+DJ Jules,57838,0,0,1,1
+Django Django,10518849,0,0,1,0
+"Dream, Ivory",1282796,0,0,1,0
+Dreamers Delight,313836,0,0,1,0
+DripReport,607387,0,0,1,1
+DROELOE,3373026,0,0,1,0
+Duncan Sheik,2470489,0,0,1,0
+Dylan Lytle,47112,0,0,1,0
+Echosmith,6936508,0,0,1,0
+Edu.,3143,0,0,1,0
+Electric Wizard,15047810,0,0,1,0
+Electric Youth,2427910,0,0,1,0
+Elhae,577907,0,0,1,0
+Elijah Blake,436455,0,0,1,0
+Elise Magnefold,312174,0,0,1,0
+Emitt Rhodes,1074197,0,0,1,0
+Empire of the Sun,34633274,0,0,1,0
+Ennio Máno,188270,0,0,1,0
+Eugene Lambert,64412,0,0,1,0
+Faded Paper Figures,2322717,0,0,1,0
+FANTOMPOWER,1258542,0,0,1,0
+Favright,195700,0,0,1,0
+Feed Me Jack,859452,0,0,1,0
+Figub Brazlevič,281278,0,0,1,0
+Flea,262275,0,0,1,0
+Floating Points,6119781,0,0,1,0
+Flobots,8940762,0,0,1,2
+Flovry,1409441,0,0,1,0
+Francis Lai,841378,0,0,1,0
+Frank Carter & The Rattlesnakes,3455034,0,0,1,0
+Froth,626385,0,0,1,0
+fujitsu,1213770,0,0,1,0
+Fyfe,1196056,0,0,1,0
+Gal Abutbul,37724,0,0,1,0
+Generationals,5476498,0,0,1,0
+George Gershwin,3070741,0,0,1,12
+Gerry Gibbs and The Third Trio from the Sun,559,0,0,1,0
+Ghost Funk Orchestra,137369,0,0,1,0
+Ghostnaut,193162,0,0,1,0
+Gladys Knight & The Pips,4329287,0,0,1,1
+Glass Animals,42287385,0,0,1,1
+Glenn Miller,6811655,0,0,1,2
+Glimlip,808360,0,0,1,0
+Gluecifer,1671414,0,0,1,0
+Gold Celeste,467250,0,0,1,0
+Gomez,9239736,0,0,1,0
+Grandaddy,13591565,0,0,1,0
+Grant Green,3079464,0,0,1,0
+Greg Foat,165308,0,0,1,0
+Greg Kosic,10,0,0,1,0
+Grove Street Quartet,58086,0,0,1,0
+H E R B,697851,0,0,1,0
+Handbook,834250,0,0,1,0
+Hard Bass School,574278,0,0,1,3
+Hazem Beltagui,185686,0,0,1,0
+Helvetic Nerds,66087,0,0,1,0
+Henry Lindon,99932,0,0,1,0
+Hiatus Kaiyote,6223656,0,0,1,0
+Hibou,734695,0,0,1,0
+Highly Suspect,4885314,0,0,1,0
+Hiromi,1759401,0,0,1,0
+HM SURF,2587103,0,0,1,0
+Honeymoan,214741,0,0,1,0
+Hooded Fang,516404,0,0,1,0
+Hot Date,16956,0,0,1,0
+House of Pain,6362456,0,0,1,0
+HOWES3,27766,0,0,1,0
+ian noe,215603,0,0,1,0
+Illiterate,323183,0,0,1,0
+Infinity Ripple,135026,0,0,1,0
+Inner Wave,3174207,0,0,1,0
+Insan3lik3,488000,0,0,1,0
+invention_,1403053,0,0,1,0
+j^p^n,1444518,0,0,1,0
+Jacob Henry,22323,0,0,1,0
+Jaden Smith,3892836,0,0,1,0
+Jaeden Camstra,672637,0,0,1,0
+Jakob Ahlbom,461795,0,0,1,0
+James,12586944,0,0,1,0
+James Blunt,46031441,0,0,1,0
+James Jackson Jazz Trio,100864,0,0,1,0
+Jane Archer and the Reactionaries,11070,0,0,1,26
+jasper bones,88818,0,0,1,0
+jazzinuf,1399834,0,0,1,0
+JC Hopkins Biggish Band,287,0,0,1,0
+Jeremih,12216620,0,0,1,0
+Jerome Kern,54285,0,0,1,0
+Jerry Paper,1425658,0,0,1,0
+Jethimself,8008,0,0,1,0
+jhfly,1568817,0,0,1,0
+JNYR,12826,0,0,1,0
+jobii,1005687,0,0,1,0
+Joe Zawinul,396627,0,0,1,0
+John Lewis,196530,0,0,1,0
+John Mayer,129939624,0,0,1,1
+John Scofield,3685175,0,0,1,0
+Johnny Mathis,3516197,0,0,1,0
+Jonny Greenwood,5885331,0,0,1,0
+José Feliciano,3325102,0,0,1,0
+Joshua Redman,2121263,0,0,1,0
+JR Castro,50420,0,0,1,0
+Julian Lynch,1265678,0,0,1,0
+JunkieMunkie,8365,0,0,1,0
+KAN SANO,381651,0,0,1,0
+karavelo,231383,0,0,1,0
+Kashmere Stage Band,387508,0,0,1,0
+Kendall Miles,804640,0,0,1,0
+Kenny Burrell,2480604,0,0,1,0
+Kenny Rogers & The First Edition,566892,0,0,1,0
+Kevin Abstract,14717212,0,0,1,0
+Kill Paris,1360945,0,0,1,0
+"King Crimson, David Singleton",3393,0,0,1,0
+KLIM,302440,0,0,1,0
+knowmadic,1793094,0,0,1,0
+Knxwledge,7194028,0,0,1,0
+KOAN Sound,2266802,0,0,1,0
+Koi Child,302034,0,0,1,0
+Kollavinilika,4978,0,0,1,0
+kori,57094,0,0,1,0
+L'indécis,1365222,0,0,1,0
+Las Rosas,49972,0,0,1,0
+Laszlo,730167,0,0,1,0
+Laurie Sharon Quartet,39913,0,0,1,0
+Leftfield,8103721,0,0,1,0
+Leona Lewis,29435050,0,0,1,2
+Lester Young,2612711,0,0,1,0
+Light Bin,80493,0,0,1,0
+Light of Sun,120280,0,0,1,0
+Lil B,9615605,0,0,1,8
+Lil Nas X,48017331,0,0,1,81
+LIL UZI VERT,89170465,0,0,1,2
+Limp Bizkit,83139562,0,0,1,0
+Link Wray,2601981,0,0,1,0
+Living Colour,4778226,0,0,1,0
+lōland,415945,0,0,1,0
+Low Strung,17316,0,0,1,0
+Luigi Valentino,74052,0,0,1,0
+Luiz Bonfá,1729199,0,0,1,12
+Lungfish,1337528,0,0,1,0
+LVNDVN,43014,0,0,1,0
+M. Ward,21340407,0,0,1,0
+Madonna,190827122,0,0,1,5
+Magnus Ringblom Quartet,177683,0,0,1,0
+Mal Waldron,418525,0,0,1,0
+Marcos Valle,2778710,0,0,1,0
+Marcy Playground,5923910,0,0,1,0
+Marquis Hill,118549,0,0,1,0
+Mary J. Blige,18484299,0,0,1,2
+Matt Black,29302,0,0,1,0
+Matt Champion,1267642,0,0,1,0
+Matt Lange,750993,0,0,1,0
+Zac Brown Band,11708480,0,0,0,80
+Miracle Tones,5987775,0,0,0,77
+Tai Verdes,1702242,0,0,0,68
+Joji,68235049,0,0,0,62
+Polo G,28944515,0,0,0,47
+Certified Lover Boy,2662,0,0,0,44
+Nat King Cole,23040183,0,0,0,36
+Ryan Caraveo,1618225,0,0,0,34
+Rich Brian,10735759,0,0,0,33
+Tiagz,376643,0,0,0,32
+SonReal,648385,0,0,0,29
+Chris de Burgh,5630733,0,0,0,26
+Miracle of Sound,4538059,0,0,0,26
+U.S. Drill Sergeant Field Recordings,24187,0,0,0,26
+Token,1334378,0,0,0,20
+The Nitty Gritty Dirt Band,1966316,0,0,0,18
+Willie Nelson,14796990,0,0,0,18
+The Arrogant Worms,908421,0,0,0,17
+Quinn XCII,6660642,0,0,0,16
+AK,1663154,0,0,0,15
+Future,74080144,0,0,0,15
+Gipsy Kings,9141446,0,0,0,15
+Nate Lesco,5264,0,0,0,15
+The U.S. Army Airborne Rangers,5775,0,0,0,15
+Tom Misch,9602257,0,0,0,15
+Marty Robbins,4644567,0,0,0,14
+Shotgun Willy,1046464,0,0,0,14
+SurFaces,5479194,0,0,0,14
+TOKYO’S REVENGE,2558595,0,0,0,14
+Akira The Don,752382,0,0,0,13
+BabyJake,737142,0,0,0,13
+South Park Mexican,829833,0,0,0,13
+The U.S. Marines,8670,0,0,0,13
+Roger Miller,1928145,0,0,0,12
+Bryce Vine,3421871,0,0,0,11
+Mick Konstantin,20251,0,0,0,11
+Tennessee Ernie Ford,1093587,0,0,0,11
+Twiddle,350207,0,0,0,11
+88Rising,8862125,0,0,0,10
+Doris Day,5288908,0,0,0,10
+Josh A,7086564,0,0,0,10
+Tech N9ne,19505737,0,0,0,10
+Toby Keith,9441922,0,0,0,10
+YNW Melly,10353622,0,0,0,10
+21 Savage,39262588,0,0,0,9
+Andy Mineo,1231624,0,0,0,9
+Blue Scholars,3956455,0,0,0,9
+Chip Boaz,134,0,0,0,9
+Corb Lund,846047,0,0,0,9
+Hopsin,5502471,0,0,0,9
+Jim Breuer,75213,0,0,0,9
+Louis Armstrong,29727412,0,0,0,9
+DaBaby,22344772,0,0,0,8
+Franz Liszt,8883509,0,0,0,8
+Great Big Sea,4042502,0,0,0,8
+Jimmy Cliff,6131306,0,0,0,8
+KOTA The Friend,6513201,0,0,0,8
+Lynyrd Skynyrd,36451974,0,0,0,8
+Natalie Cole,4383795,0,0,0,8
+Pop Smoke,47148543,0,0,0,8
+Radioclub,15953,0,0,0,8
+Sad Frosty,366264,0,0,0,8
+Glen Campbell,4761422,0,0,0,7
+JASIAH,2667040,0,0,0,7
+João Gilberto,9739033,0,0,0,7
+Ornella Vanoni,797190,0,0,0,7
+Piero Umiliani,1536968,0,0,0,7
+Steve Earle,6443620,0,0,0,7
+The Longest Johns,1401805,0,0,0,7
+The Righteous Brothers,4050008,0,0,0,7
+The Seige,568647,0,0,0,7
+tobi lou,3767807,0,0,0,7
+YNG Martyr,633407,0,0,0,7
+AL-X The Great,152767,0,0,0,6
+Andrea Bocelli,10301233,0,0,0,6
+Kenny G,6041126,0,0,0,6
+khai dreams,5673099,0,0,0,6
+Kid Quill,646590,0,0,0,6
+Looptroop Rockers,2318324,0,0,0,6
+Myriam Alter,86989,0,0,0,6
+Tom MacDonald,1026344,0,0,0,6
+ceo@business.net,398619,0,0,0,5
+Daði Freyr,2166245,0,0,0,5
+Fall Out Boy,177479665,0,0,0,5
+Hagood Hardy,47670,0,0,0,5
+Iamjakehill,4327236,0,0,0,5
+Internet Money,8158146,0,0,0,5
+John Williams,46241406,0,0,0,5
+King Harvest,1428140,0,0,0,5
+Mario Biondi,648104,0,0,0,5
+Motörhead,69920398,0,0,0,5
+Old Crow Medicine Show,7266897,0,0,0,5
+Rezz,2655397,0,0,0,5
+Rubén González,1038954,0,0,0,5
+Sidney Bechet,2036693,0,0,0,5
+Stompin' Tom Connors,193153,0,0,0,5
+Tex Williams,139814,0,0,0,5
+xxxtentacion,77945479,0,0,0,5
+Alan Watts,583218,0,0,0,4
+Bfb Da Packman,233716,0,0,0,4
+Blues Traveler,5456849,0,0,0,4
+Buffalo Springfield,10055489,0,0,0,4
+Dion,3242433,0,0,0,4
+DJ Antoine,4373093,0,0,0,4
+DJ Chose,187548,0,0,0,4
+Dreamville,9929638,0,0,0,4
+Else,707891,0,0,0,4
+Everyone you know,748905,0,0,0,4
+Futuristic,884179,0,0,0,4
+Gene Autry,2105778,0,0,0,4
+Hoodie Allen,7441311,0,0,0,4
+ilyTOMMY,2122358,0,0,0,4
+JOYNER LUCAS,7377745,0,0,0,4
+Marshmello,21017018,0,0,0,4
+Papik,271022,0,0,0,4
+Roy Rogers,178308,0,0,0,4
+Sol,1074756,0,0,0,4
+The Backseat Lovers,2343771,0,0,0,4
+The Hu,1561727,0,0,0,4
+The Irish Rovers,1914723,0,0,0,4
+The Oak Ridge Boys,753521,0,0,0,4
+The Wood Brothers,1957703,0,0,0,4
+Trippie Redd,46256265,0,0,0,4
+Verzache,3931806,0,0,0,4
+VGR,577882,0,0,0,4
+Wax,1683436,0,0,0,4
+Waylon Jennings,6545855,0,0,0,4
+AARON TAOS,419646,0,0,0,3
+Abhi The Nomad,1336233,0,0,0,3
+Alabama,4259924,0,0,0,3
+Alan Mills,33060,0,0,0,3
+Aminé,24063781,0,0,0,3
+Aries,8100952,0,0,0,3
+Arturo Sandoval,726614,0,0,0,3
+Atmosphere,34686727,0,0,0,3
+Bazanji,1056537,0,0,0,3
+Bob Wills & His Texas Playboys,664708,0,0,0,3
+Bobby Darin,6543801,0,0,0,3
+Bread,4544056,0,0,0,3
+Burrell,12209,0,0,0,3
+Commodores,6809731,0,0,0,3
+CracMac Media,3340,0,0,0,3
+Culture Club,6947598,0,0,0,3
+D'Angelo,14913738,0,0,0,3
+Dan + Shay,5266164,0,0,0,3
+David Ferguson,62334,0,0,0,3
+Days N' Daze,1172866,0,0,0,3
+DJ Blyatman,1250856,0,0,0,3
+Dr. Hook,2643654,0,0,0,3
+EKOH,306793,0,0,0,3
+ERIICE,24063,0,0,0,3
+Felix Cartal,1990343,0,0,0,3
+Five Finger Death Punch,50316211,0,0,0,3
+Five Man Electrical Band,168804,0,0,0,3
+Focus,3735065,0,0,0,3
+Franz Schubert,11389629,0,0,0,3
+gianni & kyle,1719065,0,0,0,3
+Harry Mack,157173,0,0,0,3
+Higher Brothers,1135337,0,0,0,3
+Ice-T,2060576,0,0,0,3
+Jakey,1284478,0,0,0,3
+Jimmy Dean,284549,0,0,0,3
+Johnny Horton,1077037,0,0,0,3
+Judy Garland,3474247,0,0,0,3
+Kenndog,242272,0,0,0,3
+Kenny Rogers,5131273,0,0,0,3
+Kryple,2207,0,0,0,3
+KYLE,6740233,0,0,0,3
+Lil Boom,412244,0,0,0,3
+Lil Loaded,1706741,0,0,0,3
+Lullaby House Music,1939,0,0,0,3
+NLE Choppa,7683539,0,0,0,3
+Offset,6611453,0,0,0,3
+Paul Brandt,422961,0,0,0,3
+Princess Chelsea,2891165,0,0,0,3
+Rare Americans,965938,0,0,0,3
+Rav,2859769,0,0,0,3
+Sir Mix-A-Lot,1911907,0,0,0,3
+SKI MASK THE SLUMP GOD,19299279,0,0,0,3
+Snoop Dogg,46800762,0,0,0,3
+Starland Vocal Band,386558,0,0,0,3
+Stealers Wheel,4107691,0,0,0,3
+Steve Tyrell,817766,0,0,0,3
+Sugs,48777,0,0,0,3
+The Carter Family,1523213,0,0,0,3
+The Ink Spots,5143214,0,0,0,3
+The Statler Brothers,1896292,0,0,0,3
+The Taxpayers,1422045,0,0,0,3
+Timo Krantz,455874,0,0,0,3
+Tony Bennett,10974238,0,0,0,3
+Twisted Insane,349712,0,0,0,3
+Vance Joy,20954342,0,0,0,3
+Vitamin String Quartet,9706666,0,0,0,3
+Vitas,969564,0,0,0,3
+War,4184975,0,0,0,3
+Whethan,4637115,0,0,0,3
+Young Dolph,3454041,0,0,0,3
+Young Jeezy,16772109,0,0,0,3
+Yung Craka,84246,0,0,0,3
+$NOT,11640469,0,0,0,2
+1NONLY,2652928,0,0,0,2
+Ace Hood,4977908,0,0,0,2
+Al Green,20951242,0,0,0,2
+Alanis Morissette,53002919,0,0,0,2
+Alec King,174227,0,0,0,2
+Arizona Zervas,4925253,0,0,0,2
+AronChupa,2528690,0,0,0,2
+Art Pepper,2018119,0,0,0,2
+Bahamas,6067944,0,0,0,2
+Barenaked Ladies,21796048,0,0,0,2
+Benny Benassi,13784083,0,0,0,2
+Bing Crosby,13659631,0,0,0,2
+Bobby Shmurda,2583382,0,0,0,2
+Bossa Bros,11650,0,0,0,2
+Brooks Jefferson,145414,0,0,0,2
+Bubba Sparxxx,2199094,0,0,0,2
+C-Dot 416,40607,0,0,0,2
+c. henry,7672,0,0,0,2
+C.W. McCall,356913,0,0,0,2
+Cal Scruby,653530,0,0,0,2
+Cal Tjader,1652420,0,0,0,2
+Call Me Karizma,2158351,0,0,0,2
+Charles Givings,33769,0,0,0,2
+Chri$ Trill,452,0,0,0,2
+Claire Rosinkranz,1692558,0,0,0,2
+CLMD,631622,0,0,0,2
+Current Swell,1122791,0,0,0,2
+Cyndi Lauper,20733277,0,0,0,2
+Daddyphatsnaps,200739,0,0,0,2
+Danni Carlos,761288,0,0,0,2
+Danny Fernandes,309547,0,0,0,2
+Darius,2284880,0,0,0,2
+Diana Krall,21262178,0,0,0,2
+Diane Warren,175829,0,0,0,2
+Dierks Bentley,8182477,0,0,0,2
+Dimitri Vegas & Like Mike,5114948,0,0,0,2
+Dj Meetha,19009,0,0,0,2
+Dominic Fike,14042579,0,0,0,2
+Donavon Frankenreiter,8506375,0,0,0,2
+Dubskie,29650,0,0,0,2
+Dunder,2231,0,0,0,2
+Elis Regina,10338029,0,0,0,2
+Enrique Iglesias,32323033,0,0,0,2
+Erik Satie,22068162,0,0,0,2
+Etta James,15809207,0,0,0,2
+Felly,1385333,0,0,0,2
+Finger Eleven,12856419,0,0,0,2
+G Perico,255645,0,0,0,2
+Gavin DeGraw,17106681,0,0,0,2
+Gerry Rafferty,3741117,0,0,0,2
+Gloria Gaynor,4559104,0,0,0,2
+Hank Williams Jr.,2490890,0,0,0,2
+Harry James,1187796,0,0,0,2
+Hyper,2311252,0,0,0,2
+I Prevail,6816179,0,0,0,2
+IDK,6958187,0,0,0,2
+Issam Alnajjar,214477,0,0,0,2
+Iva Zanicchi,76679,0,0,0,2
+Ivan B,671798,0,0,0,2
+Jack Harlow,13561058,0,0,0,2
+Jackson Browne,9560367,0,0,0,2
+Jerry Reed,1667726,0,0,0,2
+Joe Cocker,14548968,0,0,0,2
+Johnny Rivers,1032228,0,0,0,2
+Jonathan Coulton,9599460,0,0,0,2
+Jonathan Edwards,360467,0,0,0,2
+Julie London,7989934,0,0,0,2
+Karl Blau,967677,0,0,0,2
+KC and The Sunshine Band,5180031,0,0,0,2
+Kevin Hart Latin Jazz Quintet,252,0,0,0,2
+Kid Rock,9866598,0,0,0,2
+Kidintense,109,0,0,0,2
+Kings of the River,21368,0,0,0,2
+Kodak Black,17130684,0,0,0,2
+L'Orange,1510203,0,0,0,2
+Landspeed,289458,0,0,0,2
+Lang Lang,1367578,0,0,0,2
+Lazerhawk,3790123,0,0,0,2
+Leo Sayer,1804097,0,0,0,2
+Lil Baby,30003748,0,0,0,2
+lil Mosey,9370729,0,0,0,2
+LIL PEEP,71812513,0,0,0,2
+lil ricefield,207340,0,0,0,2
+lil tjay,13600327,0,0,0,2
+Logic,41695884,0,0,0,2
+LoneMoon,184715,0,0,0,2
+Ludvigsson,79481,0,0,0,2
+Luigi Boccherini,2201544,0,0,0,2
+Luke Bryan,12093059,0,0,0,2
+Luke Combs,5321628,0,0,0,2
+Marcaux,33816,0,0,0,2
+Marian Hill,3626298,0,0,0,2
+Matt Nathanson,11760014,0,0,0,2
+Meat Loaf,12291335,0,0,0,2
+Meek Mill,19695222,0,0,0,2
+Mel McDaniel,358274,0,0,0,2
+Merle Haggard,4951057,0,0,0,2
+Mikael Arvo,87305,0,0,0,2
+N.W.A,13076579,0,0,0,2
+Nara Veloso,17685,0,0,0,2
+Nathan Le'michael,3036,0,0,0,2
+Nightshift TV,45628,0,0,0,2
+Nikolaus Harnoncourt,1139781,0,0,0,2
+No Suits,208759,0,0,0,2
+One True God,274651,0,0,0,2
+Only The Family,1661589,0,0,0,2
+Pat Metheny,7021506,0,0,0,2
+Peter Frampton,3970030,0,0,0,2
+Pink Sweat$,5499484,0,0,0,2
+Power Glove,2277457,0,0,0,2
+Prof,782756,0,0,0,2
+Quindon Tarver,403835,0,0,0,2
+Ram Jam,2838301,0,0,0,2
+Remo,41510,0,0,0,2
+Res One,27835,0,0,0,2
+Rest for the Wicked,1317,0,0,0,2
+Ricky Martin,9641156,0,0,0,2
+Ricky Nelson,3747861,0,0,0,2
+Sacha Baron Cohen,327900,0,0,0,2
+SAINt JHN,10867816,0,0,0,2
+sammy rash,90701,0,0,0,2
+Scarecrow Blues Hip Hop,63871,0,0,0,2
+Scattle,2585870,0,0,0,2
+Sérgio Mendes & Brasil '66,2385671,0,0,0,2
+Shayfer James,257387,0,0,0,2
+Slipknot,156871797,0,0,0,2
+Stan Rogers,980930,0,0,0,2
+Sterkøl,71227,0,0,0,2
+Sub Focus,10589114,0,0,0,2
+Survivor,9721912,0,0,0,2
+Swedish House Mafia,20765987,0,0,0,2
+The Boomtown Rats,2267186,0,0,0,2
+The Dreadnoughts,2721703,0,0,0,2
+The Heavy,9712290,0,0,0,2
+The Highwaymen,2846865,0,0,0,2
+The Home Depot,533632,0,0,0,2
+The Incredible String Band,1846141,0,0,0,2
+The Kingsmen,1662833,0,0,0,2
+The Spencer Lee Band,76344,0,0,0,2
+Timmy Trumpet,2863948,0,0,0,2
+Tom T. Hall,986413,0,0,0,2
+Two Feet,7499156,0,0,0,2
+Vazer,45579,0,0,0,2
+Vigiland,2015230,0,0,0,2
+Vin Jay,236146,0,0,0,2
+Wes Walker,224244,0,0,0,2
+White Town,2267257,0,0,0,2
+William Bolcom,40540,0,0,0,2
+William Wild,139702,0,0,0,2
+Xavy Rusan,80747,0,0,0,2
+YK Osiris,645865,0,0,0,2
+yxngxr1,1480567,0,0,0,2
+ZZ Top,31440437,0,0,0,2
+¡Mayday!,770523,0,0,0,1
+? and the Mysterians,821741,0,0,0,1
+.wavrunner,2551,0,0,0,1
+1990nowhere,122434,0,0,0,1
+60's 70's 80's 90's Hits,83496,0,0,0,1
+A Boogie wit da Hoodie,20279602,0,0,0,1
+A Lost People,47158,0,0,0,1
+Abril Olivera,4234,0,0,0,1
+Acker Bilk,636908,0,0,0,1
+Acoustic Hits,193224,0,0,0,1
+Adele,161568558,0,0,0,1
+ajj,8622615,0,0,0,1
+Alan Jackson,9824009,0,0,0,1
+Alexis Ffrench,1418093,0,0,0,1
+Alys,142515,0,0,0,1
+Amos Lee,11777761,0,0,0,1
+Andrew Rannells,737689,0,0,0,1
+Arden Jones,119035,0,0,0,1
+Arizona Jones,16918,0,0,0,1
+Asher Monroe,106231,0,0,0,1
+Astor Piazzolla,5402483,0,0,0,1
+Avicii,60492529,0,0,0,1
+B.J. Thomas,2009097,0,0,0,1
+Backstreet Boys,37479914,0,0,0,1
+Bandingo YGNE,149360,0,0,0,1
+Bankrol Hayden,2101069,0,0,0,1
+Barbra Streisand,8709605,0,0,0,1
+Bass Santana,1180286,0,0,0,1
+Bea Miller,8742571,0,0,0,1
+Beast in Black,2905114,0,0,0,1
+Beegie Adair,1781483,0,0,0,1
+Béla Bartók,3379492,0,0,0,1
+Ben E. King,5827509,0,0,0,1
+Benjamin Francis Leftwich,8995120,0,0,0,1
+Benny the Butcher,4905780,0,0,0,1
+Bernard Herrmann,3711325,0,0,0,1
+Betty Booom,22371,0,0,0,1
+Big & Rich,2324026,0,0,0,1
+Big Hongry,4593,0,0,0,1
+Big Sugar,467425,0,0,0,1
+Billy Cassidy,16342,0,0,0,1
+Billy Strings,578432,0,0,0,1
+Bingx,46520,0,0,0,1
+Black Rebel Motorcycle Club,38344940,0,0,0,1
+Blake Shelton,11215899,0,0,0,1
+Blastoyz,143378,0,0,0,1
+Bliss n Eso,3572587,0,0,0,1
+Blue Rodeo,1576899,0,0,0,1
+Blueface,3878141,0,0,0,1
+Blues Image,248579,0,0,0,1
+Bobby Bare,1059087,0,0,0,1
+Bobby McFerrin,4458982,0,0,0,1
+Bobby Morganstein,35583,0,0,0,1
+boy pablo,8927787,0,0,0,1
+Breaux,14449,0,0,0,1
+Brevner,21194,0,0,0,1
+Brewer & Shipley,313050,0,0,0,1
+Brooksie,249387,0,0,0,1
+Bruno Major,5230103,0,0,0,1
+Bryce Hase,57151,0,0,0,1
+Bryson Gray,55246,0,0,0,1
+C-Murder,430948,0,0,0,1
+Cab Calloway,2300142,0,0,0,1
+Cam Meekins,579367,0,0,0,1
+Capital Cities,13787740,0,0,0,1
+Cartoons,559986,0,0,0,1
+Caskey,288652,0,0,0,1
+Celtic Connection,21873,0,0,0,1
+Central Cee,2449297,0,0,0,1
+Charlie Rich,995810,0,0,0,1
+Charlie's Angels,69824,0,0,0,1
+Chelsea Cutler,4358361,0,0,0,1
+Chico Rose,656228,0,0,0,1
+Chill Bump,686771,0,0,0,1
+Chillman,13576,0,0,0,1
+Choo Jackson,50958,0,0,0,1
+Chris Janson,681200,0,0,0,1
+Chuck Sutton,154131,0,0,0,1
+Classified,2386329,0,0,0,1
+Clear Soul Forces,338698,0,0,0,1
+Clouds of Calm,41122,0,0,0,1
+Clyde Carson,421965,0,0,0,1
+Cocktail Martino,22197,0,0,0,1
+Connie Francis,7399169,0,0,0,1
+connor edwards,48204,0,0,0,1
+Cordae,4340103,0,0,0,1
+CPRCRN,9094,0,0,0,1
+Cryptic Wisdom,97787,0,0,0,1
+Cutting Crew,3653988,0,0,0,1
+Cypress Hill,36941091,0,0,0,1
+Dabbla,132253,0,0,0,1
+Dalida,2781535,0,0,0,1
+Dan Romer,1293844,0,0,0,1
+Daniel Lanois,2565453,0,0,0,1
+Darius Rucker,4616478,0,0,0,1
+davay,224738,0,0,0,1
+David Francey,175754,0,0,0,1
+David Guetta,105048312,0,0,0,1
+DDG,2063549,0,0,0,1
+Del,76870,0,0,0,1
+Denis Leary,943753,0,0,0,1
+Devan Platinum,3259,0,0,0,1
+Dilfton,4780,0,0,0,1
+Diverse Character,6009,0,0,0,1
+DJ Casper,155341,0,0,0,1
+DJ Kuba,111345,0,0,0,1
+Dj Scheme,3881203,0,0,0,1
+DMX,20548612,0,0,0,1
+Doley Bernays,33032,0,0,0,1
+Don Williams,1551764,0,0,0,1
+Donnie,929947,0,0,0,1
+Drax Project,783144,0,0,0,1
+Drive-By Truckers,8488466,0,0,0,1
+Dropkick Murphys,48439303,0,0,0,1
+DVBBS,3553465,0,0,0,1
+Dxddy Mxck,40425,0,0,0,1
+Eddie Palmieri,716770,0,0,0,1
+Eddie Vedder,33192603,0,0,0,1
+Edison Lighthouse,471683,0,0,0,1
+Édith Piaf,15281589,0,0,0,1
+Elton Britt,80243,0,0,0,1
+Ely Bruna,109883,0,0,0,1
+Emilie-Claire Barlow,782560,0,0,0,1
+Emrod,104598,0,0,0,1
+Energy,557056,0,0,0,1
+Enrico Pieranunzi,681201,0,0,0,1
+Enya,56617403,0,0,0,1
+Eric Church,8735034,0,0,0,1
+Evan Marien,54303,0,0,0,1
+Evanescence,114398997,0,0,0,1
+Exile,3724167,0,0,0,1
+Eydie Gormé,422698,0,0,0,1
+Fan Sounds for Babies,116,0,0,0,1
+Fernando Knopf,594,0,0,0,1
+Fiddler On The Roof Company,6159,0,0,0,1
+Fifth Harmony,28223419,0,0,0,1
+Fitz,129851,0,0,0,1
+Fivio Foreign,1653549,0,0,0,1
+Fliptrix,427094,0,0,0,1
+Flora Martínez,84311,0,0,0,1
+Florida Georgia Line,7432799,0,0,0,1
+Flyysoulja,13941,0,0,0,1
+Foxa,65403,0,0,0,1
+Frank & Maury,11468,0,0,0,1
+Frank Turner,24920639,0,0,0,1
+Frankie Laine,722739,0,0,0,1
+Friday Pilots Club,419056,0,0,0,1
+Frozen Ghost,65878,0,0,0,1
+Funkmaster Flex,395131,0,0,0,1
+G Herbo,4882066,0,0,0,1
+G-Unit,5809144,0,0,0,1
+G. Love & Special Sauce,5563856,0,0,0,1
+Gary Puckett & The Union Gap,612229,0,0,0,1
+Gawne,166960,0,0,0,1
+Geek Music,1103528,0,0,0,1
+Geordie Kieffer,47179,0,0,0,1
+George Benson,6954347,0,0,0,1
+George Jones,3973163,0,0,0,1
+George Strait,11609405,0,0,0,1
+Gigi D'Agostino,7791706,0,0,0,1
+Giorgio Costantini,31368,0,0,0,1
+Glass Tiger,470293,0,0,0,1
+Gloria Estefan,5033163,0,0,0,1
+Gowan,181983,0,0,0,1
+Greydon Square,346922,0,0,0,1
+Gustav Holst,2920398,0,0,0,1
+"Hamilton, Joe Frank & Reynolds",303421,0,0,0,1
+Hank Mobley,2109237,0,0,0,1
+Hank Williams,8995338,0,0,0,1
+Harry Chapin,2002153,0,0,0,1
+"Harry Connick, Jr.",5700069,0,0,0,1
+Head East,324663,0,0,0,1
+Healy,1275836,0,0,0,1
+Helion,295859,0,0,0,1
+Henry AZ,53789,0,0,0,1
+Hentai Xander,278493,0,0,0,1
+Hi-Rez,449193,0,0,0,1
+Holly Cole,1469088,0,0,0,1
+Honne,11110763,0,0,0,1
+hooligan chase,516528,0,0,0,1
+HotBoii,749712,0,0,0,1
+iann dior,13201682,0,0,0,1
+IFHT,9101,0,0,0,1
+iMAGiNARY OTHER,34735,0,0,0,1
+Imanbek,884926,0,0,0,1
+Isaak,48213,0,0,0,1
+Ishdarr,369886,0,0,0,1
+Jack Jetson,38797,0,0,0,1
+Jack Kays,504406,0,0,0,1
+Jack Stauber's Micropop,5019834,0,0,0,1
+Jackson C. Frank,3257871,0,0,0,1
+Jacky Terrasson,610445,0,0,0,1
+Jadeci,511769,0,0,0,1
+Jaisean,35481,0,0,0,1
+Jamaar,23512,0,0,0,1
+James DeAngelis,10860,0,0,0,1
+Janko Nilovic,338386,0,0,0,1
+Jarren Benton,586091,0,0,0,1
+Jarv & Thief,116351,0,0,0,1
+Jason Chen,668305,0,0,0,1
+Jazz Cartier,1322455,0,0,0,1
+Jazzanova,6882077,0,0,0,1
+Jean Sibelius,3827774,0,0,0,1
+Jeremiah Perez,3703,0,0,0,1
+Jerry Bryant,69610,0,0,0,1
+Jesse Colin Young,105128,0,0,0,1
+Jesse Stewart,125865,0,0,0,1
+Jimmy and the Pips,6775,0,0,0,1
+Joe Henderson,1922585,0,0,0,1
+Joe Nichols,3230719,0,0,0,1
+Joey Trap,1109257,0,0,0,1
+John Legend,36662728,0,0,0,1
+Johnny 2 Phones,148841,0,0,0,1
+Jorge Ben,11305643,0,0,0,1
+Joseph Beg,506784,0,0,0,1
+Joseph Jean,31,0,0,0,1
+Joseph Williams,517541,0,0,0,1
+Josh Gad,1579348,0,0,0,1
+Juicy J,8988174,0,0,0,1
+Jules Gaia,167797,0,0,0,1
+Juliana Aquino,80999,0,0,0,1
+Julius Aston,439954,0,0,0,1
+Justin Starling,149660,0,0,0,1
+Justin Stone,650120,0,0,0,1
+Justina Valentine,57490,0,0,0,1
+Justus Bennetts,439828,0,0,0,1
+K.A.A.N.,1473094,0,0,0,1
+Karen Souza,1562007,0,0,0,1
+Kay Kyser & His Orchestra,271518,0,0,0,1
+Keelow,2022,0,0,0,1
+Keith Mansfield,498409,0,0,0,1
+Keith Power,272227,0,0,0,1
+Kembe X,292908,0,0,0,1
+Kenny Chesney,13550097,0,0,0,1
+Kevin Gates,6048876,0,0,0,1
+Key Glock,3008998,0,0,0,1
+Kid Francescoli,1721943,0,0,0,1
+King Von,6351881,0,0,0,1
+Knowmads,359454,0,0,0,1
