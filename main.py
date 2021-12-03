@@ -23,7 +23,7 @@ class User:
         """
         Collect user data from the data arrays and store in attributes
 
-        Params:
+        Args:
             artist_data (np.ndarray): The data array containing artist data
             album_data (np.ndarray): The data array containing album data
             track_data (np.ndarray): The data array containing track data
@@ -75,7 +75,13 @@ def plot_mainstream(
     data = np.concatenate((artist_contributions[top_n], (other_contribs,)))
     data_labels = np.concatenate((artist_names[top_n], ("Other",)))
 
-    plt.pie(data, labels=data_labels, autopct="%1.1f%%", pctdistance=0.8)
+    # Get cmap and define anonymous function to rescale data to [0,1]
+    # Get list of colors from cmap and scaled data
+    cmap = plt.get_cmap("tab20")
+    rescale = lambda y: (y - np.min(y)) / (np.max(y) - np.min(y))
+    colors = list(map(cmap, rescale(data)))
+
+    plt.pie(data, labels=data_labels, autopct="%1.1f%%", pctdistance=0.8, colors=colors)
     plt.title(f"{user.name}'s Most Mainstream Artists")
     plt.show()
 
@@ -101,7 +107,72 @@ def similarity(user1: User, user2: User, data: np.ndarray):
 def discography_depth(user: User, data: np.ndarray):
     # Must be album_data
     # Most album listens per artist
+
+    # Filter data to where user has at least 1 scrobble of an album
     data = data[user.album_data > 1]
+    # Get a set of unique artist names
+    artists = remove_duplicates(data[:, 1].astype(str))  # Index 1 is artist column
+    # Get the indices of all albums for each unique artist
+    artist_counts = [np.argwhere(data[:, 1] == artist) for artist in artists]
+    # Length of indices list will be number of albums for that artist
+    album_counts = [len(artist_count) for artist_count in artist_counts]
+    # Get max number of albums and index for the max
+    most_albums = np.max(album_counts)
+    most_albums_idx = np.argmax(album_counts)
+    print(f"{user.name} has gone deepest on {artists[most_albums_idx]} with {most_albums} albums")
+    plot_discography_depth(user, np.array(album_counts, dtype=int), np.array(artists, dtype=str))
+
+
+def plot_discography_depth(user: User, album_counts: np.ndarray, artists: np.ndarray, n: int = 10):
+    """
+    Plot the top n artists with the most albums
+
+    Args:
+        user (User): The user object
+        album_counts (list[int]): The number of albums for each artist
+        artists: (list[str]): The artist names
+        n (int, optional): The number of artists to plot. Defaults to 10.
+    """
+    partition = np.argpartition(album_counts, -n)  # Partition so top n are sorted to end
+    top_n = partition[-n:]
+    top_n = top_n[np.argsort(album_counts[top_n])][::-1]  # Sort top n
+
+    # Limit artist names to certain length
+    artists = np.array(
+        [artist[:15] + "..." if len(artist) > 15 else artist for artist in artists], dtype=str
+    )
+
+    data = album_counts[top_n]
+    data_labels = artists[top_n]
+
+    # Get cmap and define anonymous function to rescale data to [0,1]
+    cmap = plt.get_cmap("viridis")
+    rescale = lambda y: (y - np.min(y)) / (np.max(y) - np.min(y))
+
+    plt.bar(data_labels, data, tick_label=data_labels, color=cmap(rescale(data)))
+    plt.xticks(rotation=80)
+    plt.xlabel("Artists")
+    plt.ylabel("Albums Listened To")
+    plt.title(f"{user.name}'s Deepest Discography Dives")
+    plt.grid(axis="y", linewidth=0.4)
+    plt.tight_layout()
+    plt.show()
+
+
+def remove_duplicates(data: list):
+    """Remove duplicate entries from a list, maintaining order
+
+    Args:
+        data (list): The data to filter
+
+    Returns:
+        list: Filtered data
+    """
+    seen = []
+    for item in data:
+        if item not in seen:
+            seen.append(item)
+    return seen
 
 
 def main():
@@ -123,8 +194,8 @@ def main():
     austin = User(-1, "Austin")
     austin.collect_data(artist_data, album_data, track_data)
 
-    # mainstream(jon, artist_data)
-    average_duration(jon, track_data)
+    mainstream(jon, artist_data)
+    # average_duration(jon, track_data)
     discography_depth(jon, album_data)
 
 
