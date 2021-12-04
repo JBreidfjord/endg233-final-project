@@ -36,6 +36,18 @@ class User:
         self.album_data = album_data[:, self.col_idx].astype(float)
         self.track_data = track_data[:, self.col_idx].astype(float)
 
+    def slice_data(self, data: np.ndarray) -> np.ndarray:
+        """
+        Slice the data array with user's column
+
+        Args:
+            data (np.ndarray): The data array to slice
+
+        Returns:
+            np.ndarray: The sliced data array
+        """
+        return data[:, self.col_idx].astype(float)
+
 
 def mainstream(user: User, data: np.ndarray):
     # Must be artist_data
@@ -97,11 +109,71 @@ def average_duration(user: User, data: np.ndarray):
 
 def similarity(user1: User, user2: User, data: np.ndarray):
     # Similarity in tastes between users
-    # Maybe similar to mainstream where it takes a weighted average of artists
-    # Then gives a score based on how close each contrib is
-    # Could then use mean to calculate average difference
-    # E.g. user1: [0.4, 0.5, 0.1] user2: [0.2, 0.5, 0.3] = diffs: [0.2, 0.0, -0.2]
-    ...
+    # Uses Pearson correlation coefficient
+
+    # Collect sliced data for users
+    user1_data = user1.slice_data(data)
+    user2_data = user2.slice_data(data)
+
+    # Normalize user data
+    user1_data /= np.max(user1_data)
+    user2_data /= np.max(user2_data)
+
+    # Calculate correlation coefficient matrix
+    cor_matrix = np.corrcoef(user1_data, user2_data)
+
+    diffs = abs(user1_data - user2_data)
+    filter_mask = np.concatenate((np.argwhere(user1_data != 0), np.argwhere(user2_data != 0)))
+    diffs = diffs[filter_mask]  # Filter out songs with no scrobbles
+    max_cor = np.argmin(np.abs(diffs))
+    min_cor = np.argmax(np.abs(diffs))
+
+    print(f"{user1.name} and {user2.name} have a correlation of {cor_matrix[0, 1]:.4f}")
+    print(
+        f"{data[max_cor, 0]} has the highest correlation for {user1.name} and {user2.name}",
+        f"with a difference of {diffs[max_cor][0]:.4f}",
+        f"({user1.name}: {user1_data[max_cor]:.4f}, {user2.name}: {user2_data[max_cor]:.4f})",
+    )
+    print(
+        f"{data[min_cor, 0]} has the lowest correlation for {user1.name} and {user2.name}",
+        f"with a difference of {diffs[min_cor][0]:.4f}",
+        f"({user1.name}: {user1_data[min_cor]:.4f}, {user2.name}: {user2_data[min_cor]:.4f})",
+    )
+
+    plot_similarity(user1, user2, user1_data, user2_data)
+
+
+def plot_similarity(user1: User, user2: User, user1_data: np.ndarray, user2_data: np.ndarray):
+    # Filter points where one user has 0 scrobbles
+    # Truncate floats to better group points
+    points = np.array(
+        [
+            (truncate(x, 3), truncate(y, 3))
+            for x, y in zip(user1_data, user2_data)
+            if truncate(x, 3) != 0 and truncate(y, 3) != 0
+        ]
+    )
+    user1_data = np.array([p[0] for p in points])
+    user2_data = np.array([p[1] for p in points])
+
+    # Count number of points at each point and assign color value based on count
+    colors = np.array([np.count_nonzero(points == x) for x in points])
+
+    plt.scatter(user1_data, user2_data, c=colors, cmap="viridis")
+    # Plot y=x line to show similarity
+    plt.plot(
+        [i / 10 for i in range(-1, 12)],
+        [i / 10 for i in range(-1, 12)],
+        "k",
+        linewidth=1,
+        zorder=0,
+    )
+    plt.ylim(bottom=-0.05, top=1.05)
+    plt.xlim(left=-0.05, right=1.05)
+    plt.title(f"Correlation Between {user1.name} and {user2.name}")
+    plt.xlabel(f"{user1.name}'s Scrobbles")
+    plt.ylabel(f"{user2.name}'s Scrobbles")
+    plt.show()
 
 
 def discography_depth(user: User, data: np.ndarray):
@@ -175,6 +247,19 @@ def remove_duplicates(data: list):
     return seen
 
 
+def truncate(number: float, digits: int):
+    """Truncate a number to a certain number of digits
+
+    Args:
+        number (float): The number to truncate
+        digits (int): The number of digits to keep
+
+    Returns:
+        float: The truncated number
+    """
+    return int(number * 10 ** digits) / 10 ** digits
+
+
 def main():
     # Import data
     artist_data = np.asarray(pd.read_csv("artist_data.csv", dtype=str))
@@ -194,9 +279,10 @@ def main():
     austin = User(-1, "Austin")
     austin.collect_data(artist_data, album_data, track_data)
 
-    mainstream(jon, artist_data)
+    # mainstream(jon, artist_data)
     # average_duration(jon, track_data)
-    discography_depth(jon, album_data)
+    # discography_depth(jon, album_data)
+    similarity(jon, matt, track_data)
 
 
 if __name__ == "__main__":
