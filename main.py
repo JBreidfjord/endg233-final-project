@@ -60,8 +60,9 @@ def mainstream(user: User, data: np.ndarray):
         data (np.ndarray): The data to analyze (must be artist data)
     """
     total_scrobbles = np.sum(user.artist_data)
-    play_data = data[:, 1].astype(float)  # Index 1 is total_plays column
+    play_data = data[:, 1].astype(float) / 100_000  # Index 1 is plays column, scale values down
     artist_names = data[:, 0].astype(str)  # Index 0 is artist column
+    # Calculate the weighted average of the artist's total number of plays
     artist_contributions = []
     for plays, scrobbles in zip(play_data, user.artist_data):
         scrobble_fraction = scrobbles / total_scrobbles
@@ -72,13 +73,19 @@ def mainstream(user: User, data: np.ndarray):
     # Normalize contributions to get a percentage
     artist_contributions_pct = artist_contributions / np.sum(artist_contributions)
 
+    # Get the value and index for highest contributing and least popular artists
     max_contrib = np.max(artist_contributions)
     max_contrib_idx = np.argmax(artist_contributions)
+    min_contrib = np.min(play_data[user.artist_data > 0])
+    min_contrib_idx = np.argmin(play_data[user.artist_data > 0])
     print(
-        f"\n{user.name}'s mainstream score is {np.sum(artist_contributions)}\n",
-        f"{user.name}'s most mainstream artist is ",
+        f"\n{user.name}'s mainstream score is {np.sum(artist_contributions):.2f}",
+        f"\n{user.name}'s most mainstream artist is ",
         f"'{artist_names[max_contrib_idx]}' with a contribution of ",
         f"{max_contrib:.2f} ({artist_contributions_pct[max_contrib_idx] * 100:.2f}%)",
+        f"\n{user.name}'s most obscure artist is ",
+        f"'{artist_names[user.artist_data > 0][min_contrib_idx]}' with a contribution of ",
+        f"{min_contrib:.4f} ({artist_contributions_pct[user.artist_data > 0][min_contrib_idx] * 100:.2f}%)",
         sep="",
     )
     plot_mainstream(user, artist_contributions_pct, artist_names)
@@ -97,9 +104,10 @@ def plot_mainstream(
     """
     partition = np.argpartition(artist_contributions, -n)  # Partition so top n are sorted to end
     top_n = partition[-n:]
-    other_contribs = np.sum(artist_contributions[partition[:-n]])
+    other_contribs = np.sum(artist_contributions[partition[:-n]])  # Get the sum for non-top n
     top_n = top_n[np.argsort(artist_contributions[top_n])][::-1]  # Sort top n
 
+    # Add other into data and labels for plotting
     data = np.concatenate((artist_contributions[top_n], (other_contribs,)))
     data_labels = np.concatenate((artist_names[top_n], ("Other",)))
 
@@ -115,17 +123,17 @@ def plot_mainstream(
 
 
 def average_duration(user: User, data: np.ndarray):
-    """Calculate the average duration of a user's tracks.
+    """Calculate the weighted average of the duration of a user's tracks.\n
+    Weight is number of user's scrobbles.
 
     Args:
         user (User): The user to analyze
         data (np.ndarray): The dataset to analyze (must be track data)
     """
     duration_data = data[:, 3].astype(float)  # Index 3 is duration of track
-    # Filter duration_data to songs with at least 1 scrobble by user
-    duration_data = duration_data[user.track_data > 0]
+    avg_duration = np.average(duration_data, weights=user.track_data)
 
-    print(f"\n{user.name} listens to {np.mean(duration_data):.2f} second long songs on average")
+    print(f"\n{user.name} listens to {avg_duration:.2f} second long songs on average")
 
 
 def similarity(user1: User, user2: User, data: np.ndarray):
@@ -148,9 +156,11 @@ def similarity(user1: User, user2: User, data: np.ndarray):
     # Calculate correlation coefficient matrix
     cor_matrix = np.corrcoef(user1_data, user2_data)
 
-    diffs = abs(user1_data - user2_data)
+    diffs = abs(user1_data - user2_data)  # Calculate difference between user's scrobbles
+    # Filter out songs with no scrobbles
     filter_mask = np.concatenate((np.argwhere(user1_data != 0), np.argwhere(user2_data != 0)))
-    diffs = diffs[filter_mask]  # Filter out songs with no scrobbles
+    diffs = diffs[filter_mask]
+
     max_cor = np.argmin(np.abs(diffs))
     min_cor = np.argmax(np.abs(diffs))
 
@@ -264,6 +274,7 @@ def plot_discography_depth(user: User, album_counts: np.ndarray, artists: np.nda
         [artist[:15] + "..." if len(artist) > 15 else artist for artist in artists], dtype=str
     )
 
+    # Get n album counts and artist names
     data = album_counts[top_n]
     data_labels = artists[top_n]
 
@@ -327,63 +338,70 @@ def menu(names: list[str]) -> tuple[int, tuple[int], str]:
         4: ["Tracks"],
     }
 
+    # Display menu options
     print(f"{' Analysis Options ':-^40}")
     print("1) Compare two users")
     print("2) Discography depth")
     print("3) Mainstream score")
     print("4) Average track length")
     print("0) Quit")
+    # Continue to ask for input until valid option is selected
     while (analysis_opt := input("\nEnter your numeric choice: ")) not in ["1", "2", "3", "4", "0"]:
         print("Invalid choice, please enter a numeric option from the menu")
-    else:
-        analysis_opt = int(analysis_opt)
+    # Cast option to int and return if quit was selected
+    analysis_opt = int(analysis_opt)
     if analysis_opt == 0:
         return analysis_opt, None, None  # Return type must be tuple
 
+    # If selected analysis can take different datasets, we must ask the user to select a dataset
     if len((data_types := opt_data_map[analysis_opt])) > 1:
+        # Display dataset options
         print(f"\n{' Data Types ':-^40}")
         for i, data_type in enumerate(data_types, start=1):
             print(f"{i}) {data_type}")
         print("0) Quit")
+        # Continue to ask for input until valid option is selected
         while (data_opt := input("\nEnter choice by name or number: ").lower()) not in [
             str(i) for i in range(len(data_types) + 1)
         ] + [dt.lower() for dt in data_types] + ["quit"]:
             print("Invalid choice, please enter an option from the menu")
-        else:
-            data_opt = int(data_opt) - 1 if data_opt.isdigit() else data_opt
-        if data_opt == -1 or data_opt == "quit":
-            return None, None, None
-        elif isinstance(data_opt, int):
-            data_opt = data_types[data_opt]
+        # Return if quit is selected
+        if data_opt in ["0", "quit"]:
+            return None, None, None  # Return type must be tuple
+        # Format the selected option
+        data_opt = data_types[int(data_opt) - 1] if data_opt.isdigit() else data_opt
     else:
         data_opt = opt_data_map[analysis_opt][0]
 
+    # Display user selection menu
     print(f"\n{' User Selection ':-^40}")
     for i, name in enumerate(names, start=1):
         print(f"{i}) {name}")
     print("0) Quit")
-    while (user_opt := input("\nEnter choice by name or number: ")) not in [
+    # Continue to ask for input until valid option is selected
+    while (user_opt := input("\nEnter choice by name or number: ").lower()) not in [
         str(i) for i in range(len(names) + 1)
-    ]:
-        print("Invalid choice, please enter a numeric option from the menu")
-    else:
-        user_opt = int(user_opt) - 1
-    if user_opt == -1:
-        return analysis_opt, (user_opt,), data_opt  # Return type must be tuple
+    ] + [name.lower() for name in names] + ["quit"]:
+        print("Invalid choice, please enter an option from the menu")
+    # Return if quit is selected
+    if user_opt in ["0", "quit"]:
+        return analysis_opt, (user_opt,), data_opt
+    # Format the selected option
+    user_opt = int(user_opt) - 1 if user_opt.isdigit() else names.index(user_opt.title())
 
-    if analysis_opt == 1:  # Take 2nd user input for comparison if selected
+    # If selected analysis takes multiple users, we must ask for the second user
+    if analysis_opt == 1:
         print(f"\n{' 2nd User Selection ':-^40}")
         for i, name in enumerate(names, start=1):
             print(f"{i}) {name}")
         print("0) Quit")
-        while (user2_opt := input("\nEnter choice by name or number: ")) not in [
+        while (user2_opt := input("\nEnter choice by name or number: ").lower()) not in [
             str(i) for i in range(len(names) + 1) if i != user_opt + 1
-        ]:
-            print("Invalid choice, please enter a numeric option from the menu")
-        else:
-            user2_opt = int(user2_opt) - 1
-        if user2_opt == -1:
-            return None, (user2_opt,)
+        ] + [name.lower() for name in names] + ["quit"]:
+            print("Invalid choice, please enter an option from the menu")
+        if user2_opt in ["0", "quit"]:
+            return None, (user2_opt,), data_opt  # Return type must be tuple
+        user2_opt = int(user2_opt) - 1 if user2_opt.isdigit() else names.index(user2_opt.title())
         return analysis_opt, (user_opt, user2_opt), data_opt
 
     return analysis_opt, (user_opt,), data_opt
@@ -416,6 +434,7 @@ def main():
     for user in analysis_args:  # Add data to each User
         user.collect_data(artist_data, album_data, track_data)
 
+    # Run analysis
     analysis_map[analysis_opt](*analysis_args, data_type)
 
 
