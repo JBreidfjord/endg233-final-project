@@ -156,10 +156,13 @@ def similarity(user1: User, user2: User, data: np.ndarray):
     # Calculate correlation coefficient matrix
     cor_matrix = np.corrcoef(user1_data, user2_data)
 
-    diffs = abs(user1_data - user2_data)  # Calculate difference between user's scrobbles
     # Filter out songs with no scrobbles
-    filter_mask = np.concatenate((np.argwhere(user1_data != 0), np.argwhere(user2_data != 0)))
-    diffs = diffs[filter_mask]
+    filter_mask = np.argwhere((user1_data != 0) & (user2_data != 0)).reshape(-1)
+    data = data[filter_mask]
+    user1_data = user1_data[filter_mask]
+    user2_data = user2_data[filter_mask]
+
+    diffs = abs(user1_data - user2_data)  # Calculate difference between user's scrobbles
 
     max_cor = np.argmin(np.abs(diffs))
     min_cor = np.argmax(np.abs(diffs))
@@ -167,19 +170,21 @@ def similarity(user1: User, user2: User, data: np.ndarray):
     print(f"\n{user1.name} and {user2.name} have a correlation of {cor_matrix[0, 1]:.4f}")
     print(
         f"'{data[max_cor, 0]}' has the highest correlation",
-        f"with a difference of {diffs[max_cor][0]:.4f}",
+        f"with a difference of {diffs[max_cor]:.4f}",
         f"({user1.name}: {user1_data[max_cor]:.4f}, {user2.name}: {user2_data[max_cor]:.4f})",
     )
     print(
         f"'{data[min_cor, 0]}' has the lowest correlation",
-        f"with a difference of {diffs[min_cor][0]:.4f}",
+        f"with a difference of {diffs[min_cor]:.4f}",
         f"({user1.name}: {user1_data[min_cor]:.4f}, {user2.name}: {user2_data[min_cor]:.4f})",
     )
 
-    plot_similarity(user1, user2, user1_data, user2_data)
+    plot_similarity(user1, user2, user1_data, user2_data, data)
 
 
-def plot_similarity(user1: User, user2: User, user1_data: np.ndarray, user2_data: np.ndarray):
+def plot_similarity(
+    user1: User, user2: User, user1_data: np.ndarray, user2_data: np.ndarray, data: np.ndarray
+):
     """Scatter plot showing correlation between two users.\n
     Data will be filtered to exclude points where one user has no scrobbles.\n
     Points are grouped and coloured based on how many points are in the grouping.
@@ -189,18 +194,24 @@ def plot_similarity(user1: User, user2: User, user1_data: np.ndarray, user2_data
         user2 (User): Second user to analyze, will be y data
         user1_data (np.ndarray): Data for user1
         user2_data (np.ndarray): Data for user2
+        data (np.ndarray): The dataset being analyzed
     """
-    # Filter points where one user has 0 scrobbles
     # Truncate floats to better group points
-    points = np.array(
-        [
-            (truncate(x, 3), truncate(y, 3))
-            for x, y in zip(user1_data, user2_data)
-            if truncate(x, 3) != 0 and truncate(y, 3) != 0
-        ]
-    )
+    # Filter points where truncated value is 0
+    points = [
+        (truncate(x, 3), truncate(y, 3), d)
+        for x, y, d in zip(user1_data, user2_data, data)
+        if truncate(x, 3) != 0 and truncate(y, 3) != 0
+    ]
+    # Collect data and points back from list
+    data = np.array([d for _, _, d in points])
+    points = np.array([(x, y) for x, y, _ in points])
     user1_data = np.array([p[0] for p in points])
     user2_data = np.array([p[1] for p in points])
+
+    diffs = abs(user1_data - user2_data)  # Calculate difference between user's scrobbles
+    max_cor = np.argmin(np.abs(diffs))  # Get indices of min/max correlation
+    min_cor = np.argmax(np.abs(diffs))
 
     # Count number of points at each point and assign color value based on count
     colors = np.array([np.count_nonzero(points == x) for x in points])
@@ -222,6 +233,12 @@ def plot_similarity(user1: User, user2: User, user1_data: np.ndarray, user2_data
         linewidth=1,
         zorder=0,
     )
+    # Highlight and annotate highest and lowest correlation points
+    plt.plot(*points[max_cor], "o", color="white", markeredgecolor="k", markersize=12, zorder=0)
+    plt.plot(*points[min_cor], "o", color="white", markeredgecolor="k", markersize=12, zorder=0)
+    plt.annotate(data[max_cor, 0], points[max_cor], xytext=(5, 5), textcoords="offset points")
+    plt.annotate(data[min_cor, 0], points[min_cor], xytext=(5, 5), textcoords="offset points")
+
     plt.ylim(bottom=-0.05, top=1.05)
     plt.xlim(left=-0.05, right=1.05)
     plt.title(f"Correlation Between {user1.name} and {user2.name}")
@@ -250,7 +267,8 @@ def discography_depth(user: User, data: np.ndarray):
     most_albums = np.max(album_counts)
     most_albums_idx = np.argmax(album_counts)
     print(
-        f"\n{user.name} has gone deepest on '{artists[most_albums_idx]}' with {most_albums} albums"
+        f"\n{user.name} has gone deepest on '{artists[most_albums_idx]}' with {most_albums} albums",
+        f"\n{user.name} listens to {np.mean(album_counts):.2f} albums per artist on average",
     )
     plot_discography_depth(user, np.array(album_counts, dtype=int), np.array(artists, dtype=str))
 
@@ -283,11 +301,13 @@ def plot_discography_depth(user: User, album_counts: np.ndarray, artists: np.nda
     rescale = lambda y: (y - np.min(y)) / (np.max(y) - np.min(y))
 
     plt.bar(data_labels, data, tick_label=data_labels, color=cmap(rescale(data)))
+    plt.axhline(np.mean(album_counts), color="k", label="Mean")
     plt.xticks(rotation=80)
     plt.xlabel("Artists")
     plt.ylabel("Albums Scrobbled")
     plt.title(f"{user.name}'s Deepest Discography Dives")
     plt.grid(axis="y", linewidth=0.4)
+    plt.legend()
     plt.tight_layout()
     plt.show()
 
@@ -420,7 +440,7 @@ def main():
 
     # Get user input
     analysis_opt, analysis_args, data_opt = menu(names)
-    if analysis_opt == 0 or data_opt == None or -1 in analysis_args:
+    if analysis_opt == 0 or data_opt == None or "0" in analysis_args or "quit" in analysis_args:
         print("\nGoodbye!")
         return
 
