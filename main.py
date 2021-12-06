@@ -260,15 +260,63 @@ def truncate(number: float, digits: int):
     return int(number * 10 ** digits) / 10 ** digits
 
 
+def menu(names: list[str]):
+    """Print the menu and get user input
+
+    Returns:
+        int: The user's choice
+    """
+    print(f"{' Analysis Options ':-^40}")
+    print("1) Compare two users")
+    print("2) Discography depth")
+    print("3) Mainstream score")
+    print("4) Average track length")
+    print("0) Quit")
+    while (analysis_opt := input("\nEnter your numeric choice: ")) not in ["1", "2", "3", "4", "0"]:
+        print("Invalid choice, please enter a numeric option from the menu")
+    else:
+        analysis_opt = int(analysis_opt)
+    if analysis_opt == 0:
+        return analysis_opt, None  # Return type must be tuple
+
+    print(f"\n{' User Selection ':-^40}")
+    for i, name in enumerate(names, start=1):
+        print(f"{i}) {name}")
+    print("0) Quit")
+    while (user_opt := input("\nEnter choice by name or number: ")) not in [
+        str(i) for i in range(len(names) + 1)
+    ]:
+        print("Invalid choice, please enter a numeric option from the menu")
+    else:
+        user_opt = int(user_opt) - 1
+    if user_opt == -1:
+        return None, (user_opt,)  # Return type must be tuple
+
+    if analysis_opt == 1:  # Take 2nd user input for comparison if selected
+        print(f"\n{' 2nd User Selection ':-^40}")
+        for i, name in enumerate(names, start=1):
+            print(f"{i}) {name}")
+        print("0) Quit")
+        while (user2_opt := input("\nEnter choice by name or number: ")) not in [
+            str(i) for i in range(len(names) + 1) if i != user_opt + 1
+        ]:
+            print("Invalid choice, please enter a numeric option from the menu")
+        else:
+            user2_opt = int(user2_opt) - 1
+        if user2_opt == -1:
+            return None, (user2_opt,)
+        return analysis_opt, (user_opt, user2_opt)
+
+    return analysis_opt, (user_opt,)
+
+
 def main():
     # Import data
     artist_data = np.asarray(pd.read_csv("artist_data.csv", dtype=str))
     album_data = np.asarray(pd.read_csv("album_data.csv", dtype=str))
     track_data = np.asarray(pd.read_csv("track_data.csv", dtype=str))
-
-    print("Artist Data:", "\n", artist_data, "\n")
-    print("Album Data:", "\n", album_data, "\n")
-    print("Track Data:", "\n", track_data, "\n")
+    # Get names from column headers
+    names = [name.title() for name in pd.read_csv("artist_data.csv", dtype=str).columns[-4:]]
 
     jon = User(-4, "Jon")
     jon.collect_data(artist_data, album_data, track_data)
@@ -279,10 +327,16 @@ def main():
     austin = User(-1, "Austin")
     austin.collect_data(artist_data, album_data, track_data)
 
+    # Get user input
+    analysis_opt, analysis_args = menu(names)
+    if analysis_opt == 0 or -1 in analysis_args:
+        print("\nGoodbye!")
+        return
+
     # mainstream(jon, artist_data)
     # average_duration(jon, track_data)
     # discography_depth(jon, album_data)
-    similarity(jon, matt, track_data)
+    # similarity(jon, matt, track_data)
 
 
 if __name__ == "__main__":
