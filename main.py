@@ -4,6 +4,7 @@
 import matplotlib.pyplot as plt
 import numpy as np
 import pandas as pd
+from matplotlib.lines import Line2D  # For custom legends
 
 
 class User:
@@ -169,8 +170,9 @@ def similarity(user1: User, user2: User, data: np.ndarray):
 
 
 def plot_similarity(user1: User, user2: User, user1_data: np.ndarray, user2_data: np.ndarray):
-    """Scatter plot showing correlation between two users.
-    Data will be filtered to exclude points where one user has no scrobbles.
+    """Scatter plot showing correlation between two users.\n
+    Data will be filtered to exclude points where one user has no scrobbles.\n
+    Points are grouped and coloured based on how many points are in the grouping.
 
     Args:
         user1 (User): First user to analyze, will be x data
@@ -193,7 +195,15 @@ def plot_similarity(user1: User, user2: User, user1_data: np.ndarray, user2_data
     # Count number of points at each point and assign color value based on count
     colors = np.array([np.count_nonzero(points == x) for x in points])
 
-    plt.scatter(user1_data, user2_data, c=colors, cmap="viridis")
+    # Set up points for custom legend
+    cmap = plt.get_cmap("viridis")
+    legend_elems = [
+        Line2D([0], [0], marker="o", markerfacecolor=cmap(0.1), color="w", label="Single point"),
+        Line2D([0], [0], marker="o", markerfacecolor=cmap(0.5), color="w", label="Some points"),
+        Line2D([0], [0], marker="o", markerfacecolor=cmap(1.0), color="w", label="Many points"),
+    ]
+
+    plt.scatter(user1_data, user2_data, c=colors, cmap=cmap, alpha=0.75)
     # Plot y=x line to show similarity
     plt.plot(
         [i / 10 for i in range(-1, 12)],
@@ -207,6 +217,7 @@ def plot_similarity(user1: User, user2: User, user1_data: np.ndarray, user2_data
     plt.title(f"Correlation Between {user1.name} and {user2.name}")
     plt.xlabel(f"{user1.name}'s Scrobbles")
     plt.ylabel(f"{user2.name}'s Scrobbles")
+    plt.legend(handles=legend_elems)
     plt.show()
 
 
