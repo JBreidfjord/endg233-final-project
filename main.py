@@ -19,6 +19,9 @@ class User:
         self.album_data = None
         self.track_data = None
 
+    def __repr__(self):
+        return f"User({self.name})"
+
     def collect_data(self, artist_data: np.ndarray, album_data: np.ndarray, track_data: np.ndarray):
         """
         Collect user data from the data arrays and store in attributes
@@ -67,9 +70,9 @@ def mainstream(user: User, data: np.ndarray):
     max_contrib = np.max(artist_contributions)
     max_contrib_idx = np.argmax(artist_contributions)
     print(
-        f"{user.name}'s mainstream score is {np.sum(artist_contributions)}\n",
+        f"\n{user.name}'s mainstream score is {np.sum(artist_contributions)}\n",
         f"{user.name}'s most mainstream artist is ",
-        f"{artist_names[max_contrib_idx]} with a contribution of ",
+        f"'{artist_names[max_contrib_idx]}' with a contribution of ",
         f"{max_contrib:.2f} ({artist_contributions_pct[max_contrib_idx] * 100:.2f}%)",
         sep="",
     )
@@ -104,7 +107,7 @@ def average_duration(user: User, data: np.ndarray):
     # Filter duration_data to songs with at least 1 scrobble by user
     duration_data = duration_data[user.track_data > 0]
 
-    print(f"{user.name} listens to {np.mean(duration_data):.2f} second long songs on average")
+    print(f"\n{user.name} listens to {np.mean(duration_data):.2f} second long songs on average")
 
 
 def similarity(user1: User, user2: User, data: np.ndarray):
@@ -128,14 +131,14 @@ def similarity(user1: User, user2: User, data: np.ndarray):
     max_cor = np.argmin(np.abs(diffs))
     min_cor = np.argmax(np.abs(diffs))
 
-    print(f"{user1.name} and {user2.name} have a correlation of {cor_matrix[0, 1]:.4f}")
+    print(f"\n{user1.name} and {user2.name} have a correlation of {cor_matrix[0, 1]:.4f}")
     print(
-        f"{data[max_cor, 0]} has the highest correlation for {user1.name} and {user2.name}",
+        f"'{data[max_cor, 0]}' has the highest correlation",
         f"with a difference of {diffs[max_cor][0]:.4f}",
         f"({user1.name}: {user1_data[max_cor]:.4f}, {user2.name}: {user2_data[max_cor]:.4f})",
     )
     print(
-        f"{data[min_cor, 0]} has the lowest correlation for {user1.name} and {user2.name}",
+        f"'{data[min_cor, 0]}' has the lowest correlation",
         f"with a difference of {diffs[min_cor][0]:.4f}",
         f"({user1.name}: {user1_data[min_cor]:.4f}, {user2.name}: {user2_data[min_cor]:.4f})",
     )
@@ -191,7 +194,9 @@ def discography_depth(user: User, data: np.ndarray):
     # Get max number of albums and index for the max
     most_albums = np.max(album_counts)
     most_albums_idx = np.argmax(album_counts)
-    print(f"{user.name} has gone deepest on {artists[most_albums_idx]} with {most_albums} albums")
+    print(
+        f"\n{user.name} has gone deepest on '{artists[most_albums_idx]}' with {most_albums} albums"
+    )
     plot_discography_depth(user, np.array(album_counts, dtype=int), np.array(artists, dtype=str))
 
 
@@ -224,7 +229,7 @@ def plot_discography_depth(user: User, album_counts: np.ndarray, artists: np.nda
     plt.bar(data_labels, data, tick_label=data_labels, color=cmap(rescale(data)))
     plt.xticks(rotation=80)
     plt.xlabel("Artists")
-    plt.ylabel("Albums Listened To")
+    plt.ylabel("Albums Scrobbled")
     plt.title(f"{user.name}'s Deepest Discography Dives")
     plt.grid(axis="y", linewidth=0.4)
     plt.tight_layout()
@@ -266,6 +271,14 @@ def menu(names: list[str]):
     Returns:
         int: The user's choice
     """
+    # Dict to map menu options to possible data types for analysis
+    opt_data_map = {
+        1: ["Tracks", "Albums", "Artists"],
+        2: ["Albums"],
+        3: ["Artists"],
+        4: ["Tracks"],
+    }
+
     print(f"{' Analysis Options ':-^40}")
     print("1) Compare two users")
     print("2) Discography depth")
@@ -277,7 +290,25 @@ def menu(names: list[str]):
     else:
         analysis_opt = int(analysis_opt)
     if analysis_opt == 0:
-        return analysis_opt, None  # Return type must be tuple
+        return analysis_opt, None, None  # Return type must be tuple
+
+    if len((data_types := opt_data_map[analysis_opt])) > 1:
+        print(f"{' Data Types ':-^40}")
+        for i, data_type in enumerate(data_types, start=1):
+            print(f"{i}) {data_type}")
+        print("0) Quit")
+        while (data_opt := input("\nEnter choice by name or number: ").lower()) not in [
+            str(i) for i in range(len(data_types) + 1)
+        ] + [dt.lower() for dt in data_types] + ["quit"]:
+            print("Invalid choice, please enter an option from the menu")
+        else:
+            data_opt = int(data_opt) - 1 if data_opt.isdigit() else data_opt
+        if data_opt == -1 or data_opt == "quit":
+            return None, None, None
+        elif isinstance(data_opt, int):
+            data_opt = data_types[data_opt]
+    else:
+        data_opt = opt_data_map[analysis_opt][0]
 
     print(f"\n{' User Selection ':-^40}")
     for i, name in enumerate(names, start=1):
@@ -290,7 +321,7 @@ def menu(names: list[str]):
     else:
         user_opt = int(user_opt) - 1
     if user_opt == -1:
-        return None, (user_opt,)  # Return type must be tuple
+        return analysis_opt, (user_opt,), data_opt  # Return type must be tuple
 
     if analysis_opt == 1:  # Take 2nd user input for comparison if selected
         print(f"\n{' 2nd User Selection ':-^40}")
@@ -305,9 +336,9 @@ def menu(names: list[str]):
             user2_opt = int(user2_opt) - 1
         if user2_opt == -1:
             return None, (user2_opt,)
-        return analysis_opt, (user_opt, user2_opt)
+        return analysis_opt, (user_opt, user2_opt), data_opt
 
-    return analysis_opt, (user_opt,)
+    return analysis_opt, (user_opt,), data_opt
 
 
 def main():
@@ -318,25 +349,26 @@ def main():
     # Get names from column headers
     names = [name.title() for name in pd.read_csv("artist_data.csv", dtype=str).columns[-4:]]
 
-    jon = User(-4, "Jon")
-    jon.collect_data(artist_data, album_data, track_data)
-    ico = User(-3, "Ico")
-    ico.collect_data(artist_data, album_data, track_data)
-    matt = User(-2, "Matt")
-    matt.collect_data(artist_data, album_data, track_data)
-    austin = User(-1, "Austin")
-    austin.collect_data(artist_data, album_data, track_data)
+    # Map menu options to analysis functions
+    analysis_map = {1: similarity, 2: discography_depth, 3: mainstream, 4: average_duration}
 
     # Get user input
-    analysis_opt, analysis_args = menu(names)
-    if analysis_opt == 0 or -1 in analysis_args:
+    analysis_opt, analysis_args, data_opt = menu(names)
+    if analysis_opt == 0 or data_opt == None or -1 in analysis_args:
         print("\nGoodbye!")
         return
 
-    # mainstream(jon, artist_data)
-    # average_duration(jon, track_data)
-    # discography_depth(jon, album_data)
-    # similarity(jon, matt, track_data)
+    # Get data type based on selected data option
+    data_type = (
+        artist_data if data_opt == "Artists" else album_data if data_opt == "Albums" else track_data
+    )
+
+    # Convert input to User objects
+    analysis_args = [User(i - 4, names[i]) for i in analysis_args]
+    for user in analysis_args:  # Add data to each User
+        user.collect_data(artist_data, album_data, track_data)
+
+    analysis_map[analysis_opt](*analysis_args, data_type)
 
 
 if __name__ == "__main__":
