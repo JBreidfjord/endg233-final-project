@@ -19,9 +19,6 @@ class User:
         self.album_data = None
         self.track_data = None
 
-    def __repr__(self):
-        return f"User({self.name})"
-
     def collect_data(self, artist_data: np.ndarray, album_data: np.ndarray, track_data: np.ndarray):
         """
         Collect user data from the data arrays and store in attributes
@@ -53,7 +50,14 @@ class User:
 
 
 def mainstream(user: User, data: np.ndarray):
-    # Must be artist_data
+    """Calculates the user's mainstream score.\n
+    Uses a weighted average of the artist's total number of plays where the weights
+    are the percentage of the user's total scrobbles for all artists.
+
+    Args:
+        user (User): The user to analyze
+        data (np.ndarray): The data to analyze (must be artist data)
+    """
     total_scrobbles = np.sum(user.artist_data)
     play_data = data[:, 1].astype(float)  # Index 1 is total_plays column
     artist_names = data[:, 0].astype(str)  # Index 0 is artist column
@@ -82,6 +86,14 @@ def mainstream(user: User, data: np.ndarray):
 def plot_mainstream(
     user: User, artist_contributions: np.ndarray, artist_names: list[str], n: int = 9
 ):
+    """Plot the top n artists with the highest contribution to the user's mainstream score
+
+    Args:
+        user (User): The user to analyze
+        artist_contributions (np.ndarray): The artist contributions to the user's mainstream score
+        artist_names (list[str]): The names of the artists, must be sorted with contributions
+        n (int, optional): The number of artists to plot. Defaults to 9.
+    """
     partition = np.argpartition(artist_contributions, -n)  # Partition so top n are sorted to end
     top_n = partition[-n:]
     other_contribs = np.sum(artist_contributions[partition[:-n]])
@@ -102,7 +114,12 @@ def plot_mainstream(
 
 
 def average_duration(user: User, data: np.ndarray):
-    # Must be track_data
+    """Calculate the average duration of a user's tracks.
+
+    Args:
+        user (User): The user to analyze
+        data (np.ndarray): The dataset to analyze (must be track data)
+    """
     duration_data = data[:, 3].astype(float)  # Index 3 is duration of track
     # Filter duration_data to songs with at least 1 scrobble by user
     duration_data = duration_data[user.track_data > 0]
@@ -111,9 +128,14 @@ def average_duration(user: User, data: np.ndarray):
 
 
 def similarity(user1: User, user2: User, data: np.ndarray):
-    # Similarity in tastes between users
-    # Uses Pearson correlation coefficient
+    """Calculates correlation between two user's tastes based on the given dataset.
+    Uses the Pearson correlation coefficient.
 
+    Args:
+        user1 (User): First user to analyze
+        user2 (User): Second user to analyze, must be a different user
+        data (np.ndarray): The dataset to analyze
+    """
     # Collect sliced data for users
     user1_data = user1.slice_data(data)
     user2_data = user2.slice_data(data)
@@ -147,6 +169,15 @@ def similarity(user1: User, user2: User, data: np.ndarray):
 
 
 def plot_similarity(user1: User, user2: User, user1_data: np.ndarray, user2_data: np.ndarray):
+    """Scatter plot showing correlation between two users.
+    Data will be filtered to exclude points where one user has no scrobbles.
+
+    Args:
+        user1 (User): First user to analyze, will be x data
+        user2 (User): Second user to analyze, will be y data
+        user1_data (np.ndarray): Data for user1
+        user2_data (np.ndarray): Data for user2
+    """
     # Filter points where one user has 0 scrobbles
     # Truncate floats to better group points
     points = np.array(
@@ -180,9 +211,12 @@ def plot_similarity(user1: User, user2: User, user1_data: np.ndarray, user2_data
 
 
 def discography_depth(user: User, data: np.ndarray):
-    # Must be album_data
-    # Most album listens per artist
+    """Calculates the number of unique albums scrobbled and ranks the artists
 
+    Args:
+        user (User): The user object to analyze
+        data (np.ndarray): The data to analyze (must be album data)
+    """
     # Filter data to where user has at least 1 scrobble of an album
     data = data[user.album_data > 1]
     # Get a set of unique artist names
@@ -265,11 +299,14 @@ def truncate(number: float, digits: int):
     return int(number * 10 ** digits) / 10 ** digits
 
 
-def menu(names: list[str]):
-    """Print the menu and get user input
+def menu(names: list[str]) -> tuple[int, tuple[int], str]:
+    """Print the menus and get user selections
+
+    Args:
+        names (list[str]): The names of the possible users to analyze
 
     Returns:
-        int: The user's choice
+        tuple[int, tuple[int], str]: Analysis option, index of user(s) to analyze, dataset to analyze
     """
     # Dict to map menu options to possible data types for analysis
     opt_data_map = {
@@ -293,7 +330,7 @@ def menu(names: list[str]):
         return analysis_opt, None, None  # Return type must be tuple
 
     if len((data_types := opt_data_map[analysis_opt])) > 1:
-        print(f"{' Data Types ':-^40}")
+        print(f"\n{' Data Types ':-^40}")
         for i, data_type in enumerate(data_types, start=1):
             print(f"{i}) {data_type}")
         print("0) Quit")
